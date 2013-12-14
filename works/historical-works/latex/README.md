@@ -3,10 +3,10 @@
 Latex book document structure
 =============================
 
-* \part{}
-* \chapter{}
-* \section{}
+* \part{} I.
+* \chapter{} .1
+* \section{} .)a
 * \subsection{}
 * \subsubsection{}
 * \paragraph{}
-* \subparagraph{}.
+* c\subparagraph{}.
