@@ -11,3 +11,21 @@
                {\list{}{\itshape\rightmargin\leftmargin}%
                 \item\relax}
                {\endlist}
+
+
+%\titleformat{⟨command⟩}[⟨shape⟩]
+% {⟨format⟩}
+% {⟨label⟩}
+% {⟨sep⟩}
+% {⟨before-code⟩}
+% [⟨after-code⟩]
+
+\titleformat{\chapter}[display]
+  {\sffamily\bfseries\Large}
+  {\filright\Huge\thechapter}
+  {1ex}
+  {\titlerule\vspace{1ex}\filleft}
+  [\vspace{1ex}\titlerule]
+
+  \renewcommand*\descriptionlabel[1]{\hspace\labelsep
+                                \sffamily\bfseries #1}
