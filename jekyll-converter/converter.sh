@@ -1,6 +1,13 @@
 #! /usr/bin/php
 <?php
 
+$query = '
+SELECT 
+	id,
+	titel AS title,
+	imslp
+FROM kompositionen';
+
 function query($query) {
 	$server = 'localhost';
 	$user   = 'august_hoegn';
@@ -10,7 +17,7 @@ function query($query) {
 	$conn = mysqli_connect($server, $user, $pass);
 	mysqli_select_db($conn, $dbase);
 
-	if ($result = mysqli_query($conn, "SELECT * FROM kompositionen;")) {
+	if ($result = mysqli_query($conn, $query)) {
 		$rows = array();
 		while ($row = mysqli_fetch_assoc($result)) {
 			$rows[] = $row;
@@ -23,7 +30,12 @@ function query($query) {
 }
 
 function generate_entry($key, $value) {
-	return $key . ': ' . $value . "\n";
+	if (!empty($value)) {
+		return $key . ': ' . $value . "\n";
+	} 
+	else {
+		return '';
+	}
 }
 
 function wrap($data) {
@@ -39,7 +51,7 @@ function generate_document($row) {
 }
 
 
-$rows = query("SELECT * FROM kompositionen;");
+$rows = query($query);
 
 foreach ($rows as $row) {
 	generate_document($row);
