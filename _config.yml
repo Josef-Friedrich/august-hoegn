@@ -12,6 +12,14 @@ defaults:
       type: "pages"
     values:
       layout: default
+  -
+    scope:
+      path: ""
+      type: "compositions"
+    values:
+      layout: compositions
+      metaphor_image: kompositionen
+      metaphor_text: Kompositionen
 
 exclude:
 - "*.php"
