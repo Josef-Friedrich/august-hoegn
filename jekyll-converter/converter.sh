@@ -55,10 +55,10 @@ function generate_document($path, $row) {
 	foreach ($row as $key => $value) {
 		
 		$value = str_replace("\r\n","\n", $value);
-		$value = html_entity_decode($value, ENT_COMPAT | ENT_HTML401, 'UTF-8');
+		//$value = html_entity_decode($value, ENT_COMPAT | ENT_HTML401, 'UTF-8');
 		$output .= generate_entry($key, $value);
 	}
-	$output = iconv('ISO-8859-1', 'UTF-8', wrap($output));
+	//$output = iconv('ISO-8859-1', 'UTF-8', wrap($output));
  	file_put_contents($path . $row['id'] . '.html', $output);
 }
 
