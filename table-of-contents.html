@@ -1,0 +1,28 @@
+---
+title: Inhaltsverzeichnis
+---
+
+{% for doc in site.pages %}
+
+{{ doc.title }}
+
+{% endfor %}
+
+
+{% for doc in site.compositions %}
+
+{{ doc.title }}
+
+{% endfor %}
+
+{% for collection in site.collections %}
+  {% capture label %}{{ collection | first }}{% endcapture %}
+  <h3>All documents listed in collection '{{ label}}'</h3>
+
+  {% for doc in site.collections.[label].docs %}
+    <li>
+      <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+
+{% endfor %}
