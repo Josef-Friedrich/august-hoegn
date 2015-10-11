@@ -59,7 +59,7 @@ function generate_document($path, $row) {
 		$output .= generate_entry($key, $value);
 	}
 	//$output = iconv('ISO-8859-1', 'UTF-8', wrap($output));
- 	file_put_contents($path . $row['id'] . '.html', $output);
+	file_put_contents($path . $row['id'] . '.html', wrap($output));
 }
 
 $rows = query($query);
