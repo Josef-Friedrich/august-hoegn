@@ -1,5 +1,9 @@
 baseurl: /
 
+collections:
+  compositions:
+    output: true
+
 exclude:
 - "*.php"
 - README.md
