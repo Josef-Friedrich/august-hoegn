@@ -1,4 +1,5 @@
 baseurl: /
+encoding: utf-8
 
 collections:
   compositions:
