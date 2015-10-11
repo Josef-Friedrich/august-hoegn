@@ -1,0 +1,5 @@
+baseurl: /
+
+exclude:
+- "*.php"
+- README.md

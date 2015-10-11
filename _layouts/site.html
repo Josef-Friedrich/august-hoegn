@@ -1,0 +1,47 @@
+---
+layout: bare
+---
+
+<head>
+<meta charset="UTF-8" />
+
+{% include head.html %}
+
+</head>
+<body>
+<a name="top" id="top"></a>
+<div class="page_margins">
+  <div class="page">
+    <div id="header">
+      <div class="subcolumns">
+        <div id="header_col1"><a href="index.php"></a></div>
+        <div id="header_col2"><a href="index.php">August H&ouml;gn (1878 - 1961)<br>
+          Leben und Werk</a></div>
+        <div id="header_col3"> <!-- TemplateBeginEditable name="metaphernfenster" --> <!-- TemplateEndEditable --> </div>
+      </div>
+    </div>
+    <div id="main">
+      <div id="col1">
+        <div id="col1_content" class="clearfix">
+        {% include top_nav.html %}
+        </div>
+      </div>
+      <div id="col3">
+        <div id="corner_patch1"></div>
+        <div id="col3_content" class="clearfix">
+
+
+{{ content }}
+
+
+        </div>
+        <!-- IE Column Clearing -->
+        <div id="ie_clearing"> &#160; </div>
+      </div>
+    </div>
+    {% include bottom_nav.html %}
+
+  </div>
+</div>
+
+</body>
