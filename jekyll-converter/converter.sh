@@ -2,7 +2,7 @@
 <?php
 
 $query = '
-SELECT 
+SELECT
 	id,
 	titel AS title,
 	imslp
@@ -32,7 +32,7 @@ function query($query) {
 function generate_entry($key, $value) {
 	if (!empty($value)) {
 		return $key . ': ' . $value . "\n";
-	} 
+	}
 	else {
 		return '';
 	}
@@ -47,7 +47,7 @@ function generate_document($row) {
 	foreach ($row as $key => $value) {
 		$output .= generate_entry($key, $value);
 	}
- 	file_put_contents($row['id'] . '.html', wrap($output));
+ 	file_put_contents('../_compositions/' . $row['id'] . '.html', wrap($output));
 }
 
 
