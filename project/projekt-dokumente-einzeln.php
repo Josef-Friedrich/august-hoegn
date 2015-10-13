@@ -1,3 +1,9 @@
+---
+Title:
+metaphor_image: projekt
+metaphor_text: Projekt
+---
+
 <?php
 include_once ('scripts/bootstrap.inc');
 
@@ -13,7 +19,7 @@ $tm->row = $row;
 <title>
 <?php
 $tm->HtmlTitle();
-?>	
+?>
 </title>
 <!-- InstanceEndEditable -->
 <!-- add your meta tags here -->
@@ -37,7 +43,7 @@ $tm->HtmlTitle();
         <div id="header_col1"><a href="index.php"></a></div>
         <div id="header_col2"><a href="index.php">August H&ouml;gn (1878 - 1961)<br>
           Leben und Werk</a></div>
-        <div id="header_col3"> <!-- InstanceBeginEditable name="metaphernfenster" --> 
+        <div id="header_col3"> <!-- InstanceBeginEditable name="metaphernfenster" -->
               <div id="metaphor_dokumente" class="metaphor">
                 <div class="image"></div>
                 <div class="gradient"></div>
@@ -98,12 +104,12 @@ $tm->HtmlTitle();
                             <div class="arrow"><?php if (!empty ($row['previous'])) echo "<a href=\"projekt-dokumente-einzeln.php?id=" . $row['previous'] . "\"><img src=\"images/gross_orange_links.png\"></a>"; ?></div>
                             <div class="arrow"><a href="projekt-dokumente.php"><img src="images/gross_orange_oben.png"/></a></div>
                             <div class="arrow"><?php if (!empty ($row['next'])) echo "<a href=\"projekt-dokumente-einzeln.php?id=" . $row['next'] . "\"><img src=\"images/gross_orange_rechts.png\"></a>"; ?></div>
-                        </div>                 
+                        </div>
             <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="textbereich" -->
-<?             
+<?
 
 $tm->HtmlTitle('headline');
-		
+
 echo dokumente_gif ($row);
 
 echo "<p>\n";
@@ -112,10 +118,10 @@ if (!empty ($row[thematik]))echo "<strong>Thematik:</strong> " . dokumente_thema
 if (!empty ($row[thema]))echo "<strong>Thema:</strong> $row[thema]<br>\n";
 if (!empty ($row[dok_fundort]))echo "<b>Fundort:</b>&nbsp;<a href=\"fundorte.php#$row[dok_fundort]\">" . dokumente_dok_fundorttext ($row) . "</a><br>\n";
 echo "</p>\n";
-		
+
 echo "<hr>\n";
 
-echo "<p>\n$row[text]\n</p>\n\n";		
+echo "<p>\n$row[text]\n</p>\n\n";
 
 ?>
             <!-- InstanceEndEditable --> </div>
@@ -124,7 +130,7 @@ echo "<p>\n$row[text]\n</p>\n\n";
       </div>
     </div>
     <!-- begin: #footer -->
-    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●                  
+    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●
       Layout basiert auf <a href="http://www.yaml.de/">YAML</a> </div>
   </div>
 </div>

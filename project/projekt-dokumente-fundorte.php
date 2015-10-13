@@ -1,3 +1,9 @@
+---
+Title:
+metaphor_image: projekt
+metaphor_text: Projekt
+---
+
 <?php
 include_once ('scripts/bootstrap.inc');
 ?>
@@ -7,7 +13,7 @@ include_once ('scripts/bootstrap.inc');
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>
 <?php
-$tm->HtmlTitle();		
+$tm->HtmlTitle();
 ?>
 </title>
 <!-- InstanceEndEditable -->
@@ -32,7 +38,7 @@ $tm->HtmlTitle();
         <div id="header_col1"><a href="index.php"></a></div>
         <div id="header_col2"><a href="index.php">August H&ouml;gn (1878 - 1961)<br>
           Leben und Werk</a></div>
-        <div id="header_col3"> <!-- InstanceBeginEditable name="metaphernfenster" --> 
+        <div id="header_col3"> <!-- InstanceBeginEditable name="metaphernfenster" -->
               <div id="metaphor_dokumente" class="metaphor">
                 <div class="image"></div>
                 <div class="gradient"></div>
@@ -88,52 +94,52 @@ $tm->HtmlTitle();
       </div>
       <div id="col3">
         <div id="corner_patch1"></div>
-        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" --> 
+        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" -->
             <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="textbereich" -->
                         <?php
 $tm->HtmlTitle('headline');
 ?>
                         <h2>Reicheneder-Chronik im Pfarrhof Ruhmannsfelden<a name="1" id="1"></a></h2>
                         <p><a href="images/projekt-dokumente-fundorte/reicheneder_chronik_gross.jpg"><img src="images/projekt-dokumente-fundorte/reicheneder_chronik_klein.jpg" width="157" height="200" border="0" /></a><a href="images/projekt-dokumente-fundorte/pfarrer_reicheneder_gross.jpg">&nbsp;&nbsp;&nbsp;<img src="images/projekt-dokumente-fundorte/pfarrer_reicheneder_klein.jpg" width="141" height="200" border="0" /></a></p>
-                        <p>Die &uuml;ber 30 Ordner umfassende &quot;Reicheneder&quot;-Chronik 
-                          war ein gro&szlig;e Fundgrube an Dokumenten, die in 
-                          Verbindung stehen zum Leben und Schaffen von August 
-                          H&ouml;gn. Der ehemalige Ruhmannsfeldner Pfarrer Franz 
-                          Ser. Reicheneder hat diese Chronik in Jahrzehnte langer 
+                        <p>Die &uuml;ber 30 Ordner umfassende &quot;Reicheneder&quot;-Chronik
+                          war ein gro&szlig;e Fundgrube an Dokumenten, die in
+                          Verbindung stehen zum Leben und Schaffen von August
+                          H&ouml;gn. Der ehemalige Ruhmannsfeldner Pfarrer Franz
+                          Ser. Reicheneder hat diese Chronik in Jahrzehnte langer
                           Arbeit aufgebaut.</p>
                         <hr />
                         <h2>Pfarrarchiv<a name="2" id="2"></a></h2>
                         <p><a href="images/projekt-dokumente-fundorte/kompositionen_stapel_gross.jpg"><img src="images/projekt-dokumente-fundorte/pfarrarchiv_schachtel_klein.jpg" width="212" height="200" border="0" /></a>&nbsp;&nbsp;&nbsp;<a href="images/projekt-dokumente-fundorte/chorregenten_mappe_gross.jpg"><img src="images/projekt-dokumente-fundorte/chorregenten_mappe_klein.jpg" width="150" height="200" border="0" /></a></p>
-                        <p>In speziellen Aufbewahrungs-Kartons sind viele Dokumente 
-                          im Pfarrhof gelagert. Darunter fand sich auch die Rubrik 
-                          &quot;Organisten/Chorregenten 1885 - 1953&quot;, aus 
-                          der fasst alle Dokumente thematisch zu August H&ouml;gn 
+                        <p>In speziellen Aufbewahrungs-Kartons sind viele Dokumente
+                          im Pfarrhof gelagert. Darunter fand sich auch die Rubrik
+                          &quot;Organisten/Chorregenten 1885 - 1953&quot;, aus
+                          der fasst alle Dokumente thematisch zu August H&ouml;gn
                           passten. </p>
-                        <hr />                        
+                        <hr />
                         <h2>Gemeindearchiv<a name="8" id="8"></a></h2>
                         <p><a href="images/projekt-dokumente-fundorte/rektor_mappe_gross.jpg"><img src="images/projekt-dokumente-fundorte/rektor_mappe_klein.jpg" width="150" height="200" border="0" /></a>&nbsp;&nbsp;&nbsp;<a href="images/projekt-dokumente-fundorte/schulprotokoll_gross.jpg"><img src="images/projekt-dokumente-fundorte/schulprotokoll_klein.jpg" width="133" height="200" border="0" /></a>&nbsp;&nbsp;&nbsp;<a href="images/projekt-dokumente-fundorte/schulanzeiger_gross.jpg"><img src="images/projekt-dokumente-fundorte/schulanzeiger_klein.jpg" width="231" height="200" border="0" /></a></p>
                         <p>W&auml;hrend der Forschungsarbeit am Projekt &quot;August H&ouml;gn&quot; wurde auch das Archiv der Gemeinde Ruhmannsfelden neu sortiert. Die Dokumente, die im Zusammenhang mit August H&ouml;gn standen, wurde in einen eigenen Ordner mit dem Namen &quot;Rektor H&ouml;gn&quot; zusammengefasst. Es war daher ein leichtes an diese Dokumente zu gelangen. </p>
                         <hr />
                         <h2>Beilage zu Notenmaterial<a name="3" id="3"></a></h2>
                         <p><a href="images/werk-kompositionen/kompositionen_stapel_gross.jpg"><img src="images/projekt-dokumente-fundorte/kompositionen_stapel_klein.jpg" width="237" height="200" border="0" /></a></p>
-                        <p>Viele Dokumente waren einfach zwischen handschriftlichen 
-                          Notenbl&auml;ttern aufzufinden und &uuml;berdauerten 
+                        <p>Viele Dokumente waren einfach zwischen handschriftlichen
+                          Notenbl&auml;ttern aufzufinden und &uuml;berdauerten
                           so die Jahrzehnte.</p>
-                        <hr /> 
-                        <h2>Hegeringf&uuml;hrer 35/36 (Akten des Kreisj&auml;germeisters 
+                        <hr />
+                        <h2>Hegeringf&uuml;hrer 35/36 (Akten des Kreisj&auml;germeisters
                           Schwannberger) <a name="6" id="6"></a></h2>
                         <p><a href="images/projekt-dokumente-fundorte/hegeringfuehrer3536_gross.jpg"><img src="images/projekt-dokumente-fundorte/hegeringfuehrer3536_klein.jpg" width="331" height="200" border="0" /></a></p>
-                        <p>Max Holler gab in dem Interview vom 26.8.2004 an, dass 
-                          Josef Steinbauer in der Lindeau bei Achslach die Akten 
-                          des Kreisj&auml;germeisters Rudolf Schwannberger bei 
-                          sich aufgehoben hatte. Der sogenannte &quot;Hegeringf&uuml;hrer&quot; 
-                          ist eben nach Hegeringen geordnet. Einige Dokumente 
-                          &uuml;ber August H&ouml;gn lie&szlig;en sich unter der 
-                          Rubrik &quot;Hegering V&quot; finden. Hegeringf&uuml;hrer 
-                          dieses Bereiches war Max Forstner, Voglsang. Er hatte 
-                          die Gemeinden Zachenberg, Ruhmannsfelden und Gotteszell 
+                        <p>Max Holler gab in dem Interview vom 26.8.2004 an, dass
+                          Josef Steinbauer in der Lindeau bei Achslach die Akten
+                          des Kreisj&auml;germeisters Rudolf Schwannberger bei
+                          sich aufgehoben hatte. Der sogenannte &quot;Hegeringf&uuml;hrer&quot;
+                          ist eben nach Hegeringen geordnet. Einige Dokumente
+                          &uuml;ber August H&ouml;gn lie&szlig;en sich unter der
+                          Rubrik &quot;Hegering V&quot; finden. Hegeringf&uuml;hrer
+                          dieses Bereiches war Max Forstner, Voglsang. Er hatte
+                          die Gemeinden Zachenberg, Ruhmannsfelden und Gotteszell
                           &uuml;ber.</p>
-                        <hr />                        
+                        <hr />
                         <h2>Protokolbuch des Turnverein Ruhmannsfelden</h2>
                         <p><a href="images/projekt-dokumente-fundorte/turnvereins_protokoll_gross.jpg"><img src="images/projekt-dokumente-fundorte/turnvereins_protokoll_klein.jpg" width="136" height="200" border="0" /></a> </p>
                         <p>Protokolbuch des Turnverein Ruhmannsfelden dokumentiert H&ouml;gns Mitgliedschaft in dem Verein in seinen ersten Ruhmannsfeldener Jahren. </p>
@@ -143,7 +149,7 @@ $tm->HtmlTitle('headline');
       </div>
     </div>
     <!-- begin: #footer -->
-    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●                  
+    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●
       Layout basiert auf <a href="http://www.yaml.de/">YAML</a> </div>
   </div>
 </div>

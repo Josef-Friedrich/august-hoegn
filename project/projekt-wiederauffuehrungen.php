@@ -1,13 +1,19 @@
+---
+Title:
+metaphor_image: projekt
+metaphor_text: Projekt
+---
+
 <?php
 include_once ('scripts/bootstrap.inc');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de"><!-- InstanceBegin template="/Templates/hauptvorlage.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- InstanceBeginEditable name="doctitle" --> 
+<!-- InstanceBeginEditable name="doctitle" -->
 <title>
 <?php
-$tm->HtmlTitle();		
+$tm->HtmlTitle();
 ?>
 </title>
 <!-- InstanceEndEditable -->
@@ -21,7 +27,7 @@ $tm->HtmlTitle();
 <script src="js/lib/jquery-1.3.2.min.js" type="text/javascript"></script>
 <script src="js/lib/jquery.backgroundPosition.js" type="text/javascript"></script>
 <script src="js/metaphor.js" type="text/javascript"></script>
-<!-- InstanceBeginEditable name="head" --> 
+<!-- InstanceBeginEditable name="head" -->
 <style type="text/css">
 <!--
 -->
@@ -93,7 +99,7 @@ $tm->HtmlTitle();
       </div>
       <div id="col3">
         <div id="corner_patch1"></div>
-        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" --> 
+        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" -->
             <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="textbereich" -->
 <?php
 $tm->HtmlTitle('headline');
@@ -107,7 +113,7 @@ $tm->HtmlTitle('headline');
 $result  =  mysql_query("SELECT * FROM wiederauffuehrungen ORDER BY datum");
 while ($row  =  mysql_fetch_array($result))
 	{
-	echo "<h2>$row[titel]</h2>";	
+	echo "<h2>$row[titel]</h2>";
 	echo "<p>";
 	if (!empty ($row[ort]))echo "<b>Ort:</b>&nbsp;$row[ort]<br>\n";
 	if (!empty ($row[anlass]))echo "<b>Anlass:</b>&nbsp;$row[anlass]\n";
@@ -124,7 +130,7 @@ while ($row  =  mysql_fetch_array($result))
       </div>
     </div>
     <!-- begin: #footer -->
-    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●                  
+    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●
       Layout basiert auf <a href="http://www.yaml.de/">YAML</a> </div>
   </div>
 </div>

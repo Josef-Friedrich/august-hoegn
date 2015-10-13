@@ -1,3 +1,9 @@
+---
+Title:
+metaphor_image: projekt
+metaphor_text: Projekt
+---
+
 <?php
 include_once ('scripts/bootstrap.inc');
 ?>
@@ -7,7 +13,7 @@ include_once ('scripts/bootstrap.inc');
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>
 <?php
-$tm->HtmlTitle();		
+$tm->HtmlTitle();
 ?>
 </title>
 <!-- InstanceEndEditable -->
@@ -88,13 +94,13 @@ $tm->HtmlTitle();
       </div>
       <div id="col3">
         <div id="corner_patch1"></div>
-        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" --> 
+        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" -->
             <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="textbereich" -->
 <?php
 $tm->HtmlTitle('headline');
 ?>
                         <table>
-                          <tr> 
+                          <tr>
                             <th width="210" valign="top"><a href="images/projekt-dokumente/dokumente_gross.jpg"><img src="images/projekt-dokumente/dokumente_klein.jpg" width="200" height="187" border="0" /></a></th>
                             <th><p>ordnen nach:</p>
                               <ul>
@@ -113,15 +119,15 @@ $table = new Tabelle;
 $table->Tabelle = "dokumente";
 $table->Sortierung = "datum";
 $table->path = "projekt-dokumente-einzeln.php";
-$table->Spalten = array 	
+$table->Spalten = array
 	(
 	"\$columnn_content = datum (\$row, 0);" => "Datum",
 	"titel" => "Titel"
 	);
-	
-echo "<br><strong>Anzahl der Dokumente:</strong>&nbsp;&nbsp;alle:&nbsp;" . 
-		$table->DatasetQuantity () . "&nbsp;&nbsp;Briefe:&nbsp;" . 
-		$table->DatasetQuantity ("dok_art", 1) . "&nbsp;&nbsp;Zeitungsartikel:&nbsp;" . 
+
+echo "<br><strong>Anzahl der Dokumente:</strong>&nbsp;&nbsp;alle:&nbsp;" .
+		$table->DatasetQuantity () . "&nbsp;&nbsp;Briefe:&nbsp;" .
+		$table->DatasetQuantity ("dok_art", 1) . "&nbsp;&nbsp;Zeitungsartikel:&nbsp;" .
 		$table->DatasetQuantity ("dok_art", 2);
 
 switch ($_GET['order'])
@@ -130,49 +136,49 @@ switch ($_GET['order'])
 	$table->SortierArray = $array_thematik;
 	$table->SortierArraySpalte = "thematik";
 	break;
-	
+
 	case "datum":
 	break;
-	
+
 	case "dok_art":
 	$table->SortierArray = $array_dok_art;
 	$table->SortierArraySpalte = "dok_art";
 	break;
-		
+
 	case "hoegnbriefe":
-	$table->SortierArray = array 
+	$table->SortierArray = array
 		(
 		"a" => "Briefe von August H&ouml;gn",
 	 	"b" => "Briefe an August H&ouml;gn"
 		);
-		
-	$table->SortierQuery = array 
+
+	$table->SortierQuery = array
 		(
-		"a" => "WHERE feld1 = 'August H&ouml;gn'", 
+		"a" => "WHERE feld1 = 'August H&ouml;gn'",
 		"b" => "WHERE feld2 = 'August H&ouml;gn'"
 		);
-		
+
 	$table->SortierArraySpalte = "feld1";
 	break;
-	
+
 	case "fundort":
 	$table->SortierArray = $array_dok_fundort;
 	$table->SortierArraySpalte = "dok_fundort";
 	break;
 
 	}
-	
+
 echo $table->TableOutput ();
 
-				
-?> 
+
+?>
            <!-- InstanceEndEditable --> </div>
         <!-- IE Column Clearing -->
         <div id="ie_clearing"> &#160; </div>
       </div>
     </div>
     <!-- begin: #footer -->
-    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●                  
+    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●
       Layout basiert auf <a href="http://www.yaml.de/">YAML</a> </div>
   </div>
 </div>

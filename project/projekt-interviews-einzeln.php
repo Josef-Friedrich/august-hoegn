@@ -1,3 +1,9 @@
+---
+Title:
+metaphor_image: projekt
+metaphor_text: Projekt
+---
+
 <?php
 include_once ('scripts/bootstrap.inc');
 
@@ -12,7 +18,7 @@ $tm->row = $row;
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>
 <?php
-$tm->HtmlTitle();		
+$tm->HtmlTitle();
 ?>
 </title>
 <!-- InstanceEndEditable -->
@@ -93,14 +99,14 @@ $tm->HtmlTitle();
       </div>
       <div id="col3">
         <div id="corner_patch1"></div>
-        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" --> 
+        <div id="col3_content" class="clearfix"> <!-- InstanceBeginEditable name="Pfeile" -->
                         <div id="arrow-wrapper">
                             <div class="arrow"><?php if (!empty ($row['previous'])) echo "<a href=\"projekt-interviews-einzeln.php?id=" . $row['previous'] . "\"><img src=\"images/gross_orange_links.png\"></a>"; ?></div>
                             <div class="arrow"><a href="projekt.php"><img src="images/gross_orange_oben.png"/></a></div>
                             <div class="arrow"><?php if (!empty ($row['next'])) echo "<a href=\"projekt-interviews-einzeln.php?id=" . $row['next'] . "\"><img src=\"images/gross_orange_rechts.png\"></a>"; ?></div>
-                        </div>                 
+                        </div>
             <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="textbereich" -->
-                      <td align="left" valign="top"> 
+                      <td align="left" valign="top">
             <?php
 
 $tm->HtmlTitle('headline');
@@ -123,15 +129,15 @@ if (!empty ($row[dauer]))echo "<b>Dauer (Högn-Bezug):</b>&nbsp;$row[dauer] Minu
 echo "</p>";
 //if (!empty ($row[mp3]))echo "<hr><h2>Kostproben aus dem Interview</h2>\n$row[mp3]\n";
 if (!empty ($row[text]))echo "\n\n<h2>Transkription des Interviews:</h2>\n$row[text]\n";
-				
-		
+
+
 ?>            <!-- InstanceEndEditable --> </div>
         <!-- IE Column Clearing -->
         <div id="ie_clearing"> &#160; </div>
       </div>
     </div>
     <!-- begin: #footer -->
-    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●                  
+    <div id="footer"> <a href="#top">nach oben ↑</a> ● ● ● <a href="inhalt.php">Inhalt</a> ● <a href="leben.php">Leben</a> ● <a href="werk.php">Werk</a> ● <a href="projekt.php">Projekt</a> ● <a href="download.php"> Download </a> ● ● ●
       Layout basiert auf <a href="http://www.yaml.de/">YAML</a> </div>
   </div>
 </div>
