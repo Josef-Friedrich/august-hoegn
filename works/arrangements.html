@@ -1,0 +1,22 @@
+---
+Title:
+metaphor_image: werk
+metaphor_text: Werk
+---
+
+<?php
+$tm->HtmlTitle('headline');
+
+$result  =  mysql_query("SELECT * FROM arrangements ORDER BY komponisten_idtext");
+while ($row  =  mysql_fetch_array($result))
+	{
+	echo "<h2>$row[komponisten_idtext] - $row[titelwerk]</h2>\n";
+	echo "<p>";
+	if (!empty ($row[titeloriginal])) echo "<p><b>Original-Titel:</b>&nbsp;$row[titeloriginal]<br>\n";
+	if (!empty ($row[veraenderung])) echo "<b>Ver&auml;nderung durch H&ouml;gn:</b>&nbsp;$row[veraenderung]<br>\n";
+	if (!empty ($row[bes_grup_u_inst]))echo "<b>Besetzung des Arrangements:</b>&nbsp;$row[bes_grup_u_inst]<br>\n";
+	if (!empty ($row[bes_grup_u_inst2]))echo "<b>Original-Besetzung:</b>&nbsp;$row[bes_grup_u_inst2]</p>\n";
+	echo "</p>\n";
+	}
+?>
+
