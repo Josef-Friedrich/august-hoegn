@@ -4,6 +4,8 @@ encoding: utf-8
 collections:
   compositions:
     output: true
+  historical_works:
+    output: true
 
 defaults:
   -
