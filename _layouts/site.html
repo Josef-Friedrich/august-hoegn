@@ -12,7 +12,8 @@ layout: bare
 <a name="top" id="top"></a>
 <div class="page_margins">
   <div class="page">
-    <div id="header">
+
+    <header id="header">
       <div class="subcolumns">
         <div id="header_col1"><a href="{{ site.baseurl }}/"></a></div>
         <div id="header_col2"><a href="{{ site.baseurl }}/">August H&ouml;gn (1878 - 1961)<br>
@@ -21,25 +22,30 @@ layout: bare
         {% include metaphor.html %}
         </div>
       </div>
-    </div>
+    </header>
+
     <div id="main">
-      <div id="col1">
+
+      <aside id="col1">
         <div id="col1_content" class="clearfix">
-        {% include top_nav.html %}
+        {% include main_menu.html %}
         </div>
-      </div>
-      <div id="col3">
+      </aside>
+
+      <main id="col3">
         <div id="corner_patch1"></div>
         <div id="col3_content" class="clearfix">
 
-{{ content }}
+        {{ content }}
 
         </div>
-        <!-- IE Column Clearing -->
-        <div id="ie_clearing"> &#160; </div>
-      </div>
+
+      </main>
     </div>
-    {% include bottom_nav.html %}
+
+    <footer id="footer">
+      {% include secondary_menu.html %}
+    </footer>
 
   </div>
 </div>
