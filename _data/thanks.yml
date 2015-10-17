@@ -1,0 +1,328 @@
+---
+dank:
+  -
+    id: 1
+    titel: Lankes, August
+    nachname: Lankes
+    vorname: August
+    dank_fuer: Auff&uuml;hrungen von Kompositionen
+  -
+    id: 2
+    titel: Kirchenchor Ruhmannsfelden,
+    nachname: Kirchenchor Ruhmannsfelden
+    vorname: 
+    dank_fuer: Auff&uuml;hrungen von Kompositionen
+  -
+    id: 3
+    titel: Freisinger, Lotte
+    nachname: Freisinger
+    vorname: Lotte
+    dank_fuer: Hilfe bei Recherchen im Pfarrarchiv
+  -
+    id: 4
+    titel: Ederer, Wilhelm
+    nachname: Ederer
+    vorname: Wilhelm
+    dank_fuer: 3 Interviews, Fotos
+  -
+    id: 5
+    titel: Essigmann, Barbara
+    nachname: Essigmann
+    vorname: Barbara
+    dank_fuer: 2 Interviews
+  -
+    id: 6
+    titel: H&ouml;gn, Ida
+    nachname: H&ouml;gn
+    vorname: Ida
+    dank_fuer: 2 Interviews
+  -
+    id: 7
+    titel: Schr&ouml;ck, Maria
+    nachname: Schr&ouml;ck
+    vorname: Maria
+    dank_fuer: Interview, Fotos, Dokumente
+  -
+    id: 8
+    titel: Brunner, Josef
+    nachname: Brunner
+    vorname: Josef
+    dank_fuer: Interview
+  -
+    id: 9
+    titel: Wiegmann, Doraliesa
+    nachname: Wiegmann
+    vorname: Doraliesa
+    dank_fuer: Interview
+  -
+    id: 10
+    titel: Beischmied, Mathilde
+    nachname: Beischmied
+    vorname: Mathilde
+    dank_fuer: Interview
+  -
+    id: 11
+    titel: Stern, Josef
+    nachname: Stern
+    vorname: Josef
+    dank_fuer: Interview
+  -
+    id: 12
+    titel: Seidl, Emilie
+    nachname: Seidl
+    vorname: Emilie
+    dank_fuer: Interview
+  -
+    id: 13
+    titel: Leitner, Stefan
+    nachname: Leitner
+    vorname: Stefan
+    dank_fuer: Interview, Dokumente
+  -
+    id: 14
+    titel: Freisinger, Maria
+    nachname: Freisinger
+    vorname: Maria
+    dank_fuer: Interview
+  -
+    id: 15
+    titel: Holler, Max
+    nachname: Holler
+    vorname: Max
+    dank_fuer: Interview
+  -
+    id: 16
+    titel: Schwannberger, Centa
+    nachname: Schwannberger
+    vorname: Centa
+    dank_fuer: Interview, Fotos
+  -
+    id: 17
+    titel: Molo, Gertraud von
+    nachname: Molo
+    vorname: Gertraud von
+    dank_fuer: Interview, Dokumente, Fotos
+  -
+    id: 18
+    titel: Leuze, Lilo
+    nachname: Leuze
+    vorname: Lilo
+    dank_fuer: Interview, Fotos
+  -
+    id: 19
+    titel: Raster, Josef
+    nachname: Raster
+    vorname: Josef
+    dank_fuer: Interview, Fotos
+  -
+    id: 20
+    titel: Glasschr&ouml;der, Johann
+    nachname: Glasschr&ouml;der
+    vorname: Johann
+    dank_fuer: Interview, Fotos, Komposition
+  -
+    id: 21
+    titel: Maimer, Michael
+    nachname: Maimer
+    vorname: Michael
+    dank_fuer: technische Beratung (Computer)
+  -
+    id: 22
+    titel: Schwarz, Johannes
+    nachname: Schwarz
+    vorname: Johannes
+    dank_fuer: technische Beratung (Computer)
+  -
+    id: 23
+    titel: Freisinger, Johann
+    nachname: Freisinger
+    vorname: Johann
+    dank_fuer: Interview, Ausleihen der Manuskripte des Geschichtswerk, Fotos
+  -
+    id: 24
+    titel: Schlagintweit, Lorenz
+    nachname: Schlagintweit
+    vorname: Lorenz
+    dank_fuer: Interview, Foto
+  -
+    id: 25
+    titel: Meier, Helmuth, Pfarrer
+    nachname: Meier
+    vorname: Helmuth, Pfarrer
+    dank_fuer: Zugang zum Pfarrarchiv, &Uuml;berlassen des Kopierers, Beratung
+  -
+    id: 26
+    titel: Ro&szlig;mei&szlig;l, Rektor
+    nachname: Ro&szlig;mei&szlig;l
+    vorname: Rektor
+    dank_fuer: Ausleihen der Schulchronik
+  -
+    id: 27
+    titel: Radlbeck, Rudolf
+    nachname: Radlbeck
+    vorname: Rudolf
+    dank_fuer: telefonische Auskunft
+  -
+    id: 28
+    titel: Bielmeier, Gerhard
+    nachname: Bielmeier
+    vorname: Gerhard
+    dank_fuer: Zugang zum Gemeindearchiv
+  -
+    id: 54
+    titel: Friedrich, Martin
+    nachname: Friedrich
+    vorname: Martin
+    dank_fuer: Beratung
+  -
+    id: 29
+    titel: H&uuml;ttinger, Michael
+    nachname: H&uuml;ttinger
+    vorname: Michael
+    dank_fuer: Ausk&uuml;nfte
+  -
+    id: 30
+    titel: H&ouml;gn, Peter
+    nachname: H&ouml;gn
+    vorname: Peter
+    dank_fuer: Ausk&uuml;nfte
+  -
+    id: 31
+    titel: Ertl, Eva
+    nachname: Ertl
+    vorname: Eva
+    dank_fuer: Interview, Fotos
+  -
+    id: 32
+    titel: Danziger, Franz jun.
+    nachname: Danziger
+    vorname: Franz jun.
+    dank_fuer: Kompositionen, Dokumente, Ausk&uuml;nfte
+  -
+    id: 33
+    titel: Goller, Martina
+    nachname: Goller
+    vorname: Martina
+    dank_fuer: Suchen nach Kompositionen, Ausleihen ihrer Zulassungsarbeit
+  -
+    id: 34
+    titel: Gemeinde Oberaudorf,
+    nachname: Gemeinde Oberaudorf
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 35
+    titel: Gemeinde Baiersdorf,
+    nachname: Gemeinde Baiersdorf
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 36
+    titel: Pfarramt Mari&auml; Himmelfahrt, Deggendorf,
+    nachname: Pfarramt Mari&auml; Himmelfahrt, Deggendorf
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 37
+    titel: Pfarramt St. Martin, Deggendorf,
+    nachname: Pfarramt St. Martin, Deggendorf
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 38
+    titel: Proft, Hans
+    nachname: Proft
+    vorname: Hans
+    dank_fuer: Dokument
+  -
+    id: 39
+    titel: Huber, Alfons, HV-Straubing
+    nachname: Huber
+    vorname: Alfons, HV-Straubing
+    dank_fuer: Literatur-Tipps
+  -
+    id: 40
+    titel: Stadler, Karin
+    nachname: Stadler
+    vorname: Karin
+    dank_fuer: Auskunft
+  -
+    id: 41
+    titel: Aichinger, Franz
+    nachname: Aichinger
+    vorname: Franz
+    dank_fuer: Auskunft
+  -
+    id: 42
+    titel: Kloster Metten,
+    nachname: Kloster Metten
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 43
+    titel: Pfarramt Kollnburg,
+    nachname: Pfarramt Kollnburg
+    vorname: 
+    dank_fuer: Auskunft
+  -
+    id: 44
+    titel: G&auml;rtner, Helmuth
+    nachname: G&auml;rtner
+    vorname: Helmuth
+    dank_fuer: Auskunft
+  -
+    id: 45
+    titel: Kaufmann, Michael, P. Dr.
+    nachname: Kaufmann
+    vorname: Michael, P. Dr.
+    dank_fuer: Auskunft
+  -
+    id: 46
+    titel: Masarwa, Martina
+    nachname: Masarwa
+    vorname: Martina
+    dank_fuer: Foto
+  -
+    id: 47
+    titel: Steinbauer, Josef
+    nachname: Steinbauer
+    vorname: Josef
+    dank_fuer: J&auml;ger-Chronik
+  -
+    id: 48
+    titel: Voit, Peter
+    nachname: Voit
+    vorname: Peter
+    dank_fuer: Nachforschungen um Kompositionen
+  -
+    id: 49
+    titel: Berger, Hennes
+    nachname: Berger
+    vorname: Hennes
+    dank_fuer: Turnvereins-Chronik
+  -
+    id: 50
+    titel: Prapas, Thanos
+    nachname: Prapas
+    vorname: Thanos
+    dank_fuer: Lektorat
+  -
+    id: 51
+    titel: Rebhahn, Irmgard
+    nachname: Rebhahn
+    vorname: Irmgard
+    dank_fuer: Vermittlung eines Interviews, Fotos, Ausk&uuml;nfte
+  -
+    id: 52
+    titel: Grotz, Martha
+    nachname: Grotz
+    vorname: Martha
+    dank_fuer: Entziffern von Dokumenten
+  -
+    id: 53
+    titel: Deisser, Wilfried
+    nachname: Deisser
+    vorname: Wilfried
+    dank_fuer: juristische Beratung
+
+...
