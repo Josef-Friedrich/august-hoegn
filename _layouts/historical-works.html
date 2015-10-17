@@ -1,0 +1,15 @@
+---
+layout: site
+---
+
+<h1>{{ page.title }}</h2>
+
+{% if page.wikicommon_file %}
+<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a> <br>
+{% endif %}
+
+{% if page.github_tex %}
+<a href="https://github.com/Josef-Friedrich/hoegn-geschichten/blob/master/{{ page.github_tex }}">TeX-Datei auf Github</a> <br>
+{% endif %}
+
+{{ content }}

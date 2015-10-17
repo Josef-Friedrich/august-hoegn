@@ -22,6 +22,14 @@ defaults:
       layout: compositions
       metaphor_image: kompositionen
       metaphor_text: Kompositionen
+  -
+    scope:
+      path: ""
+      type: "historical_works"
+    values:
+      layout: historical-works
+      metaphor_image: geschichtswerk
+      metaphor_text: Geschichtswerk
 
 exclude:
 - "*.php"
