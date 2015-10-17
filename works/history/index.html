@@ -1,0 +1,15 @@
+---
+Title: Geschichtswerk
+metaphor_image: geschichtswerk
+metaphor_text: Geschichtswerk
+---
+
+
+{% for item in site.historical_works %}
+
+<a href="{{ item.url }}">
+  <h2>{{ item.title }}</h2>
+</a>
+
+{% endfor %}
+
