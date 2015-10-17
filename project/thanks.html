@@ -1,0 +1,15 @@
+---
+Title: August Högn auf Gruppen-Fotos
+metaphor_image: leben
+metaphor_text: Leben
+---
+
+<table><tbody>
+{% for thank in site.data.thanks %}
+<tr>
+  <td><strong>{{ thank.prename }} {{ thank.lastname }}</strong></td>
+  <td>{{ thank.for }}</td>
+</tr>
+{% endfor %}
+
+</tbody></table>
