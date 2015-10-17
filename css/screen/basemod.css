@@ -13,9 +13,9 @@
  * @file          basemod.css
  * @-yaml-minver  3.2
  */
-@media screen , projection { /** 
-   * (en) Forcing vertical scrollbars in IE8, Firefox, Webkit & Opera 
-   * (de) Erzwingen vertikaler Scrollbalken in IE8, Firefox, Webkit & Opera 
+@media screen , projection { /**
+   * (en) Forcing vertical scrollbars in IE8, Firefox, Webkit & Opera
+   * (de) Erzwingen vertikaler Scrollbalken in IE8, Firefox, Webkit & Opera
    *
    * @workaround
    * @affected IE8, FF, Webkit, Opera
@@ -43,7 +43,7 @@
     max-width: 900px;
   }
   .page {
-    
+
   }
   #header {
     background: #f90;
@@ -75,37 +75,37 @@
     width: 400px;
   }
   #metaphor_arrangements .image {
-    background-image: url(../../images/metaphor_arrangements.png)
+    background-image: url(../../images/metaphor/arrangements.png)
   }
   #metaphor_dokumente .image {
-    background-image: url(../../images/metaphor_dokumente.png)
+    background-image: url(../../images/metaphor/dokumente.png)
   }
   #metaphor_augusthoegn .image {
-    background-image: url(../../images/metaphor_augusthoegn.jpg)
+    background-image: url(../../images/metaphor/augusthoegn.jpg)
   }
   #metaphor_gaestebuch .image {
-    background-image: url(../../images/metaphor_gaestebuch.jpg)
+    background-image: url(../../images/metaphor/gaestebuch.jpg)
   }
   #metaphor_geschichtswerk .image {
-    background-image: url(../../images/metaphor_geschichtswerk.png)
+    background-image: url(../../images/metaphor/geschichtswerk.png)
   }
   #metaphor_interviews .image {
-    background-image: url(../../images/metaphor_interviews.jpg)
+    background-image: url(../../images/metaphor/interviews.jpg)
   }
   #metaphor_kompositionen .image {
-    background-image: url(../../images/metaphor_kompositionen.png)
+    background-image: url(../../images/metaphor/kompositionen.png)
   }
   #metaphor_leben .image {
-    background-image: url(../../images/metaphor_leben.jpg)
+    background-image: url(../../images/metaphor/leben.jpg)
   }
   #metaphor_links .image {
-    background-image: url(../../images/metaphor_links.png)
+    background-image: url(../../images/metaphor/links.png)
   }
   #metaphor_projekt .image {
-    background-image: url(../../images/metaphor_projekt.png)
+    background-image: url(../../images/metaphor/projekt.png)
   }
   #metaphor_werk .image {
-    background-image: url(../../images/metaphor_werk.jpg)
+    background-image: url(../../images/metaphor/werk.jpg)
   }
   .metaphor {
     position: relative;
@@ -146,7 +146,7 @@
     right: 0;
   }
   #main {
-    
+
   }
   #footer {
     background: #090;
