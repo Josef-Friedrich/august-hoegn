@@ -1,1252 +1,513 @@
 ---
-arrangements:
-  -
-    id: 3
-    komponisten_id: 3
-    komponisten_idtext: Claudius, G. K. 
-    titel: Claudius, G. - Grablied Nr. 6 &quot;Im Grabe ist Ruh&quot; G-Dur 
-    titelwerk: Grablied Nr. 6 &quot;Im Grabe ist Ruh&quot; G-Dur 
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 6
-    tonart: 15
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:1:{s:3:"gch";a:4:{s:1:"s";a:2:{s:1:"b";i:1;s:1:"n";i:23;}s:1:"a";a:2:{s:1:"b";i:1;s:1:"n";i:12;}s:1:"t";a:2:{s:1:"b";i:1;s:1:"n";i:23;}s:1:"b";a:2:{s:1:"b";i:1;s:1:"n";i:12;}}}
-    bes_grup: gemischter Chor
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: Im Grabe ist Ruh<br>
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 23
-    next: 34
-  -
-    id: 4
-    komponisten_id: 4
-    komponisten_idtext: Braun, A. 
-    titel: Braun, A. - Grablied Nr. 7 &quot;Geht nun hin und grabt mein Grab&quot; B-Dur 
-    titelwerk: Grablied Nr. 7 &quot;Geht nun hin und grabt mein Grab&quot; B-Dur 
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 7
-    tonart: 21
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup: gemischter Chor
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    bes_ser2: a:1:{s:3:"mch";a:4:{s:2:"t1";i:1;s:2:"t2";i:1;s:2:"b1";i:1;s:2:"b2";i:1;}}
-    bes_grup2: M&auml;nnerchor
-    bes_grup_u_inst2: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
-    liedtext: Geht nun hin und grabt mein Grab<br>
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 12
-    next: 23
-  -
-    id: 6
-    komponisten_id: 6
-    komponisten_idtext: L&uuml;tzel, H. 
-    titel: L&uuml;tzel, H. - Trauungslied &quot;Wo du hingehst&quot; Es-Dur 
-    titelwerk: Trauungslied &quot;Wo du hingehst&quot; Es-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 24
-    gatt_nr: 0
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup: gemischter Chor
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    bes_ser2: a:1:{s:3:"fch";a:3:{s:2:"s1";i:1;s:2:"s2";i:1;s:2:"a1";i:1;}}
-    bes_grup2: Frauenchor
-    bes_grup_u_inst2: Frauenchor (Sopran I, Sopran II, Alt I)
-    liedtext: Wo du hingehst<br>
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 45
-    next: 27
-  -
-    id: 7
-    komponisten_id: 1
-    komponisten_idtext: Griesbacher, P. 
-    titel: Griesbacher, P. - Marienlied &quot;O Himmelsk&ouml;nigin&quot; F-Dur op. 137 
-    titelwerk: Marienlied &quot;O Himmelsk&ouml;nigin&quot; F-Dur op. 137
-    titeloriginal: aus "Mairosen" 12 Lieder f. 2 gemischte Stimmen mit Orgelbegleitung op. 137
-    titel_def: 
-    gattungen_id: 4
-    gatt_nr: 0
-    tonart: 11
-    opus: 137
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r Solo und 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"tso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Tenor-Solo); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"tso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: Soli, Orgel
-    bes_grup_u_inst2: Soli (Sopran-Solo, Tenor-Solo); Orgel (mit Pedal)
-    liedtext: O Himmelsk&ouml;nigin
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 36
-    next: 8
-  -
-    id: 8
-    komponisten_id: 1
-    komponisten_idtext: Griesbacher, P. 
-    titel: Griesbacher, P. - Marienlied &quot;Wenn mein Schifflein sich will wenden&quot; C-Dur op. 137 
-    titelwerk: Marienlied &quot;Wenn mein Schifflein sich will wenden&quot; C-Dur op. 137
-    titeloriginal: aus "Mairosen" 12 Lieder f. 2 gemischte Stimmen mit Orgelbegleitung op. 137
-    titel_def: 
-    gattungen_id: 4
-    gatt_nr: 0
-    tonart: 1
-    opus: 137
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r Solo und 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"aso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"aso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: Soli, Orgel
-    bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
-    liedtext: Wenn mein Schifflein sich will wenden
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 7
-    next: 9
-  -
-    id: 9
-    komponisten_id: 1
-    komponisten_idtext: Griesbacher, P. 
-    titel: Griesbacher, P. - Herz-Jesu-Lied &quot;O h&auml;tt ich tausend Herzen&quot; D-Dur op. 33 Nr. 2
-    titelwerk: Herz-Jesu-Lied &quot;O h&auml;tt ich tausend Herzen&quot; D-Dur op. 33 Nr. 2
-    titeloriginal: Herz-Jesu-Lied &quot;Dem Herzen Jesu singe&quot; aus 2stimmigen Liedern zu Ehren des g&ouml;ttlichen Herzens Jesu op. 33
-    titel_def: 
-    gattungen_id: 13
-    gatt_nr: 0
-    tonart: 5
-    opus: 33
-    opuszusatz: 
-    opusnummer: 2
-    titelliedtextja: 1
-    veraenderung: f&uuml;r vierstimmig gemischten Chor arrangiert
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"aso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: Soli, Orgel
-    bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
-    liedtext: O h&auml;tt ich tausend Herzen
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 8
-    next: 10
-  -
-    id: 10
-    komponisten_id: 1
-    komponisten_idtext: Griesbacher, P. 
-    titel: Griesbacher, P. - Herz-Jesu-Lied &quot;Dem Herzen Jesu singe&quot; C-Dur op. 33 Nr. 1
-    titelwerk: Herz-Jesu-Lied &quot;Dem Herzen Jesu singe&quot; C-Dur op. 33 Nr. 1
-    titeloriginal: Herz-Jesu-Lied "Dem Herzen Jesu singe" aus 2stimmigen Liedern zu Ehren des g&ouml;ttlichen Herzens Jesu op. 33
-    titel_def: 
-    gattungen_id: 13
-    gatt_nr: 0
-    tonart: 1
-    opus: 33
-    opuszusatz: 
-    opusnummer: 1
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"sol";a:2:{s:3:"sso";i:1;s:3:"aso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: Soli, Orgel
-    bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
-    liedtext: Dem Herzen Jesu singe
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 9
-    next: 24
-  -
-    id: 11
-    komponisten_id: 7
-    komponisten_idtext: Zangl, J. G. 
-    titel: Zangl, J. - Herz-Jesu-Lied &quot;Ein Herz hab ich gefunden&quot; G-Dur op. 41 Nr. 1
-    titelwerk: Herz-Jesu-Lied &quot;Ein Herz hab ich gefunden&quot; G-Dur op. 41 Nr. 1
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 13
-    gatt_nr: 0
-    tonart: 15
-    opus: 41
-    opuszusatz: 
-    opusnummer: 1
-    titelliedtextja: 1
-    veraenderung: Orgelstimme hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"tso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"tso";i:1;}}
-    bes_grup2: gemischter Chor, Soli
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo)
-    liedtext: | Ein Herz hab ich gefunden,<br>
-wie Gold so treu und rein,<br>
-bedekt mit Liebeswunden,<br>
-wie Demantgestein.
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 40
-    next: 51
-  -
-    id: 12
-    komponisten_id: 13
-    komponisten_idtext: Abt, F. W. 
-    titel: Abt, F. - Grablied &quot;&Uuml;ber den Sternen&quot; F-Dur op. 374 Nr. 3
-    titelwerk: Grablied &quot;&Uuml;ber den Sternen&quot; F-Dur op. 374 Nr. 3
-    titeloriginal: &Uuml;ber den Sternen
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 11
-    opus: 374
-    opuszusatz: 
-    opusnummer: 3
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup: gemischter Chor
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    bes_ser2: a:1:{s:3:"fch";a:3:{s:2:"s1";i:1;s:2:"s2";i:1;s:2:"a1";i:1;}}
-    bes_grup2: Frauenchor
-    bes_grup_u_inst2: Frauenchor (Sopran I, Sopran II, Alt I)
-    liedtext: | &Uuml;ber den Sternen,<br>
-da wird es einst tagen,
-    jpg: | <p></p>
-
-    pdf: | <hr>
-<h2>kostenloses Auff&uuml;hrungsmaterial</h2>
-<table width="100" border="0" cellspacing="0" cellpadding="5">
-<tr>
-	<td><a href="pdf.php?id=12&pfad=4.pdf&phpMyAdmin=5BxldHDXX5DRu6TWG1gu1Ts0nqa"><img src="../bilder/icons/pdf_gross.gif" border="0"></a></td>
-	<td><a href="pdf.php?id=12&pfad=4.pdf&phpMyAdmin=5BxldHDXX5DRu6TWG1gu1Ts0nqa">Bl&auml;serstimmen</a></td>
-</tr>
-</table>
-<br>
-
-    gif: 
-    previous: 0
-    next: 4
-  -
-    id: 17
-    komponisten_id: 21
-    komponisten_idtext: Silcher, F. 
-    titel: Silcher, F. - Trauungslied &quot;So nimm denn meine H&auml;nde&quot; D-Dur 
-    titelwerk: Trauungslied &quot;So nimm denn meine H&auml;nde&quot; D-Dur
-    titeloriginal: 
-    titel_def: Trauungslied
-    gattungen_id: 24
-    gatt_nr: 0
-    tonart: 5
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"sso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: | So nimm denn meine H&auml;nde<br>
-und f&uuml;hre mich bis an mein selig Ende<br>
-und ewiglich
-    jpg: | <p></p>
-
-    pdf: 
-    gif: 
-    previous: 25
-    next: 21
-  -
-    id: 18
-    komponisten_id: 25
-    komponisten_idtext: Sch&auml;chtl, G. 
-    titel: Sch&auml;chtl, G. - Deutscher Auferstehungs-Chor Es-Dur op. 24 
-    titelwerk: Deutscher Auferstehungs-Chor Es-Dur op. 24
-    titeloriginal: 
-    titel_def: Deutscher Auferstehungs-Chor
-    gattungen_id: 26
-    gatt_nr: 0
-    tonart: 7
-    opus: 24
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:5:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"aho";i:1;s:3:"tbn";i:1;s:4:"tbn2";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune, Posaune II); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 50
-    next: 38
-  -
-    id: 19
-    komponisten_id: 29
-    komponisten_idtext: Haller, M. 
-    titel: Haller, M. - Laudes Eucharisticae G-Dur op. 16 
-    titelwerk: Laudes Eucharisticae G-Dur op. 16
-    titeloriginal: 
-    titel_def: Laudes Eucharisticae
-    gattungen_id: 0
-    gatt_nr: 0
-    tonart: 15
-    opus: 16
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 33
-    next: 46
-  -
-    id: 20
-    komponisten_id: 35
-    komponisten_idtext: Engelhart, F. X. 
-    titel: Engelhart, F. - Trauerlied &quot;Friedhofsglocken rufen klagend&quot; Es-Dur op. 77 
-    titelwerk: Trauerlied &quot;Friedhofsglocken rufen klagend&quot; Es-Dur op. 77
-    titeloriginal: 
-    titel_def: Trauerlied
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 7
-    opus: 77
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:5:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"aho";i:1;s:3:"tbn";i:1;s:4:"tbn2";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune, Posaune II)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Friedhofsglocken rufen klagend<br>
-an der lieben Grabesrand,<br>
-denn aus seiner Lieben Mitte nahm des Todes harte Hand.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 43
-    next: 29
-  -
-    id: 21
-    komponisten_id: 38
-    komponisten_idtext: Stein, J. 
-    titel: Stein, J. - Instrumental-Messe Nr. 6 Es-Dur op. 78 
-    titelwerk: Instrumental-Messe Nr. 6 Es-Dur op. 78
-    titeloriginal: Instrumental-Messe Nr. 6 Es-Dur op. 78
-    titel_def: Instrumental-Messe
-    gattungen_id: 1
-    gatt_nr: 6
-    tonart: 7
-    opus: 78
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:4:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:5:{s:3:"vl1";i:1;s:3:"vl2";i:1;s:3:"vla";i:1;s:2:"vc";i:1;s:2:"cb";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:5:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:5:{s:3:"vl1";i:1;s:3:"vl2";i:1;s:3:"vla";i:1;s:2:"vc";i:1;s:2:"cb";i:1;}s:3:"bbl";a:2:{s:4:"who1";i:1;s:4:"who2";i:1;}s:3:"hbl";a:2:{s:3:"cl1";i:1;s:3:"cl2";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 17
-    next: 40
-  -
-    id: 22
-    komponisten_id: 53
-    komponisten_idtext: Huber, H. 
-    titel: Huber, H. - Requiem mit Libera c-moll op. 21 
-    titelwerk: Requiem mit Libera c-moll op. 21
-    titeloriginal: 
-    titel_def: Requiem mit Libera
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 2
-    opus: 21
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:5:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"aho";i:1;s:4:"who2";i:1;s:3:"bbd";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Horn II, Bombardon); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 46
-    next: 41
-  -
-    id: 23
-    komponisten_id: 54
-    komponisten_idtext: Bruckner, A. 
-    titel: Bruckner, A. - 6 Tantum ergo As-Dur 
-    titelwerk: 6 Tantum ergo As-Dur
-    titeloriginal: 
-    titel_def: 6 Tantum ergo
-    gattungen_id: 2
-    gatt_nr: 0
-    tonart: 17
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Violinstimmen hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:2:{s:3:"vl1";i:1;s:3:"vl2";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Streicher, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 4
-    next: 3
-  -
-    id: 24
-    komponisten_id: 18
-    komponisten_idtext: Gruber, J. 
-    titel: Gruber, J. - Missa pro defunctis Es-Dur op. 80 
-    titelwerk: Missa pro defunctis Es-Dur op. 80
-    titeloriginal: 
-    titel_def: Missa pro defunctis
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 7
-    opus: 80
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"fho";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Fl?gelhorn, Tenorhorn, Posaune)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 10
-    next: 30
-  -
-    id: 25
-    komponisten_id: 57
-    komponisten_idtext: Siebzehnriegel, F. X. 
-    titel: Siebzehnriegel, F. - Messe zu Ehren der liebreichen Mutter Es-Dur op. 4 
-    titelwerk: Messe zu Ehren der liebreichen Mutter Es-Dur op. 4
-    titeloriginal: Messe zu Ehren der liebreichen Mutter von der immerw&auml;hrenden Hilfe
-    titel_def: Messe zu Ehren der liebreichen Mutter
-    gattungen_id: 1
-    gatt_nr: 0
-    tonart: 7
-    opus: 4
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:5:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:4:"who2";i:1;s:3:"bbd";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Horn II, Bombardon); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 39
-    next: 17
-  -
-    id: 27
-    komponisten_id: 19
-    komponisten_idtext: Mitterer, I. 
-    titel: Mitterer, I. - Missa pro defunctis As-Dur 
-    titelwerk: Missa pro defunctis As-Dur
-    titeloriginal: 
-    titel_def: Missa pro defunctis
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 17
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 6
-    next: 31
-  -
-    id: 28
-    komponisten_id: 60
-    komponisten_idtext: Gloger, J. 
-    titel: Gloger, J. - Requiem (Missa IV) d-moll op. 27 
-    titelwerk: Requiem (Missa IV) d-moll op. 27
-    titeloriginal: 
-    titel_def: Requiem (Missa IV)
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 6
-    opus: 27
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 49
-    next: 32
-  -
-    id: 29
-    komponisten_id: 61
-    komponisten_idtext: Ett, C. 
-    titel: Ett, C. - Missa pro defunctis Es-Dur 
-    titelwerk: Missa pro defunctis Es-Dur
-    titeloriginal: 
-    titel_def: Missa pro defunctis
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 20
-    next: 47
-  -
-    id: 30
-    komponisten_id: 18
-    komponisten_idtext: Gruber, J. 
-    titel: Gruber, J. - Requiem in c-moll op. 114 
-    titelwerk: Requiem in c-moll op. 114
-    titeloriginal: 
-    titel_def: Requiem in
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 2
-    opus: 114
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 24
-    next: 33
-  -
-    id: 31
-    komponisten_id: 19
-    komponisten_idtext: Mitterer, I. 
-    titel: Mitterer, I. - Festoffertorien C-Dur op. 89 
-    titelwerk: Festoffertorien C-Dur op. 89
-    titeloriginal: 
-    titel_def: Festoffertorien
-    gattungen_id: 5
-    gatt_nr: 0
-    tonart: 1
-    opus: 89
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Streichquintett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:5:{s:3:"vl1";i:1;s:3:"vl2";i:1;s:3:"vla";i:1;s:2:"vc";i:1;s:2:"cb";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Streicher, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 27
-    next: 50
-  -
-    id: 32
-    komponisten_id: 11
-    komponisten_idtext: Goller, V. 
-    titel: Goller, V. - 12 Pange lingua B-Dur op. 5 
-    titelwerk: 12 Pange lingua B-Dur op. 5
-    titeloriginal: 
-    titel_def: 12 Pange lingua
-    gattungen_id: 3
-    gatt_nr: 0
-    tonart: 21
-    opus: 5
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tbn";i:1;s:3:"bbd";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Posaune, Bombardon); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 28
-    next: 35
-  -
-    id: 33
-    komponisten_id: 66
-    komponisten_idtext: H&auml;mel, A. 
-    titel: H&auml;mel, A. - Marienlied &quot;Ein Bildnis ist mir ins Herz gegraben&quot; F-Dur op. 88 
-    titelwerk: Marienlied &quot;Ein Bildnis ist mir ins Herz gegraben&quot; F-Dur op. 88
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 4
-    gatt_nr: 0
-    tonart: 11
-    opus: 88
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"sso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"fch";a:3:{s:2:"s1";i:1;s:2:"s2";i:1;s:2:"a1";i:1;}}
-    bes_grup2: gemischter Chor, Frauenchor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Frauenchor (Sopran I, Sopran II, Alt I)
-    liedtext: Ein Bildnis ist mir ins Herz gegraben
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 30
-    next: 19
-  -
-    id: 34
-    komponisten_id: 32
-    komponisten_idtext: Deschermeier, J. 
-    titel: Deschermeier, J. - Missa de Requiem Es-Dur op. 90 
-    titelwerk: Missa de Requiem Es-Dur op. 90
-    titeloriginal: 
-    titel_def: Missa de Requiem
-    gattungen_id: 23
-    gatt_nr: 0
-    tonart: 7
-    opus: 90
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 3
-    next: 43
-  -
-    id: 35
-    komponisten_id: 11
-    komponisten_idtext: Goller, V. 
-    titel: Goller, V. - Offertorium &quot;Terra tremuit&quot; B-Dur op. 22 Nr. 23
-    titelwerk: Offertorium &quot;Terra tremuit&quot; B-Dur op. 22 Nr. 23
-    titeloriginal: Offertorien f&uuml;r das ganze Kirchenjahr, Heft II, (Osterkreis) No. 23 Dominica Resurectionis (Am Ostersonntag)
-    titel_def: 
-    gattungen_id: 5
-    gatt_nr: 0
-    tonart: 21
-    opus: 22
-    opuszusatz: 
-    opusnummer: 23
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:4:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:5:{s:3:"vl1";i:1;s:3:"vl2";i:1;s:3:"vla";i:1;s:2:"vc";i:1;s:2:"cb";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: Terra tremuit
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 32
-    next: 36
-  -
-    id: 36
-    komponisten_id: 11
-    komponisten_idtext: Goller, V. 
-    titel: Goller, V. - Offertorium &quot;Tui sunt coeli&quot; C-Dur op. 21 Nr. 8
-    titelwerk: Offertorium &quot;Tui sunt coeli&quot; C-Dur op. 21 Nr. 8
-    titeloriginal: Offertorien f&uuml;r das ganze Kirchenjahr, Heft I, (Weihnachtskreis) No. 8 Ad III. Missa (Dritte Messe am Tage.)
-    titel_def: 
-    gattungen_id: 5
-    gatt_nr: 0
-    tonart: 1
-    opus: 21
-    opuszusatz: 
-    opusnummer: 8
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:4:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"str";a:2:{s:3:"vl1";i:1;s:3:"vl2";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup2: gemischter Chor, Orgel
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
-    liedtext: Tui sunt coeli
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 35
-    next: 7
-  -
-    id: 37
-    komponisten_id: 68
-    komponisten_idtext: Schubert, F. 
-    titel: Schubert, F. - Deutsche Messe Es-Dur 
-    titelwerk: Deutsche Messe Es-Dur
-    titeloriginal: 
-    titel_def: Deutsche Messe
-    gattungen_id: 1
-    gatt_nr: 0
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 42
-    next: 39
-  -
-    id: 38
-    komponisten_id: 25
-    komponisten_idtext: Sch&auml;chtl, G. 
-    titel: Sch&auml;chtl, G. - Marienlied &quot;Maria, lilienreine!&quot; As-Dur op. 2 
-    titelwerk: Marienlied &quot;Maria, lilienreine!&quot; As-Dur op. 2
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 4
-    gatt_nr: 0
-    tonart: 17
-    opus: 2
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"bso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo); Orgel (mit Pedal)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: Maria, lilienreine!
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 18
-    next: 44
-  -
-    id: 39
-    komponisten_id: 73
-    komponisten_idtext: Seitz, F. 
-    titel: Seitz, F. - 3 Grabges&auml;nge f&uuml;r gefallene Krieger F-Dur op. 28 
-    titelwerk: 3 Grabges&auml;nge f&uuml;r gefallene Krieger F-Dur op. 28
-    titeloriginal: 
-    titel_def: 3 Grabges&auml;nge f&uuml;r gefallene Krieger
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 11
-    opus: 28
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 37
-    next: 25
-  -
-    id: 40
-    komponisten_id: 74
-    komponisten_idtext: Tresch, J. B. 
-    titel: Tresch, J. - Am Grabe eines Kriegers Es-Dur 
-    titelwerk: Am Grabe eines Kriegers Es-Dur
-    titeloriginal: 
-    titel_def: Am Grabe eines Kriegers
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: f&uuml;r 4-st. gem. Chor arrangiert, Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
-    bes_ser2: a:1:{s:3:"mch";a:4:{s:2:"t1";i:1;s:2:"t2";i:1;s:2:"b1";i:1;s:2:"b2";i:1;}}
-    bes_grup2: M&auml;nnerchor
-    bes_grup_u_inst2: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
-    liedtext: | Steig auf mein Geist zum Sternenzelt,<br>
-wo keiner mehr im Kriege f&auml;llt.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 21
-    next: 11
-  -
-    id: 41
-    komponisten_id: 71
-    komponisten_idtext: Kindsm&uuml;ller, K. 
-    titel: Kindsm&uuml;ller, K. - Trauerlied f&uuml;r gefallene Helden F-Dur op. 70 
-    titelwerk: Trauerlied f&uuml;r gefallene Helden F-Dur op. 70
-    titeloriginal: 
-    titel_def: Trauerlied f&uuml;r gefallene Helden
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 11
-    opus: 70
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
-    bes_ser2: 
-    bes_grup2: 
-    bes_grup_u_inst2: 
-    liedtext: | Du zogest f&uuml;r die Heimat ins Feindesland hinaus,<br>
-das Unrecht abzuwehren, zu sch&uuml;tzen Heim und Haus.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 22
-    next: 45
-  -
-    id: 42
-    komponisten_id: 76
-    komponisten_idtext: Schr&ouml;der, F. 
-    titel: Schr&ouml;der, F. - Zum Ged&auml;chtnis unserer gefallenen Krieger Es-Dur 
-    titelwerk: Zum Ged&auml;chtnis unserer gefallenen Krieger Es-Dur
-    titeloriginal: 
-    titel_def: Zum Ged&auml;chtnis unserer gefallenen Krieger
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"fho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Ruhe in Frieden!<br>
-<br>
-Du zogest f&uuml;r die Heimat in Feindesland hinaus,<br>
-das Unrecht abzuwehren, zu sch&uuml;tzen Heim und Haus.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 44
-    next: 37
-  -
-    id: 43
-    komponisten_id: 72
-    komponisten_idtext: Donderer, O. 
-    titel: Donderer, O. - Grablied am Grabe eines Helden Es-Dur op. 1 
-    titelwerk: Grablied am Grabe eines Helden Es-Dur op. 1
-    titeloriginal: 
-    titel_def: Grablied am Grabe eines Helden
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 7
-    opus: 1
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Wer auf dem Feld der Ehre streitet f&uuml;r Vaterland und Haus und Herd,<br>
-von seinen Engeln treu geleitet,<br>
-der ist der h&ouml;chsten Ehrenwert.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 34
-    next: 20
-  -
-    id: 44
-    komponisten_id: 77
-    komponisten_idtext: Schnabel, J. 
-    titel: Schnabel, J. -  &quot;Herr, unser Gott&quot; C-Dur 
-    titelwerk: &quot;Herr, unser Gott&quot; C-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 0
-    gatt_nr: 0
-    tonart: 1
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Herr, unser Gott,<br>
-wie gro&szlig; bist du.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 38
-    next: 42
-  -
-    id: 45
-    komponisten_id: 78
-    komponisten_idtext: Klein, B. 
-    titel: Klein, B. - Psalm 123 B-Dur 
-    titelwerk: Psalm 123 B-Dur
-    titeloriginal: 
-    titel_def: Psalm 123
-    gattungen_id: 0
-    gatt_nr: 0
-    tonart: 21
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: Auf dich o Herr, vertrauet meine Seele
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 41
-    next: 6
-  -
-    id: 46
-    komponisten_id: 83
-    komponisten_idtext: Haunschild, F. 
-    titel: Haunschild, F. - Grablied &quot;Treues Herz, nun ruh in Frieden&quot; F-Dur 
-    titelwerk: Grablied &quot;Treues Herz, nun ruh in Frieden&quot; F-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 11
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Treues Herz, nun ruh in Frieden<br>
-<br>
-Treuer Vater schlaf in Frieden,<br>
-schlummere sanft in stiller Gruft.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 19
-    next: 22
-  -
-    id: 47
-    komponisten_id: 37
-    komponisten_idtext: G&uuml;ttler, J. 
-    titel: G&uuml;ttler, J. - Grablied Nr. 1 &quot;Wie war so mild&quot; Es-Dur 
-    titelwerk: Grablied Nr. 1 &quot;Wie war so mild&quot; Es-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 1
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Wie war so mild,<br>
-war so rein,<br>
-der Lenz dir aufgegangen
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 29
-    next: 48
-  -
-    id: 48
-    komponisten_id: 37
-    komponisten_idtext: G&uuml;ttler, J. 
-    titel: G&uuml;ttler, J. - Grablied Nr. 2 F-Dur 
-    titelwerk: Grablied Nr. 2 F-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 2
-    tonart: 11
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: 
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 47
-    next: 49
-  -
-    id: 49
-    komponisten_id: 37
-    komponisten_idtext: G&uuml;ttler, J. 
-    titel: G&uuml;ttler, J. - Grablied Nr. 3 &quot;Das liebe treue Mutterherz&quot; Es-Dur 
-    titelwerk: Grablied Nr. 3 &quot;Das liebe treue Mutterherz&quot; Es-Dur
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 3
-    tonart: 7
-    opus: 0
-    opuszusatz: 
-    opusnummer: 0
-    titelliedtextja: 1
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Das liebe treue Mutterherz<br>
-schl&auml;ft nun so sanf in Frieden.<br>
-Es endet zum gr&ouml;&szlig;ten Schmerz f&uuml;r uns so fr&uuml;h hinnieden.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 48
-    next: 28
-  -
-    id: 50
-    komponisten_id: 36
-    komponisten_idtext: Pleyer, E. 
-    titel: Pleyer, E. - Grablied B-Dur op. 50 Nr. 5
-    titelwerk: Grablied B-Dur op. 50 Nr. 5
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 6
-    gatt_nr: 0
-    tonart: 21
-    opus: 50
-    opuszusatz: 
-    opusnummer: 5
-    titelliedtextja: 0
-    veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
-    bes_ser: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"bbl";a:4:{s:3:"tr1";i:1;s:3:"tr2";i:1;s:3:"tho";i:1;s:3:"tbn";i:1;}}
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
-    bes_ser2: a:1:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}}
-    bes_grup2: gemischter Chor
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    liedtext: | Jetzt da ich ausgewungen habe des Lebens herbe Pein,<br>
-so bettet mich im tiefen Graben recht still und friedlich ein.
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 31
-    next: 18
-  -
-    id: 51
-    komponisten_id: 7
-    komponisten_idtext: Zangl, J. G. 
-    titel: Zangl, J. - Herz-Jesu-Lied &quot;O Jesus meine Liebe&quot; As-Dur op. 41 Nr. 2
-    titelwerk: Herz-Jesu-Lied &quot;O Jesus meine Liebe&quot; As-Dur op. 41 Nr. 2
-    titeloriginal: 
-    titel_def: 
-    gattungen_id: 13
-    gatt_nr: 0
-    tonart: 17
-    opus: 41
-    opuszusatz: 
-    opusnummer: 2
-    titelliedtextja: 1
-    veraenderung: Orgelstimme hinzugef&uuml;gt
-    bes_ser: a:3:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"bso";i:1;}s:3:"org";a:1:{s:3:"ped";i:1;}}
-    bes_grup: gemischter Chor, Soli, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo); Orgel (mit Pedal)
-    bes_ser2: a:2:{s:3:"gch";a:4:{s:1:"s";i:1;s:1:"a";i:1;s:1:"t";i:1;s:1:"b";i:1;}s:3:"sol";a:1:{s:3:"bso";i:1;}}
-    bes_grup2: gemischter Chor, Soli
-    bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo)
-    liedtext: | O Jesus meine Liebe<br>
-zieh gn&auml;dig meinen Sinn
-    jpg: 
-    pdf: 
-    gif: 
-    previous: 11
-    next: 0
-
+-
+  komponisten_idtext: Claudius, G. K.
+  titelwerk: Grablied Nr. 6 &quot;Im Grabe ist Ruh&quot; G-Dur
+  tonart: 15
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext: Im Grabe ist Ruh<br>
+-
+  komponisten_idtext: Braun, A.
+  titelwerk: Grablied Nr. 7 &quot;Geht nun hin und grabt mein Grab&quot; B-Dur
+  tonart: 21
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  bes_grup2: M&auml;nnerchor
+  bes_grup_u_inst2: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
+  liedtext: Geht nun hin und grabt mein Grab<br>
+-
+  komponisten_idtext: L&uuml;tzel, H.
+  titelwerk: Trauungslied &quot;Wo du hingehst&quot; Es-Dur
+  tonart: 7
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  bes_grup2: Frauenchor
+  bes_grup_u_inst2: Frauenchor (Sopran I, Sopran II, Alt I)
+  liedtext: Wo du hingehst<br>
+-
+  komponisten_idtext: Griesbacher, P.
+  titelwerk: Marienlied &quot;O Himmelsk&ouml;nigin&quot; F-Dur op. 137
+  tonart: 11
+  titelliedtextja: 1
+  veraenderung: f&uuml;r Solo und 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Tenor-Solo); Orgel (mit Pedal)
+  bes_grup2: Soli, Orgel
+  bes_grup_u_inst2: Soli (Sopran-Solo, Tenor-Solo); Orgel (mit Pedal)
+  liedtext: O Himmelsk&ouml;nigin
+-
+  komponisten_idtext: Griesbacher, P.
+  titelwerk: Marienlied &quot;Wenn mein Schifflein sich will wenden&quot; C-Dur op. 137
+  tonart: 1
+  titelliedtextja: 1
+  veraenderung: f&uuml;r Solo und 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
+  bes_grup2: Soli, Orgel
+  bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
+  liedtext: Wenn mein Schifflein sich will wenden
+-
+  komponisten_idtext: Griesbacher, P.
+  titelwerk: Herz-Jesu-Lied &quot;O h&auml;tt ich tausend Herzen&quot; D-Dur op. 33 Nr. 2
+  tonart: 5
+  titelliedtextja: 1
+  veraenderung: f&uuml;r vierstimmig gemischten Chor arrangiert
+  bes_grup: gemischter Chor, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  bes_grup2: Soli, Orgel
+  bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
+  liedtext: O h&auml;tt ich tausend Herzen
+-
+  komponisten_idtext: Griesbacher, P.
+  titelwerk: Herz-Jesu-Lied &quot;Dem Herzen Jesu singe&quot; C-Dur op. 33 Nr. 1
+  tonart: 1
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  bes_grup2: Soli, Orgel
+  bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
+  liedtext: Dem Herzen Jesu singe
+-
+  komponisten_idtext: Zangl, J. G.
+  titelwerk: Herz-Jesu-Lied &quot;Ein Herz hab ich gefunden&quot; G-Dur op. 41 Nr. 1
+  tonart: 15
+  titelliedtextja: 1
+  veraenderung: Orgelstimme hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Soli
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo)
+  liedtext: |
+    Ein Herz hab ich gefunden,<br>
+    wie Gold so treu und rein,<br>
+    bedekt mit Liebeswunden,<br>
+    wie Demantgestein.
+-
+  komponisten_idtext: Abt, F. W.
+  titelwerk: Grablied &quot;&Uuml;ber den Sternen&quot; F-Dur op. 374 Nr. 3
+  tonart: 11
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  bes_grup2: Frauenchor
+  bes_grup_u_inst2: Frauenchor (Sopran I, Sopran II, Alt I)
+  liedtext: |
+    &Uuml;ber den Sternen,<br> da wird es einst tagen,
+-
+  komponisten_idtext: Silcher, F.
+  titelwerk: Trauungslied &quot;So nimm denn meine H&auml;nde&quot; D-Dur
+  tonart: 5
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext: |
+    So nimm denn meine H&auml;nde<br>
+    und f&uuml;hre mich bis an mein selig Ende<br>
+    und ewiglich
+-
+  komponisten_idtext: Sch&auml;chtl, G.
+  titelwerk: Deutscher Auferstehungs-Chor Es-Dur op. 24
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune, Posaune II); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext:
+-
+  komponisten_idtext: Haller, M.
+  titelwerk: Laudes Eucharisticae G-Dur op. 16
+  tonart: 15
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext:
+-
+  komponisten_idtext: Engelhart, F. X.
+  titelwerk: Trauerlied &quot;Friedhofsglocken rufen klagend&quot; Es-Dur op. 77
+  tonart: 7
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune, Posaune II)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Friedhofsglocken rufen klagend<br>
+    an der lieben Grabesrand,<br>
+    denn aus seiner Lieben Mitte nahm des Todes harte Hand.
+-
+  komponisten_idtext: Stein, J.
+  titelwerk: Instrumental-Messe Nr. 6 Es-Dur op. 78
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Huber, H.
+  titelwerk: Requiem mit Libera c-moll op. 21
+  tonart: 2
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Horn II, Bombardon); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Bruckner, A.
+  titelwerk: 6 Tantum ergo As-Dur
+  tonart: 17
+  titelliedtextja: 0
+  veraenderung: Violinstimmen hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Streicher, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Gruber, J.
+  titelwerk: Missa pro defunctis Es-Dur op. 80
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Fl?gelhorn, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Siebzehnriegel, F. X.
+  titelwerk: Messe zu Ehren der liebreichen Mutter Es-Dur op. 4
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Horn II, Bombardon); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Mitterer, I.
+  titelwerk: Missa pro defunctis As-Dur
+  tonart: 17
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Gloger, J.
+  titelwerk: Requiem (Missa IV) d-moll op. 27
+  tonart: 6
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Ett, C.
+  titelwerk: Missa pro defunctis Es-Dur
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext:
+-
+  komponisten_idtext: Gruber, J.
+  titelwerk: Requiem in c-moll op. 114
+  tonart: 2
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Mitterer, I.
+  titelwerk: Festoffertorien C-Dur op. 89
+  tonart: 1
+  titelliedtextja: 0
+  veraenderung: Streichquintett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Streicher, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Goller, V.
+  titelwerk: 12 Pange lingua B-Dur op. 5
+  tonart: 21
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Posaune, Bombardon); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext:
+-
+  komponisten_idtext: H&auml;mel, A.
+  titelwerk: Marienlied &quot;Ein Bildnis ist mir ins Herz gegraben&quot; F-Dur op. 88
+  tonart: 11
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Frauenchor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Frauenchor (Sopran I, Sopran II, Alt I)
+  liedtext: Ein Bildnis ist mir ins Herz gegraben
+-
+  komponisten_idtext: Deschermeier, J.
+  titelwerk: Missa de Requiem Es-Dur op. 90
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext:
+-
+  komponisten_idtext: Goller, V.
+  titelwerk: Offertorium &quot;Terra tremuit&quot; B-Dur op. 22 Nr. 23
+  tonart: 21
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext: Terra tremuit
+-
+  komponisten_idtext: Goller, V.
+  titelwerk: Offertorium &quot;Tui sunt coeli&quot; C-Dur op. 21 Nr. 8
+  tonart: 1
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Orgel
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
+  liedtext: Tui sunt coeli
+-
+  komponisten_idtext: Schubert, F.
+  titelwerk: Deutsche Messe Es-Dur
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext:
+-
+  komponisten_idtext: Sch&auml;chtl, G.
+  titelwerk: Marienlied &quot;Maria, lilienreine!&quot; As-Dur op. 2
+  tonart: 17
+  titelliedtextja: 1
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo); Orgel (mit Pedal)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext: Maria, lilienreine!
+-
+  komponisten_idtext: Seitz, F.
+  titelwerk: 3 Grabges&auml;nge f&uuml;r gefallene Krieger F-Dur op. 28
+  tonart: 11
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext:
+-
+  komponisten_idtext: Tresch, J. B.
+  titelwerk: Am Grabe eines Kriegers Es-Dur
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: f&uuml;r 4-st. gem. Chor arrangiert, Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
+  bes_grup2: M&auml;nnerchor
+  bes_grup_u_inst2: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
+  liedtext: |
+    Steig auf mein Geist zum Sternenzelt,<br>
+    wo keiner mehr im Kriege f&auml;llt.
+-
+  komponisten_idtext: Kindsm&uuml;ller, K.
+  titelwerk: Trauerlied f&uuml;r gefallene Helden F-Dur op. 70
+  tonart: 11
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
+  bes_grup2:
+  bes_grup_u_inst2:
+  liedtext: |
+    Du zogest f&uuml;r die Heimat ins Feindesland hinaus,<br>
+    das Unrecht abzuwehren, zu sch&uuml;tzen Heim und Haus.
+-
+  komponisten_idtext: Schr&ouml;der, F.
+  titelwerk: Zum Ged&auml;chtnis unserer gefallenen Krieger Es-Dur
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Ruhe in Frieden!<br>
+    <br>
+    Du zogest f&uuml;r die Heimat in Feindesland hinaus,<br>
+    das Unrecht abzuwehren, zu sch&uuml;tzen Heim und Haus.
+-
+  komponisten_idtext: Donderer, O.
+  titelwerk: Grablied am Grabe eines Helden Es-Dur op. 1
+  tonart: 7
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Wer auf dem Feld der Ehre streitet f&uuml;r Vaterland und Haus und Herd,<br>
+    von seinen Engeln treu geleitet,<br>
+    der ist der h&ouml;chsten Ehrenwert.
+-
+  komponisten_idtext: Schnabel, J.
+  titelwerk: "&quot;Herr, unser Gott&quot; C-Dur"
+  tonart: 1
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Herr, unser Gott,<br>
+    wie gro&szlig; bist du.
+-
+  komponisten_idtext: Klein, B.
+  titelwerk: Psalm 123 B-Dur
+  tonart: 21
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: Auf dich o Herr, vertrauet meine Seele
+-
+  komponisten_idtext: Haunschild, F.
+  titelwerk: Grablied &quot;Treues Herz, nun ruh in Frieden&quot; F-Dur
+  tonart: 11
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Treues Herz, nun ruh in Frieden<br>
+    <br>
+    Treuer Vater schlaf in Frieden,<br>
+    schlummere sanft in stiller Gruft.
+-
+  komponisten_idtext: G&uuml;ttler, J.
+  titelwerk: Grablied Nr. 1 &quot;Wie war so mild&quot; Es-Dur
+  tonart: 7
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Wie war so mild,<br>
+    war so rein,<br>
+    der Lenz dir aufgegangen
+-
+  komponisten_idtext: G&uuml;ttler, J.
+  titelwerk: Grablied Nr. 2 F-Dur
+  tonart: 11
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext:
+-
+  komponisten_idtext: G&uuml;ttler, J.
+  titelwerk: Grablied Nr. 3 &quot;Das liebe treue Mutterherz&quot; Es-Dur
+  tonart: 7
+  titelliedtextja: 1
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Das liebe treue Mutterherz<br>
+    schl&auml;ft nun so sanf in Frieden.<br>
+    Es endet zum gr&ouml;&szlig;ten Schmerz f&uuml;r uns so fr&uuml;h hinnieden.
+-
+  komponisten_idtext: Pleyer, E.
+  titelwerk: Grablied B-Dur op. 50 Nr. 5
+  tonart: 21
+  titelliedtextja: 0
+  veraenderung: Bl&auml;serquartett hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Blechbl&auml;ser
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+  bes_grup2: gemischter Chor
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
+  liedtext: |
+    Jetzt da ich ausgewungen habe des Lebens herbe Pein,<br>
+    so bettet mich im tiefen Graben recht still und friedlich ein.
+-
+  komponisten_idtext: Zangl, J. G.
+  titelwerk: Herz-Jesu-Lied &quot;O Jesus meine Liebe&quot; As-Dur op. 41 Nr. 2
+  tonart: 17
+  titelliedtextja: 1
+  veraenderung: Orgelstimme hinzugef&uuml;gt
+  bes_grup: gemischter Chor, Soli, Orgel
+  bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo); Orgel (mit Pedal)
+  bes_grup2: gemischter Chor, Soli
+  bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Bass-Solo)
+  liedtext: |
+    O Jesus meine Liebe<br>
+    zieh gn&auml;dig meinen Sinn
 ...
