@@ -2,23 +2,26 @@
 title: Inhaltsverzeichnis
 ---
 
-{% for doc in site.pages %}
+  <h3>Alle Seiten</h3>
 
-{{ doc.title }}
-
-{% endfor %}
-
-
-
+  <ul>
+  {% for doc in site.pages %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
 
 {% for collection in site.collections %}
   {% capture label %}{{ collection | first }}{% endcapture %}
-  <h3>All documents listed in collection '{{ label}}'</h3>
+  <h3>Alle Seiten im Bereich „{{ site.collections.[label].name }}“</h3>
 
+  <ul>
   {% for doc in site.collections.[label].docs %}
     <li>
-      <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
   {% endfor %}
+  </ul>
 
 {% endfor %}

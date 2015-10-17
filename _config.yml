@@ -3,8 +3,10 @@ encoding: utf-8
 
 collections:
   compositions:
+    name: Kompositionen
     output: true
   historical_works:
+    name: Geschichtswerk
     output: true
 
 defaults:
