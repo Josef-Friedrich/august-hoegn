@@ -33,6 +33,20 @@ $query = 'SELECT
     text
 FROM interviews'; 
 
+$path = '/var/www/august-hoegn.tk/_documents/';
+$query = 'SELECT 
+  id,
+  titel as title,
+  dok_art,
+  datum as date,
+  thematiktext as subject,
+  thema as topic,
+  feld1 as field_1,
+  feld2 as field_2,
+  dok_fundorttext as find_spot,
+  text
+FROM dokumente';
+
 function query($query) {
 	$server = 'localhost';
 	$user   = 'august_hoegn';
@@ -69,14 +83,16 @@ function wrap($data) {
 
 function generate_document($path, $row) {
 	$output = '';
+	$text = $row['text'];
+	unset($row['text']);
 	foreach ($row as $key => $value) {
 		
 		$value = str_replace("\r\n","\n", $value);
-		//$value = html_entity_decode($value, ENT_COMPAT | ENT_HTML401, 'UTF-8');
 		$output .= generate_entry($key, $value);
 	}
-	//$output = iconv('ISO-8859-1', 'UTF-8', wrap($output));
-	file_put_contents($path . $row['id'] . '.html', wrap($output));
+	$output .= wrap($output);
+	$output .= $output . "\n" . $text;
+	file_put_contents($path . $row['id'] . '.html', $output);
 }
 
 $rows = query($query);
