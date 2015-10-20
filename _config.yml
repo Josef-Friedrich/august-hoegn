@@ -11,6 +11,9 @@ collections:
   historical_works:
     name: Geschichtswerk
     output: true
+  interviews:
+    name: Interviews
+    output: true
 
 defaults:
   -
@@ -43,6 +46,14 @@ defaults:
       layout: historical-works
       metaphor_image: geschichtswerk
       metaphor_text: Geschichtswerk
+  -
+    scope:
+      path: ""
+      type: "interviews"
+    values:
+      layout: interviews
+      metaphor_image: interviews
+      metaphor_text: Interviews
 
 exclude:
 - "*.php"

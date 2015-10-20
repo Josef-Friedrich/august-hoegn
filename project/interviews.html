@@ -3,44 +3,12 @@ title: Interviews
 metaphor_image: projekt
 metaphor_text: Projekt
 ---
-                     <table>
-                          <tr>
-                            <th width="210" valign="top"><a href="images/projekt-interviews/2/barbara_essigmann1_gross.jpg"><img src="images/projekt-interviews/2/barbara_essigmann1_klein.jpg" width="200" height="247" border="0" /></a></th>
-                            <th valign="top"><p>ordnen nach:</p>
-                              <ul>
-                                <li><a href="projekt-interviews.php" <?php if (!isset($_GET['order'])) echo "class=\"agross\"" ?>>Datum</a></li>
-                                <li><a href="projekt-interviews.php?order=interviewter" <?php if ($_GET['order'] == "interviewter") echo "class=\"agross\"" ?>>                                Interviewter/te</a> </li>
-                              </ul></th>
-              </tr>
-                        </table>
-<?php
 
-$table = new Tabelle;
-$table->Tabelle = "interviews";
-$table->Sortierung = "datum";
-$table->path = "projekt-interviews-einzeln.php";
-$table->Spalten = array
-	(
-	"\$columnn_content = datum (\$row, 0);" => "Datum",
-	"titel" => "",
-	"dauer" => "Dauer",
-	"ort" => "Ort"
-	);
+{% for item in site.interviews %}
 
-echo "<br><strong>Anzahl der Interviews:</strong>&nbsp;&nbsp;&nbsp;" . $table->DatasetQuantity ();
+<a href="{{ item.url }}">
+  <h2>{{ item.title }}</h2>
+</a>
 
-switch ($_GET['order'])
-	{
-	default:
-	break;
-
-	case "interviewter":
-	$table->Sortierung = "interviewter";
-
-	break;
-	}
-
-echo $table->TableOutput ();
-
-?>
+{% endfor %}
 
