@@ -5,7 +5,7 @@ collections:
   compositions:
     name: Kompositionen
     output: true
-  documents:
+  archives:
     name: Dokumente
     output: true
   historical_works:
@@ -33,7 +33,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "documents"
+      type: "archives"
     values:
       layout: documents
       metaphor_image: dokumente
