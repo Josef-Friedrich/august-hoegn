@@ -4,78 +4,10 @@ metaphor_image: projekt
 metaphor_text: Projekt
 ---
 
-<?php
-$tm->HtmlTitle('headline');
-?>
-                        <table>
-                          <tr>
-                            <th width="210" valign="top"><a href="images/projekt-dokumente/dokumente_gross.jpg"><img src="images/projekt-dokumente/dokumente_klein.jpg" width="200" height="187" border="0" /></a></th>
-                            <th><p>ordnen nach:</p>
-                              <ul>
-                                <li><a href="projekt-dokumente.php" <?php if (!isset($_GET['order'])) echo "class=\"agross\"" ?>>Thematik</a></li>
-                                <li><a href="projekt-dokumente.php?order=datum" <?php if ($_GET['order'] == "datum") echo "class=\"agross\"" ?>>Datum</a></li>
-                                <li><a href="projekt-dokumente.php?order=dok_art" <?php if ($_GET['order'] == "dok_art") echo "class=\"agross\"" ?>>Dokumentart</a></li>
-                                <li><a href="projekt-dokumente.php?order=hoegnbriefe" <?php if ($_GET['order'] == "hoegnbriefe") echo "class=\"agross\"" ?>>Briefe von/an H&ouml;gn</a></li>
-                                <li><a href="projekt-dokumente.php?order=fundort" <?php if ($_GET['order'] == "fundort") echo "class=\"agross\"" ?>>Fundorten</a></li>
-                              </ul>
-                            <p><a href="projekt-dokumente-fundorte.php">Fundorte der Dokumente</a></p>                            </th>
-                          </tr>
-                        </table>
-<?php
+{% for item in site.documents %}
 
-$table = new Tabelle;
-$table->Tabelle = "dokumente";
-$table->Sortierung = "datum";
-$table->path = "projekt-dokumente-einzeln.php";
-$table->Spalten = array
-	(
-	"\$columnn_content = datum (\$row, 0);" => "Datum",
-	"titel" => "Titel"
-	);
+<a href="{{ item.url }}">
+  <h2>{{ item.title }}</h2>
+</a>
 
-echo "<br><strong>Anzahl der Dokumente:</strong>&nbsp;&nbsp;alle:&nbsp;" .
-		$table->DatasetQuantity () . "&nbsp;&nbsp;Briefe:&nbsp;" .
-		$table->DatasetQuantity ("dok_art", 1) . "&nbsp;&nbsp;Zeitungsartikel:&nbsp;" .
-		$table->DatasetQuantity ("dok_art", 2);
-
-switch ($_GET['order'])
-	{
-	default:
-	$table->SortierArray = $array_thematik;
-	$table->SortierArraySpalte = "thematik";
-	break;
-
-	case "datum":
-	break;
-
-	case "dok_art":
-	$table->SortierArray = $array_dok_art;
-	$table->SortierArraySpalte = "dok_art";
-	break;
-
-	case "hoegnbriefe":
-	$table->SortierArray = array
-		(
-		"a" => "Briefe von August H&ouml;gn",
-	 	"b" => "Briefe an August H&ouml;gn"
-		);
-
-	$table->SortierQuery = array
-		(
-		"a" => "WHERE feld1 = 'August H&ouml;gn'",
-		"b" => "WHERE feld2 = 'August H&ouml;gn'"
-		);
-
-	$table->SortierArraySpalte = "feld1";
-	break;
-
-	case "fundort":
-	$table->SortierArray = $array_dok_fundort;
-	$table->SortierArraySpalte = "dok_fundort";
-	break;
-
-	}
-
-echo $table->TableOutput ();
-
-?>
+{% endfor %}

@@ -5,6 +5,9 @@ collections:
   compositions:
     name: Kompositionen
     output: true
+  documents:
+    name: Dokumente
+    output: true
   historical_works:
     name: Geschichtswerk
     output: true
@@ -24,6 +27,14 @@ defaults:
       layout: compositions
       metaphor_image: kompositionen
       metaphor_text: Kompositionen
+  -
+    scope:
+      path: ""
+      type: "documents"
+    values:
+      layout: documents
+      metaphor_image: dokumente
+      metaphor_text: Dokumente
   -
     scope:
       path: ""

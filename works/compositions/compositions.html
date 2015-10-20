@@ -4,10 +4,10 @@ metaphor_image: kompositionen
 metaphor_text: Kompositionen
 ---
 
-{% for composition in site.compositions %}
+{% for item in site.compositions %}
 
-<a href="{{ composition.url }}">
-	<h2>{{ composition.title }}</h2>
+<a href="{{ item.url }}">
+	<h2>{{ item.title }}</h2>
 </a>
 
 {% endfor %}
