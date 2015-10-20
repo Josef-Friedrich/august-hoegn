@@ -16,6 +16,23 @@ $query = 'SELECT
   liedtext as lyrics
 FROM kompositionen';
 
+$path = '/var/www/august-hoegn.tk/_interviews/';
+$query = 'SELECT 
+    id,
+    titel as title,
+    interviewter,
+    geburtstag as birthday,
+    todestag as day_of_death,
+    interviewalter as age,
+    jahrgang as age_group,
+    bezug as relation,
+    ort as location,
+    datum as date,
+    dauer as duration,
+    dauergesamt as duration_complete,
+    text
+FROM interviews'; 
+
 function query($query) {
 	$server = 'localhost';
 	$user   = 'august_hoegn';
