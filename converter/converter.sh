@@ -37,7 +37,6 @@ $path = '/var/www/august-hoegn.tk/_documents/';
 $query = 'SELECT 
   id,
   titel as title,
-  dok_art,
   datum as date,
   thematiktext as subject,
   thema as topic,
@@ -90,9 +89,10 @@ function generate_document($path, $row) {
 		$value = str_replace("\r\n","\n", $value);
 		$output .= generate_entry($key, $value);
 	}
-	$output .= wrap($output);
-	$output .= $output . "\n" . $text;
-	file_put_contents($path . $row['id'] . '.html', $output);
+	$output = wrap($output);
+	$output = $output . "\n" . $text;
+	$id = sprintf('%03d', $row['id']); 
+	file_put_contents($path . $id . '.html', $output);
 }
 
 $rows = query($query);
