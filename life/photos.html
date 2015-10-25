@@ -1,0 +1,13 @@
+---
+title: Fotos
+metaphor_image: leben
+metaphor_text: Fotos
+---
+
+{% for item in site.photos %}
+
+<a href="{{ item.url }}">
+	<h2>{{ item.title }}</h2>
+</a>
+
+{% endfor %}
