@@ -14,6 +14,9 @@ collections:
   interviews:
     name: Interviews
     output: true
+  photos:
+    name: Fotos
+    output: true
 
 defaults:
   -
@@ -54,6 +57,15 @@ defaults:
       layout: interviews
       metaphor_image: interviews
       metaphor_text: Interviews
+
+  -
+    scope:
+      path: ""
+      type: "photos"
+    values:
+      layout: photos
+      metaphor_image: leben
+      metaphor_text: Fotos
 
 exclude:
 - "*.php"
