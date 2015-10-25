@@ -4,6 +4,12 @@
 \usepackage{verse}
 \usepackage{graphicx}
 \usepackage{subcaption}
+\usepackage{multicol}
+% for compactitem environment in interviews.
+\usepackage{paralist}
 
 \newcommand{\zitat}[1]{\textit{#1}}
-\newcommand{\img}[2][width=\linewidth]{\noindent\includegraphics[#1]{graphics/#2}}
+\newcommand{\img}[2][width=\linewidth]{%
+  \noindent%
+  \includegraphics[#1]{graphics/#2}%
+}
