@@ -2,4 +2,11 @@
 layout: site
 ---
 
+{% if page.wikicommon_file %}
+  <h2>vertonter Text</h2>
+  <a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommons_file }}">{{ page.wikicommons_file }}</a>
+{% endif %}
+
+<img src="{{ site.baseurl }}/photos/{{ page.file }}">
+
 {{ content }}
