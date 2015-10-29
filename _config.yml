@@ -70,3 +70,6 @@ defaults:
 exclude:
 - "*.php"
 - README.md
+
+categories:
+  - project
