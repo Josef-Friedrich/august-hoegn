@@ -11,9 +11,16 @@
 \usepackage{supertabular}
 \usepackage{hhline}
 \usepackage{hyperref}
+% for environment subfigure
+\usepackage{subcaption}
 \usepackage{graphicx}
 % Text styles
 \newcommand\zitat[1]{\textit{#1}}
+
+\newcommand{\img}[2][width=\linewidth]{%
+  \noindent%
+  \includegraphics[#1]{pictures/#2}%
+}
 
 \newcounter{Abb}
 \renewcommand\theAbb{\arabic{Abb}}
@@ -42,7 +49,7 @@ Josef Friedrich
 \par}
 
 {\centering
-\includegraphics[width=3.836cm,height=5.556cm]{pictures/zulassungsarbeit-img002.jpg}
+\includegraphics[width=3.836cm,height=5.556cm]{pictures/August-Hoegn_Nachruf.jpg}
  \par}
 {\centering\bfseries
 Band I: Hauptteil
@@ -276,30 +283,40 @@ und Otto, kamen 1879 und 1883 jeweils entsprechend auf die
 Welt. \footnote{Grabinschrift der Familiengräber Andreas Högn und
 Ludwig Högn am Deggendorfer Friedhof}
 
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{m{3.462cm}m{4.1130004cm}m{3.3309999cm}m{3.4919999cm}}
+\begin{figure}
+%
+\begin{subfigure}[b]{0.5\linewidth}
+\centering
+\img[height=7cm]{Andreas-Hoegn}
+\caption{Andreas Högn}
+\end{subfigure}
+%
+\begin{subfigure}[b]{0.5\linewidth}
+\centering
+\img[height=7cm]{Helene-Hoegn}
+\caption{Helene Högn}
+\end{subfigure}
+%
+\caption{Die Eltern von August Högn}
+\end{figure}
 
-\includegraphics[width=3.279cm,height=4.505cm]{pictures/zulassungsarbeit-img003.jpg}
+\begin{figure}
+%
+\begin{subfigure}[b]{0.5\linewidth}
+\centering
+\img[height=7cm]{Ludwig-Hoegn}
+\caption{Ludwig Högn}
+\end{subfigure}
+%
+\begin{subfigure}[b]{0.5\linewidth}
+\centering
+\img[height=7cm]{Joseph-Hoegn}
+\caption{Joseph Högn}
+\end{subfigure}
+%
+\caption{Zwei Brüder von August Högn}
+\end{figure}
 
-Abb. \stepcounter{Abb}{\theAbb}: Andreas Högn &
-
-\includegraphics[width=3.93cm,height=4.496cm]{pictures/zulassungsarbeit-img004.jpg}
-
-Abb. \stepcounter{Abb}{\theAbb}: Helene Högn &
-
-\includegraphics[width=3.149cm,height=4.482cm]{pictures/zulassungsarbeit-img005.jpg}
-
-Abb. \stepcounter{Abb}{\theAbb}: Ludwig Högn &
-
-\includegraphics[width=3.309cm,height=4.505cm]{pictures/zulassungsarbeit-img006.jpg}
-
-Abb. \stepcounter{Abb}{\theAbb}: Joseph Högn\\
-\end{supertabular}
-\end{flushleft}
 Augusts Vater war von Beruf Buchbinder und eröffnete zusammen mit seiner
 Ehefrau 1867 eine Buchbinderei und Buchhandlung im so genannten
 „Kerndel´schen-Haus“ am Luitpoldplatz in Deggendorf. Bereits nach 6
@@ -342,24 +359,13 @@ jedoch in Straubing eine Kunst-, Papier- und Galanteriewarenhandlung.
 Somit konnte der jüngste Sohn Otto die Buchhandlung Högn
 übernehmen. \footnote{Interview Nr. 26, Eva Ertl, 9.2.2005, Absatz 2}
 
-\begin{center}
-\begin{minipage}{5.95cm}
-\begin{flushleft}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{m{5.75cm}}
+\begin{figure}
+\img{Buchhandlung-Hoegn_2004}
+\caption{Buchhandlung Högn, 2004}
+\end{figure}
 
-\includegraphics[width=5.567cm,height=5.131cm]{pictures/zulassungsarbeit-img007.jpg}
-
-\label{bkm:Ref100297337}Abb. \stepcounter{Abb}{\theAbb}: Buchhandlung
-Högn, 2004\\
-\end{supertabular}
-\end{flushleft}
-\end{minipage}
-\end{center}
 \subsection{Musikalische Lehrerausbildung}
+
 \hypertarget{RefHeadingToc100333727}{}Die Entscheidung, eine Ausbildung
 zum Volksschullehrer anzutreten, wurde für August Högn sicher auch
 dadurch erleichtert, dass sich in der Deggendorfer Arachauergasse Nr.
@@ -431,30 +437,18 @@ Haberl und Ett sammeln. Sowohl die Lehrer als auch die Schüler waren
 Mitglieder des Bezirk-Cäcilien-Vereins Metten und des
 Pfarr-Cäcilien-Vereins Deggendorf. \footnote{Goller, Seite 47}
 
-\begin{center}
-\begin{minipage}{5.408cm}
-\begin{center}
-\tablefirsthead{}
-\tablehead{}
-\tabletail{}
-\tablelasttail{}
-\begin{supertabular}{m{5.208cm}}
+\begin{figure}
+\centering
+\img[width=5cm]{Praeparandenschule}
+\caption{Gebäude der ehemaligen Präparandenschule in der heutigen 
+Bräugasse Nr. 14 in Deggendorf}
+\end{figure}
 
-\includegraphics[width=5.025cm,height=7.477cm]{pictures/zulassungsarbeit-img008.jpg}
-
-\label{bkm:Ref100297470}Abb. \stepcounter{Abb}{\theAbb}: Gebäude der
-ehemaligen Präparandenschule in der heutigen Bräugasse Nr. 14 in
-Deggendorf\\
-\end{supertabular}
-\end{center}
-\end{minipage}
-\end{center}
-
-\includegraphics[width=15.981cm,height=3.706cm]{pictures/zulassungsarbeit-img009.png}
-
-
-Abb. \stepcounter{Abb}{\theAbb}: Lehrerbildungsanstalt in Straubing
-(Ansicht gegen die Pfarrkirche St. Jakob)
+\begin{figure}
+\img{Lehrerbildungsanstalt}
+\caption{Lehrerbildungsanstalt in Straubing (Ansicht gegen die 
+Pfarrkirche St. Jakob)}
+\end{figure}
 
 So eng die Präparandenschule und die Lehrerbildungsanstalt inhaltlich
 ineinander griffen, so unterschiedlich dürfte August Högn die beiden
@@ -509,8 +503,8 @@ Abb. \stepcounter{Abb}{\theAbb}: Anton Schwarz\\
 \end{flushleft}
 \end{minipage}
 \end{center}
-{\centering   [Warning: Image ignored]
-% Unhandled or unsupported graphics:
+{\centering 
+
 \includegraphics[width=11.088cm,height=3.258cm]{pictures/zulassungsarbeit-img011.png}
  \par}
 {\centering
@@ -1323,7 +1317,7 @@ Jahre verlängert.
 \tablelasttail{}
 \begin{supertabular}{m{4.333cm}m{4.905cm}}
 
-\includegraphics[width=4.15cm,height=6.006cm]{pictures/zulassungsarbeit-img002.jpg}
+\includegraphics[width=4.15cm,height=6.006cm]{pictures/August-Hoegn_Nachruf.jpg}
 
 Abb. \stepcounter{Abb}{\theAbb}: August Högn &
 
