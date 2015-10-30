@@ -12,9 +12,15 @@
 % for compactitem environment in interviews.
 \usepackage{paralist}
 
-\usepackage[backend=biber]{biblatex}
+\usepackage[
+  pdfauthor={Josef Friedrich},
+  pdftitle={Der Mozart von Ruhmannsfelden},
+  pdfsubject={Leben und Werk des Schulrektors, Heimatforschers und Komponisten August Högn (1878-1961)},
+]{hyperref}
+
 % To avoid error Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \usepackage{csquotes}
+\usepackage[backend=biber]{biblatex}
 \bibliography{biblatex}
 
 \newcommand{\zitat}[1]{\textit{#1}}

@@ -9,4 +9,4 @@
 *.bcf
 *.blg
 *.run.xml
-
+*.out
