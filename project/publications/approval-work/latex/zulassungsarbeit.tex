@@ -1,52 +1,14 @@
-% This file was converted to LaTeX by Writer2LaTeX ver. 1.4
-% see http://writer2latex.sourceforge.net for more info
 \documentclass[a4paper]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[ngerman]{babel}
-\usepackage{amsmath}
-\usepackage{amssymb,amsfonts,textcomp}
-\usepackage{color}
-\usepackage{array}
-\usepackage{supertabular}
-\usepackage{hhline}
-\usepackage{hyperref}
-% for environment subfigure
-\usepackage{subcaption}
-\usepackage{graphicx}
-% Text styles
-\newcommand\zitat[1]{\textit{#1}}
+\input{format.tex}
 
-\newcommand{\img}[2][width=\linewidth]{%
-  \noindent%
-  \includegraphics[#1]{pictures/#2}%
-}
+\title{„Der Mozart von Ruhmannsfelden!“ - Leben und Werk des
+Ruhmannsfeldener Schulrektors, Heimatforschers und Komponisten August
+Högn (1878 – 1961)}
+\author{Josef Friedrich}
 
-\newcounter{Abb}
-\renewcommand\theAbb{\arabic{Abb}}
-
-\title{Josephs-Messe F-Dur op}
 \begin{document}
 
-{\centering\bfseries
-Josef Friedrich
-\par}
-
-{\centering
-\textbf{„Der Mozart von Ruhmannsfelden!“}
-\par}
-
-{\centering\bfseries
-\textmd{Leben und Werk des Ruhmannsfeldener }
-\par}
-
-{\centering\bfseries
-\textmd{Schulrektors, Heimatforschers und Komponisten }
-\par}
-
-{\centering\bfseries
-\textmd{August Högn (1878 – 1961)}
-\par}
+\maketitle
 
 {\centering
 \includegraphics[width=3.836cm,height=5.556cm]{pictures/August-Hoegn_Nachruf.jpg}
@@ -71,12 +33,9 @@ Ruhmannsfelden, München, April 2005
 \clearpage{\bfseries
 Inhaltsverzeichnis}
 
-\subparagraph[Band I: Hauptteil]{Band I: Hauptteil}
-\setcounter{tocdepth}{4}
-\renewcommand\contentsname{}
 \tableofcontents
 
-\input{1._Vorwort.tex}
+\input{1_Vorwort.tex}
 
 \input{2.01_Kindheit-in-Deggendorf.tex}
 \input{2.02_Musikalische-Lehrerausbildung.tex}
@@ -92,17 +51,30 @@ Inhaltsverzeichnis}
 \input{2.12_Unwuerdiger-Abschied-als-Chorregent.tex}
 \input{2.13_Die-letzten-Lebensjahre.tex}
 
+\input{3.1.0_Werkverzeichnis.tex}
+\input{3.1.1_Vollstaendigkeit-des-Werkverzeichnisses.tex}
+\input{3.1.2_Entstehungszeit-der-Kompositionen.tex}
+\input{3.1.3_Herkunft-der-vertonten-Texte.tex}
+\input{3.1.4_Auffuehrungspraktische-Bedingungen.tex}
+\input{3.2.0_Bekenntnis-zur-Gebrauchsmusik.tex}
+\input{3.2.1_Zeitgeschichtliche-Faktoren.tex}
+\input{3.2.2_Besondere-Anlaesse.tex}
+\input{3.3.0_Einfluss-des-Caecilianismus.tex}
+\input{3.3.1_Anlehnung-an-Kompositionen.tex}
+\input{3.3.2_Uebernahme-stilistischer-Elemente.tex}
+\input{3.3.3_Entwicklung-zum-Personalstil.tex}
+\input{3.4.1_Weihegesang-Es-Dur.tex}
+\input{3.4.2_Marsch-In-Treue-fest.tex}
+\input{3.4.3_Josephi-Messe.tex}
 
-\clearpage{\bfseries
-Erklärung}
+\input{4_Schlusswort.tex}
 
-Hiermit erkläre ich, dass ich diese Zulassungsarbeit ohne fremde Hilfe
-und nur mit der im Quellenverzeichnis angeführten Literatur angefertigt
-habe.
+\input{5_Quellenverzeichnis.tex}
 
-München, den 4.4.2005\ \ \ \ \ \ \ \ \ \ Josef Friedrich
+\input{6_Abbildungsverzeichnis.tex}
 
+\input{7_Personenverzeichnis.tex}
 
-\includegraphics[width=15.946cm,height=6.943cm]{pictures/zulassungsarbeit-img124.png}
+\input{8_Erklaerung.tex}
 
 \end{document}
