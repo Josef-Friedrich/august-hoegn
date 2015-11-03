@@ -2,6 +2,7 @@
 # Front matter fields of collection "compositions"
 
 * id
+* short (OPUS_Title-with-dashes_KEY)
 * title
 * imslp_project
 * imslp_file
