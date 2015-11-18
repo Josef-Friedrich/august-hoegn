@@ -1,0 +1,14 @@
+---
+title: Gästebuch
+---
+
+Untenstehend finden Sie die archivierten Gästebucheintrag der alten
+August-Högn-Website. Neue Gästebucheinträge können nicht mehr
+hinzugefügt werden, außer Sie schicken eine E-Mail an: <a
+href="mailto:josef@friedrich.rocks">josef@friedrich.rocks</a>
+
+{% for item in site.data.guestbook %}
+<h2>{{ item.title }}</h2>
+{{ item.content }}
+<hr>
+{% endfor %}
