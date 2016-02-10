@@ -2,7 +2,7 @@
 <?php
 
 $path = '/var/www/august-hoegn.tk/_compositions/';
-$query = 'SELECT 
+$query = 'SELECT
   id,
   titel as title,
   titeloriginal as title_original,
@@ -17,7 +17,7 @@ $query = 'SELECT
 FROM kompositionen';
 
 $path = '/var/www/august-hoegn.tk/_interviews/';
-$query = 'SELECT 
+$query = 'SELECT
     id,
     titel as title,
     interviewter,
@@ -31,10 +31,10 @@ $query = 'SELECT
     dauer as duration,
     dauergesamt as duration_complete,
     text
-FROM interviews'; 
+FROM interviews';
 
 $path = '/var/www/august-hoegn.tk/_documents/';
-$query = 'SELECT 
+$query = 'SELECT
   id,
   titel as title,
   datum as date,
@@ -45,6 +45,16 @@ $query = 'SELECT
   dok_fundorttext as find_spot,
   text
 FROM dokumente';
+
+$path = '/var/www/august-hoegn.tk/_correspondence/';
+$query = 'SELECT
+  id,
+  titel as subject,
+  datum as date,
+  sender as sender,
+  empfaenger as recipient,
+  text
+FROM korrespondenz';
 
 function query($query) {
 	$server = 'localhost';
@@ -85,13 +95,13 @@ function generate_document($path, $row) {
 	$text = $row['text'];
 	unset($row['text']);
 	foreach ($row as $key => $value) {
-		
+
 		$value = str_replace("\r\n","\n", $value);
 		$output .= generate_entry($key, $value);
 	}
 	$output = wrap($output);
 	$output = $output . "\n" . $text;
-	$id = sprintf('%03d', $row['id']); 
+	$id = sprintf('%03d', $row['id']);
 	file_put_contents($path . $id . '.html', $output);
 }
 
