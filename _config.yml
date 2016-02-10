@@ -17,6 +17,9 @@ collections:
   photos:
     name: Fotos
     output: true
+  correspondence:
+    name: Korrespondenz
+    output: true
 
 defaults:
   -
@@ -66,6 +69,15 @@ defaults:
       layout: photos
       metaphor_image: leben
       metaphor_text: Fotos
+
+  -
+    scope:
+      path: ""
+      type: "correspondence"
+    values:
+      layout: correspondence
+      metaphor_image: project
+      metaphor_text: Korrespondenz
 
 exclude:
 - "*.php"
