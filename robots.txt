@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /correspondence/
+Disallow: /project/background/correspondence/

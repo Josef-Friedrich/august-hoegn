@@ -1,0 +1,13 @@
+---
+title: Korrespondenz
+metaphor_image: projekt
+metaphor_text: Korrespondenz
+---
+
+{% for item in site.correspondence %}
+
+<a href="{{ item.url }}">
+  <h2>{{ item.subject }}</h2>
+</a>
+
+{% endfor %}
