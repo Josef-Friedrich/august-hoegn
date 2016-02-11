@@ -16,12 +16,8 @@ To compile the Jekyll based website install docker and run:
 # Folder structure
 
 ```
-├── life
-│     └── photos
+├life
+│    └photos
 ├── works
 └── project
 ```
-
-
-
-
