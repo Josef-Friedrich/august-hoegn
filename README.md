@@ -16,7 +16,7 @@ To compile the Jekyll based website install docker and run:
 ```
 ├ life
 │ ├ biography (Kurzbiographie)
-│ ├ personal-data-sheet (tabellarischer Lebenslauf)
+│ ├ personal-data-sheet (Tabellarischer Lebenslauf)
 │ └ photos
 ├ works
 │ ├ compositions (Kompositionen)
