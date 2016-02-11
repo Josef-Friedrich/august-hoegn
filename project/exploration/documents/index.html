@@ -4,10 +4,27 @@ metaphor_image: projekt
 metaphor_text: Projekt
 ---
 
+<table class="default">
+
+<tr>
+  <th>
+    Titel
+  </th>
+  <th>
+    Datum
+  </th>
+</tr>
+
 {% for item in site.archives %}
 
-<a href="{{ item.url }}">
-  <h2>{{ item.title }}</h2>
-</a>
+<tr>
+  <td>
+    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+  </td>
+  <td>
+    {{ item.date }}
+  </td>
+</tr>
 
 {% endfor %}
+<table>
