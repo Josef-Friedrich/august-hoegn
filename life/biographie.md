@@ -1,7 +1,5 @@
 ---
 title: Biographie
-metaphor_image: leben
-metaphor_text: Leben
 ---
 
 August Högn wurde am 2\. August 1878 als mittleres von fünf Kindern des

@@ -34,41 +34,30 @@ defaults:
       type: "compositions"
     values:
       layout: compositions
-      metaphor_image: kompositionen
-      metaphor_text: Kompositionen
   -
     scope:
       path: ""
       type: "archives"
     values:
       layout: documents
-      metaphor_image: dokumente
-      metaphor_text: Dokumente
   -
     scope:
       path: ""
       type: "historical_works"
     values:
       layout: historical-works
-      metaphor_image: geschichtswerk
-      metaphor_text: Geschichtswerk
   -
     scope:
       path: ""
       type: "interviews"
     values:
       layout: interviews
-      metaphor_image: interviews
-      metaphor_text: Interviews
 
   -
     scope:
       path: ""
       type: "photos"
     values:
-      layout: photos
-      metaphor_image: leben
-      metaphor_text: Fotos
 
   -
     scope:
@@ -76,8 +65,6 @@ defaults:
       type: "correspondence"
     values:
       layout: correspondence
-      metaphor_image: project
-      metaphor_text: Korrespondenz
 
 exclude:
 - "*.php"

@@ -1,7 +1,5 @@
 ---
 title: Links
-metaphor_image: links
-metaphor_text: Links
 ---
 
 ## Wikipedia

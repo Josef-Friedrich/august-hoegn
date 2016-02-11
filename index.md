@@ -1,7 +1,5 @@
 ---
 title: August Högn
-metaphor_image: augusthoegn
-metaphor_text: August Högn
 ---
 
 # Der _Mozart_ von Ruhmannsfelden
