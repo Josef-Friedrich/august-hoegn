@@ -11,8 +11,6 @@ To compile the Jekyll based website install docker and run:
 
 ```
 
-
-
 # Folder structure
 
 ```
@@ -29,14 +27,21 @@ To compile the Jekyll based website install docker and run:
   ├ exploration (Forschung)
   │ ├ documents (Dokumente)
   │ │ └ find-spot (Fundorte)
-  │ └ interviews (Interviews)
+  │ ├ interviews (Interviews)
+  │ └ correspondence (Korrespondenz)
   ├ publications (Publikationen)
   │ ├ approval-work (Zulassungsarbeit)
   │ ├ book-mozart (Buch „Der Mozart von Ruhmannsfelden“)
-  │ ├ score-missa-josephi (Note „Missa Josephi“)
+  │ ├ score-missa-josephi (Noten „Josephi-Messe“)
   │ └ copies (Kopien in geringer Stückzahl)
   │   ├ compositions (Kompositionen)
   │   ├ historical-works (Heimatkundliche Werke)
-  │   └ manuscripts
+  │   └ manuscripts (Faksimilieausgabe der Manuskripte)
   └ background (Hintergrund)
+    ├ website (Über diese Website)
+    │ ├ links (Linksammlung)
+    │ ├ guestbook (Gästebuch)
+    │ ├ imprint (Impressum)
+    │ └ contact (Kontakt)
+    └ thanks (Dank)
 ```
