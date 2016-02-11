@@ -1,10 +1,10 @@
 ---
-title: August Högn
+title: Projekt-Seite zur Erforschung des Lebens und Werks von August Högn
 ---
 
 # Inhaltsverzeichnis
 
-{% include table-of-contents.html %}
+{% include table-of-contents.html class=true %}
 
 # Der _Mozart_ von Ruhmannsfelden
 

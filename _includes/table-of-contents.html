@@ -1,37 +1,28 @@
-<ul class="default">
+{% capture class %}{% if include.class %}class="default"{% endif %}{% endcapture %}
+
+<ul {{ class }}>
 
   <!-- Kopiervorlage
-    <ul class="default">
+    <ul {{ class }}>
       <li><a href="{{ site.baseurl }}/"></a></li>
     </ul>
   -->
-  <!-- Startseite -->
-
-  <li><a href="{{ site.baseurl }}/">Startseite</a>
-    <ul class="default">
-      <li><a href="{{ site.baseurl }}/table-of-contents.html">Inhalt</a></li>
-      <li><a href="{{ site.baseurl }}/links.html">Links</a></li>
-      <li><a href="{{ site.baseurl }}/guestbook.html">G&auml;stebuch</a></li>
-      <li><a href="{{ site.baseurl }}/imprint.html">Impressum</a></li>
-      <li><a href="{{ site.baseurl }}/contact.html">Kontakt</a></li>
-    </ul>
-  </li>
 
   <!-- # Leben -->
 
   <li><a href="{{ site.baseurl }}/life/">Leben</a>
-    <ul class="default">
-      <li><a href="{{ site.baseurl }}/life/biographie.html">Biographie</a></li>
-      <li><a href="{{ site.baseurl }}/life/hoegn-portrait.html">Fotos</a></li>
+    <ul {{ class }}>
+      <li><a href="{{ site.baseurl }}/life/biography/">Kurzbiographie</a></li>
+      <li><a href="{{ site.baseurl }}/life/personal-data-sheet">Tabellarischer Lebenslauf</a></li>
     </ul>
   </li>
 
   <!-- # Werk -->
 
   <li><a href="{{ site.baseurl }}/works/">Werk</a>
-    <ul class="default">
+    <ul {{ class }}>
       <li><a href="{{ site.baseurl }}/works/compositions/">Kompositionen</a>
-        <ul class="default">
+        <ul {{ class }}>
           <li><a href="{{ site.baseurl }}/works/compositions/find-spot/">Fundorte</a></li>
           <li><a href="{{ site.baseurl }}/works/compositions/arrangements.html">Arrangements</a></li>
           <li><a href="{{ site.baseurl }}/works/compositions/receptions.html">Rezipierte Werke</a></li>
@@ -45,14 +36,14 @@
 
   <li><a href="{{ site.baseurl }}/project/">Projekt</a>
 
-    <ul class="default">
+    <ul {{ class }}>
 
       <!-- ## Forschung -->
 
-      <li>Forschung
-        <ul class="default">
+      <li><a href="{{ site.baseurl }}/project/exploration/">Forschung</a>
+        <ul {{ class }}>
           <li><a href="{{ site.baseurl }}/project/exploration/documents/">Dokumente</a>
-            <ul class="default">
+            <ul {{ class }}>
               <li><a href="{{ site.baseurl }}/project/exploration/documents/find-spot">Fundorte</a></li>
             </ul>
           </li>
@@ -63,8 +54,8 @@
 
       <!-- ## Publikationen -->
 
-      <li>Publikationen
-        <ul class="default">
+      <li><a href="{{ site.baseurl }}/project/publications/">Publikationen</a>
+        <ul {{ class }}>
           <!-- ### Zulassungsarbeit -->
           <li><a href="{{ site.baseurl }}/project/publications/approval-work">Zulassungsarbeit</a></li>
           <!-- ### Buch „Der Mozart von Ruhmannsfelden“ -->
@@ -73,7 +64,7 @@
           <li><a href="{{ site.baseurl }}/project/publications/score-missa-josephi">Noten „Josephi-Messe“</a></li>
           <!-- ### Kopien in geringer Stückzahl -->
           <li><a href="{{ site.baseurl }}/project/publications/copies">Kopien in geringer Stückzahl</a>
-            <ul class="default">
+            <ul {{ class }}>
               <li><a href="{{ site.baseurl }}/project/publications/copies/compositions/">Kompositionen</a></li>
               <li><a href="{{ site.baseurl }}/project/publications/copies/historical-works/">Heimatkundliche Werke</a></li>
               <li><a href="{{ site.baseurl }}/project/publications/copies/manuscripts/">Faksimilieausgabe der Manuskripte</a></li>
@@ -85,18 +76,18 @@
 
       <!-- ## Hintergrund -->
 
-      <li>Hintergrund
+      <li><a href="{{ site.baseurl }}/project/background/">Hintergrund</a>
 
-        <ul class="default">
+        <ul {{ class }}>
           <li><a href="{{ site.baseurl }}/project/background/website/">Über diese Website</a>
-            <ul class="default">
+            <ul {{ class }}>
               <li><a href="{{ site.baseurl }}/project/background/website/links/">Linksammlung</a></li>
               <li><a href="{{ site.baseurl }}/project/background/website/guestbook/">Gästebuch</a></li>
               <li><a href="{{ site.baseurl }}/project/background/website/imprint/">Impressum</a></li>
               <li><a href="{{ site.baseurl }}/project/background/website/contact/">Kontakt</a></li>
             </ul>
           </li>
-          <li><a href="{{ site.baseurl }}/project/background/thanks/"></a>Dank</li>
+          <li><a href="{{ site.baseurl }}/project/background/thanks/">Dank</a></li>
         </ul>
       </li>
 

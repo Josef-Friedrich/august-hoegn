@@ -9,18 +9,21 @@ Landtagsabgeordneten Andreas Högn erlernte auch August das
 Klavierspielen. Seine musikalischen Fähigkeiten konnte er in der
 Ausbildung zum Lehrer an der Präparandenschule in Deggendorf (1891 –
 1894) und an der
-[Lehrerbildungsanstalt](http://de.wikipedia.org/wiki/Lehrerbildungsanstalt) in [Straubing](http://de.wikipedia.org/wiki/Straubing)
-(1894 –
-1896) weiterbilden. Als Junglehrer wurde Högn an mehrere Orte in
+[Lehrerbildungsanstalt](http://de.wikipedia.org/wiki/Lehrerbildungsanstalt)
+in
+[Straubing](http://de.wikipedia.org/wiki/Straubing)
+(1894 – 1896) weiterbilden. Als Junglehrer wurde Högn an mehrere Orte in
 Niederbayern versetzt
 ([Deggendorf](http://de.wikipedia.org/wiki/Deggendorf "Deggendorf"),
 [Neukirchen (Niederbayern)](http://de.wikipedia.org/wiki/Neukirchen_%28N
 iederbayern%29),
 [Schaufling](http://de.wikipedia.org/wiki/Schaufling),
 [Geratskirchen](http://de.wikipedia.org/wiki/Geratskirchen),
-[Zeilarn](http://de.wikipedia.org/wiki/Zeilarn), [Wallersdorf](http://de.wikipedia.org/wiki/Wallersdorf),
+[Zeilarn](http://de.wikipedia.org/wiki/Zeilarn),
+[Wallersdorf](http://de.wikipedia.org/wiki/Wallersdorf),
 [Eberhardsreuth](http://de.wikipedia.org/wiki/Eberhardsreuth
-"Eberhardsreuth")). Am 20\. Juni 1904 heiratete Högn in Wallersdorf
+"Eberhardsreuth")
+). Am 20\. Juni 1904 heiratete Högn in Wallersdorf
 seine Ehefrau Emma Gerstl. Aus dieser Ehe gingen zwei Kinder hervor
 (14\. August 1906 Elfriede, 17\. Januar 1912 August). Am 1\. Januar 1910
 wurde Högn nach Ruhmannsfelden versetzt, wo er bis zu seinem Tod
@@ -41,9 +44,9 @@ des Volksguts“ eingebunden. Von nicht zu unterschätzenden Einfluss auf
 die politische Gesinnung von Högn im Dritten Reich dürfte die als sehr
 gut beschriebene Beziehung zu seinem Schwiegersohn und
 [Nazi](http://de.wikipedia.org/wiki/NSDAP "NSDAP")-Oberbürgermeister von
-Bayreuth, [Karl
-Schlumprecht](http://de.wikipedia.org/wiki/Karl_Schlumprecht "Karl
-Schlumprecht"), gewesen sein. 1945 wurde Högn, der seit 1921
+Bayreuth,
+[Karl Schlumprecht](http://de.wikipedia.org/wiki/Karl_Schlumprecht),
+gewesen sein. 1945 wurde Högn, der seit 1921
 Schulleiter, seit 1929 Oberlehrer und seit 1940 Rektor der Volksschule
 Ruhmannsfelden war, in Folge der
 [Entnazifizierung](http://de.wikipedia.org/wiki/Entnazifizierung
