@@ -7,3 +7,6 @@ img.score {
 	border: 1px #eee solid;
 }
 
+ul.default {
+	margin-bottom: 0;
+}

@@ -2,6 +2,10 @@
 title: August Högn
 ---
 
+# Inhaltsverzeichnis
+
+{% include table-of-contents.html %}
+
 # Der _Mozart_ von Ruhmannsfelden
 
 Leben und Werk des Schulrektors, Heimatforschers und Komponisten August Högn (1878 - 1961)
