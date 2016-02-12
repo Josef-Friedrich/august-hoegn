@@ -17,7 +17,18 @@ To compile the Jekyll based website install docker and run:
 ├ life
 │ ├ biography (Kurzbiographie)
 │ ├ personal-data-sheet (Tabellarischer Lebenslauf)
-│ └ photos
+│ └ photos (Fotos)
+│   ├ hoegn (August Högn)
+│   │ ├ portrait (Portrait-Fotos)
+│   │ ├ group (Gruppen-Fotos)
+│   │ └ relatives (Verwandte)
+│   ├ historical (Historische Fotos)
+│   │ ├ church (Pfarrkirche)
+│   │ ├ school (Volksschule)
+│   │ └ ruhmannsfelden (Ruhmannsfelden)
+│   └ today ()
+│     └ gravesite (Grabstätten)
+│
 ├ works
 │ ├ compositions (Kompositionen)
 │ │ ├ find-spot (Fundorte)

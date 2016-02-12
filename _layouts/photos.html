@@ -2,11 +2,20 @@
 layout: site
 ---
 
+{% capture url %}{{ site.baseurl }}/life/photos/{{ page.file }}{% endcapture %}
+{% capture title %}Fotos: {{ page.title }}{% endcapture %}
+
+{% include h2.html text=title %}
+
 {% if page.wikicommon_file %}
-  <h2>vertonter Text</h2>
+  <h2>Wikicommons</h2>
   <a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommons_file }}">{{ page.wikicommons_file }}</a>
 {% endif %}
 
-<img src="{{ site.baseurl }}/photos/{{ page.file }}">
+<a href="{{ url }}" download>höchste Auflösung</a>
+
+<a href="{{ url }}">
+  <img src="{{ url }}">
+</a>
 
 {{ content }}
