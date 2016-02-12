@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /correspondence/
 Disallow: /project/background/correspondence/
-Disallow: /table-of-contents.html
+Disallow: /project/background/website/table-of-contents/

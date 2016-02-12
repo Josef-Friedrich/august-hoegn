@@ -2,11 +2,11 @@
 title: Inhaltsverzeichnis
 ---
 
-  {% include table-of-contents.html %}
+  {% include table-of-contents.html class=true %}
 
   <h3>Alle Seiten</h3>
 
-  <ul>
+  <ul class="default">
   {% for doc in site.pages %}
     <li>
       <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
@@ -18,7 +18,7 @@ title: Inhaltsverzeichnis
   {% capture label %}{{ collection | first }}{% endcapture %}
   <h3>Alle Seiten im Bereich „{{ site.collections.[label].name }}“</h3>
 
-  <ul>
+  <ul class="default">
   {% for doc in site.collections.[label].docs %}
     <li>
       <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
