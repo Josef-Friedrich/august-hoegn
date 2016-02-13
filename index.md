@@ -2,7 +2,9 @@
 title: Projekt-Seite zur Erforschung des Lebens und Werks von August Högn
 ---
 
-# Inhaltsverzeichni{% include table-of-contents.html class=true %}
+# Inhaltsverzeichnis
+
+{% include table-of-contents.html class=true %}
 
 # Der _Mozart_ von Ruhmannsfelden
 
