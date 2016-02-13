@@ -3,12 +3,16 @@ encoding: utf-8
 incremental: true
 
 collections:
-  compositions:
-    name: Kompositionen
-    output: true
   archives:
     name: Dokumente
     output: true
+  compositions:
+    name: Kompositionen
+    output: true
+    attributes:
+      id: Dokumenten-Nummer
+      datum: Datum
+      find_spot: Fundort
   historical_works:
     name: Geschichtswerk
     output: true
@@ -26,6 +30,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "archives"
+    values:
+      layout: documents
+  -
+    scope:
+      path: ""
       type: "pages"
     values:
       layout: default
@@ -35,16 +45,6 @@ defaults:
       type: "compositions"
     values:
       layout: compositions
-  -
-    scope:
-      path: ""
-      type: "archives"
-    values:
-      layout: documents
-      attributes:
-        id: Dokumenten-Nummer
-        datum: Datum
-        find_spot: Fundort
   -
     scope:
       path: ""
@@ -71,6 +71,30 @@ defaults:
       type: "correspondence"
     values:
       layout: correspondence
+
+attributes:
+  archives:
+    id: Nummer
+    datum: Datum
+    find_spot: Fundort
+  correspondence:
+    id: Nummer
+    title: Betreff
+    date: Datum
+    sender: Absender
+    recipient: Empfänger
+  interviews:
+    id: Nummer
+    title: Titel
+    interviewter: Interview-Partner
+    birthday: Geburtstag
+    day_of_death: Todestag
+    age: Alter
+    relation: Beziehung zu Högn
+    location: Ort
+    datum: Datum
+    duration: Dauer
+
 
 exclude:
 - "*.php"

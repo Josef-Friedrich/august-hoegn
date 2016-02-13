@@ -1,9 +1,14 @@
 {% assign attributes = include.attributes | split: "|" %}
+{% assign page = include.page %}
+{% assign collection = page.collection %}
 <table class="default">
-{% for item in attributes %}
+{% for item in site.attributes.[collection] %}
+  {% assign key = item[0] %}
+  {% assign value = item[1] %}
   <tr>
-    <td><strong>{{ include.page.attributes.[item] }}</strong></td>
-    <td>{{ include.page.[item] }}</td>
+    <td><strong>{{ value }}</strong></td>
+    {% assign key = item[0] %}
+    <td>{{ include.page.[key] }}</td>
   </tr>
 {% endfor %}
 </table>

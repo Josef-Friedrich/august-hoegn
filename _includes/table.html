@@ -1,33 +1,30 @@
-{% assign lol = 'datum' %}
-
-Troll
-
-{{ include.attributes }}
-
-{% for item in include.attributes %}
-{{ item }}
-{% endfor %}
-
+{% assign collection = include.collection %}
+{% assign attributes = include.attributes | split: "|" %}
+{% assign data = site.[collection] %}
 <table class="default">
 
 <tr>
   <th>
     Titel
   </th>
+  {% for attribute in attributes %}
   <th>
-    Datum
+    {{ site.attributes.[collection].[attribute] }}
   </th>
+  {% endfor %}
 </tr>
 
-{% for item in include.data %}
+{% for item in data %}
 
 <tr>
   <td>
     <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
   </td>
+  {% for attribute in attributes %}
   <td>
-    {{ item.[lol] }}
+    {{ item.[attribute] }}
   </td>
+  {% endfor %}
 </tr>
 
 {% endfor %}
