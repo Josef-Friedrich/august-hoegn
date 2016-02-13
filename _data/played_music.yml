@@ -7,7 +7,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran)
     hoegnspuren: |
-      Abschriften,&nbsp;
+      Abschriften,
 
     einband: 0
     stempel: 0
@@ -21,10 +21,10 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -38,7 +38,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -52,8 +52,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -64,10 +64,10 @@
     komponisten_idtext: Anonymus
     titelwerk: Festgesang C-Dur
     titelliedtextja: 0
-    bes_grup: M&auml;nnerchor
-    bes_grup_u_inst: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
+    bes_grup: Männerchor
+    bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -76,16 +76,16 @@
     liedtext: |
         Froh soll unser Lied erschallen <br>
         durch die stille dunkle Nacht<br>
-        und als Gl&uuml;ckwunsch von uns allen<br>
+        und als Glückwunsch von uns allen<br>
         sei?s zum Feste dir dargebracht.
   -
     komponisten_idtext: Anonymus
-    titelwerk: Volkslied &quot;Wo findet die Seele die Heimat&quot; Es-Dur
+    titelwerk: Volkslied „Wo findet die Seele die Heimat“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -94,21 +94,21 @@
     liedtext: Wo findet die Seele die Heimat
   -
     komponisten_idtext: Kuhlau, F. D.
-    titelwerk: Volkslied &quot;Unter allen Wipfeln ist Ruh&quot; C-Dur
+    titelwerk: Volkslied „Unter allen Wipfeln ist Ruh“ C-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
-    hoegnspuren: Abschriften,&nbsp;
+    hoegnspuren: Abschriften,
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
         Unter allen Wipfeln ist Ruh,<br>
-        in allen Zweigen sp&uuml;rest du keinen Laut.
+        in allen Zweigen spürest du keinen Laut.
   -
     komponisten_idtext: Witt, F.
-    titelwerk: Sequenita &quot;Stabat Mater&quot; Es-Dur
+    titelwerk: Sequenita „Stabat Mater“ Es-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -141,7 +141,7 @@
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -155,7 +155,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -164,13 +164,13 @@
     liedtext:
   -
     komponisten_idtext: Ziegelmeier, M.
-    titelwerk: Missa solemnis &quot;Sursum Corda&quot; F-Dur op. 10
+    titelwerk: Missa solemnis „Sursum Corda“ F-Dur op. 10
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -179,12 +179,12 @@
     liedtext:
   -
     komponisten_idtext: Malan, C.
-    titelwerk: Grablied &quot;Harre meine Seele, harre des Herrn.&quot; Es-Dur
+    titelwerk: Grablied „Harre meine Seele, harre des Herrn.“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -198,7 +198,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -209,11 +209,11 @@
     komponisten_idtext: Rauscher, M.
     titelwerk: Tantum ergo C-Dur
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Soli, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Soli, Streicher, Blechbläser, Holzbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -222,12 +222,12 @@
     liedtext:
   -
     komponisten_idtext: Palestrina, G. P. d.
-    titelwerk: Missa &quot;brevis&quot; F-Dur
+    titelwerk: Missa „brevis“ F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -241,8 +241,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -251,14 +251,14 @@
     liedtext:
   -
     komponisten_idtext: Gruber, J.
-    titelwerk: 4 Marienlieder &quot;Mariengr&uuml;&szlig;e&quot;  D-Dur op. 279
+    titelwerk: 4 Marienlieder „Mariengrüße“  D-Dur op. 279
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -272,7 +272,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -281,13 +281,13 @@
     liedtext: Marienpreis
   -
     komponisten_idtext: Gruber, J.
-    titelwerk: Missa &quot;Salus infirmorum&quot; F-Dur op. 175
+    titelwerk: Missa „Salus infirmorum“ F-Dur op. 175
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -296,13 +296,13 @@
     liedtext:
   -
     komponisten_idtext: Mitterwallner, F. X.
-    titelwerk: Marienlied &quot;Marienblume&quot; Es-Dur op. 94
+    titelwerk: Marienlied „Marienblume“ Es-Dur op. 94
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
 
     einband: 1
     stempel: 1
@@ -316,8 +316,8 @@
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 0
     stempel: 1
@@ -331,9 +331,9 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -344,10 +344,10 @@
     komponisten_idtext: Gruber, J.
     titelwerk: 4 feierliche Tantum ergo C-Dur op. 137
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -356,12 +356,12 @@
     liedtext:
   -
     komponisten_idtext: Griesbacher, P.
-    titelwerk: Lieder zu Ehren des g&ouml;ttlichen Herzens Jesu C-Dur op. 33
+    titelwerk: Lieder zu Ehren des göttlichen Herzens Jesu C-Dur op. 33
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -375,9 +375,9 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -391,7 +391,7 @@
     bes_grup: Frauenchor, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -400,12 +400,12 @@
     liedtext:
   -
     komponisten_idtext: Hanisch, J.
-    titelwerk: Kommunionlieder &quot;Meinen Jesus lass ich nicht&quot; es-moll
+    titelwerk: Kommunionlieder „Meinen Jesus lass ich nicht“ es-moll
     titelliedtextja: 1
     bes_grup: Frauenchor, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -419,7 +419,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -428,12 +428,12 @@
     liedtext:
   -
     komponisten_idtext: Welcker, M.
-    titelwerk: 6 Ges&auml;nge zu Ehren des allerh. Altarsakraments F-Dur op. 62
+    titelwerk: 6 Gesänge zu Ehren des allerh. Altarsakraments F-Dur op. 62
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -447,8 +447,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -459,10 +459,10 @@
     komponisten_idtext: Gruber, J.
     titelwerk: 4 feierliche Pange lingua a-moll op. 184
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -476,7 +476,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -485,13 +485,13 @@
     liedtext:
   -
     komponisten_idtext: Gruber, J.
-    titelwerk: Missa &quot;Regina scratissimi Rosarii&quot; D-Dur op. 185
+    titelwerk: Missa „Regina scratissimi Rosarii“ D-Dur op. 185
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -502,11 +502,11 @@
     komponisten_idtext: Rihovsky, A.
     titelwerk: Missa Loretta B-Dur op. 3
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -515,13 +515,13 @@
     liedtext:
   -
     komponisten_idtext: Gruber, J.
-    titelwerk: Missa solemnis &quot;Kaiser-Jubil&auml;um&quot; Es-Dur op. 108
+    titelwerk: Missa solemnis „Kaiser-Jubiläum“ Es-Dur op. 108
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -532,11 +532,11 @@
     komponisten_idtext: Scholz, C.
     titelwerk: Missa in honorem St. Elisabeth C-Dur op. 4
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 1
@@ -547,10 +547,10 @@
     komponisten_idtext: Deschermeier, J.
     titelwerk: 4 Tantum ergo As-Dur op. 109
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Holzbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbl&auml;ser (Fl?te, Klarinette); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Holzbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbläser (Fl?te, Klarinette); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -558,13 +558,13 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Sch&ouml;nauer, W. H.
+    komponisten_idtext: Schönauer, W. H.
     titelwerk: Heimatliebe Des-Dur
     titelliedtextja: 0
-    bes_grup: M&auml;nnerchor
-    bes_grup_u_inst: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
+    bes_grup: Männerchor
+    bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -578,15 +578,15 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;<br>
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband, <br>
+        Abschriften,
     einband: 1
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
         Du lieber, heiliger, frommer Christ,<br>
-        der f&uuml;r uns Kinder kommen ist.
+        der für uns Kinder kommen ist.
   -
     komponisten_idtext: Pleyer, E.
     titelwerk: 6 Grablieder Es-Dur op. 50
@@ -594,9 +594,9 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        Stempel August H?gns,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 0
     stempel: 1
@@ -605,30 +605,30 @@
     liedtext:
   -
     komponisten_idtext: Anonymus
-    titelwerk: Marienlied Nr. 1 &quot;Maria, Himmelsk&ouml;nigin&quot; Es-Dur
+    titelwerk: Marienlied Nr. 1 „Maria, Himmelskönigin“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
-        Maria, Himmelsk&ouml;nigin,<br>
-        O bitt f&uuml;r uns mit mildem Sinn.<br>
+        Maria, Himmelskönigin,<br>
+        O bitt für uns mit mildem Sinn.<br>
         Dein Ohr in Gnaden zu uns neig,<br>
         Maria dich als Mutter zeig.
   -
     komponisten_idtext: Anonymus
-    titelwerk: Marienlied Nr. 2 &quot;O Maria, gnadenvolle&quot; D-Dur
+    titelwerk: Marienlied Nr. 2 „O Maria, gnadenvolle“ D-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -642,7 +642,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -656,7 +656,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -670,8 +670,8 @@
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 1
@@ -685,7 +685,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -696,10 +696,10 @@
     komponisten_idtext: Aiblinger, J. C.
     titelwerk: Pange lingua B-Dur
     titelliedtextja: 0
-    bes_grup: M&auml;nnerchor
-    bes_grup_u_inst: M&auml;nnerchor (Tenor I, Tenor II, Bass I, Bass II)
+    bes_grup: Männerchor
+    bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -710,10 +710,10 @@
     komponisten_idtext: Kempter, K.
     titelwerk: lateinische Messe in D D-Dur op. 9
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Holzbl&auml;ser, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbl&auml;ser (Fl?te, Klarinette, Klarinette I); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Holzbläser, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbläser (Fl?te, Klarinette, Klarinette I); Schlagwerk (Pauken)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -724,11 +724,11 @@
     komponisten_idtext: Mittmann, P.
     titelwerk: Missa in G G-Dur op. 140
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune I, Posaune II); Holzbl&auml;ser (Fl?te I, Fagott II, ); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune I, Posaune II); Holzbläser (Fl?te I, Fagott II, ); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -737,12 +737,12 @@
     liedtext:
   -
     komponisten_idtext: Scholz, C.
-    titelwerk: 6 Begr&auml;bnislieder Des-Dur op. 8
+    titelwerk: 6 Begräbnislieder Des-Dur op. 8
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -756,8 +756,8 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -771,8 +771,8 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -786,7 +786,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -800,13 +800,13 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
     eintragungen: 1
     abschriften: 0
-    liedtext: nicht sicher H&ouml;gn
+    liedtext: nicht sicher Högn
   -
     komponisten_idtext: Alt, G. M.
     titelwerk: Juravit Dominus A-Dur op. 19
@@ -814,13 +814,13 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
     eintragungen: 1
     abschriften: 0
-    liedtext: nicht sicher H&ouml;gn
+    liedtext: nicht sicher Högn
   -
     komponisten_idtext: Grau, T. O. F. M.
     titelwerk: Auferstehungs- bzw. Oster-Chor As-Dur op. 34 a
@@ -828,7 +828,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -836,15 +836,15 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Scheffz&uuml;k, B.
+    komponisten_idtext: Scheffzük, B.
     titelwerk: Regina coeli F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -858,7 +858,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -867,12 +867,12 @@
     liedtext:
   -
     komponisten_idtext: Beneken, F. B.
-    titelwerk: Den Entschlafenen &quot;Wie sie so sanft ruh?n, alle die Seligen&quot; A-Dur
+    titelwerk: Den Entschlafenen „Wie sie so sanft ruh?n, alle die Seligen“ A-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -880,7 +880,7 @@
     abschriften: 1
     liedtext: |
         Wie sie so sanft ruh?n, alle die Seligen,<br>
-        sanft ruhn in Grabe still in der Erde Scho&szlig;.
+        sanft ruhn in Grabe still in der Erde Schoß.
   -
     komponisten_idtext: Mitterer, I.
     titelwerk: Missa dominicalis VII in hon. S. Cassiani Martyris G-Dur op. 13
@@ -888,8 +888,8 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -903,9 +903,9 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -914,13 +914,13 @@
     liedtext:
   -
     komponisten_idtext: Griesbacher, P.
-    titelwerk: Missa &quot;Stella Maris&quot; Es-Dur op. 141
+    titelwerk: Missa „Stella Maris“ Es-Dur op. 141
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II, Posaune); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II, Posaune); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -934,7 +934,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -948,13 +948,13 @@
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
     eintragungen: 1
     abschriften: 0
-    liedtext: "Eintrag auf Titelblatt: Kirche Wallersdorf, angeschafft 3. Oktober 1880 (Wallersdorf war eine von H&ouml;gns fr&uuml;here Wirkungsst&auml;tte als Lehrer. Hier lehrte er seine Frau Emma kennen."
+    liedtext: "Eintrag auf Titelblatt: Kirche Wallersdorf, angeschafft 3. Oktober 1880 (Wallersdorf war eine von Högns frühere Wirkungsstätte als Lehrer. Hier lehrte er seine Frau Emma kennen."
   -
     komponisten_idtext: Rheinberger, J.
     titelwerk: Messe G-Dur op. 151
@@ -962,9 +962,9 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -975,11 +975,11 @@
     komponisten_idtext: Gruber, J.
     titelwerk: Missa Mater dolorosa Es-Dur op. 51
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Horn I, Horn II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -988,13 +988,13 @@
     liedtext:
   -
     komponisten_idtext: Haller, M.
-    titelwerk: Marien Gr&uuml;&szlig;e F-Dur op. 17
+    titelwerk: Marien Grüße F-Dur op. 17
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1008,7 +1008,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -1017,12 +1017,12 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Prozessionsges&auml;nge f&uuml;r das hochheilige Fronleichnamsfest Es-Dur op. 32
+    titelwerk: Prozessionsgesänge für das hochheilige Fronleichnamsfest Es-Dur op. 32
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+    bes_grup: gemischter Chor, Blechbläser
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Posaune)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1036,8 +1036,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1051,7 +1051,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1062,10 +1062,10 @@
     komponisten_idtext: Gruber, J.
     titelwerk: Missa de Nativitage D. N. J. Ch. G-Dur op. 92
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1074,12 +1074,12 @@
     liedtext:
   -
     komponisten_idtext: Schlaud, F.
-    titelwerk: Marienlied &quot;Dein Kind bin ich Maria!&quot; Es-Dur op. 47 a
+    titelwerk: Marienlied „Dein Kind bin ich Maria!“ Es-Dur op. 47 a
     titelliedtextja: 1
     bes_grup: Soli, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Bass-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1093,7 +1093,7 @@
     bes_grup: Soli
     bes_grup_u_inst: Soli (Sopran-Solo)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1101,13 +1101,13 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Sch&auml;chtl, G.
+    komponisten_idtext: Schächtl, G.
     titelwerk: 5 Trauerlieder am Grabe Verstorbener Es-Dur op. 39
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -1121,7 +1121,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1132,13 +1132,13 @@
     komponisten_idtext: Faist, A.
     titelwerk: Missa sexta (pastoralis) G-Dur op. 25
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -1146,14 +1146,14 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Sch&auml;chtl, G.
+    komponisten_idtext: Schächtl, G.
     titelwerk: Fatima-Festmesse zu Ehren des Unbefleckten Herzens Mariae Es-Dur op. 32
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune, Bombardon); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Althorn, Posaune, Bombardon); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1162,14 +1162,14 @@
     liedtext:
   -
     komponisten_idtext: Huber, H.
-    titelwerk: Missa &quot;Salve Regina pacis&quot; G-Dur op. 25
+    titelwerk: Missa „Salve Regina pacis“ G-Dur op. 25
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1183,9 +1183,9 @@
     bes_grup: gemischter Chor, Soli, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo, Bass-Solo); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -1196,12 +1196,12 @@
     komponisten_idtext: Linner, J.
     titelwerk: Missa in honorem St. Josephi d-moll op. 21
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel, Schlagwerk
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Horn I, Horn II, Posaune); Holzbl&auml;ser (Fl?te); Orgel (mit Pedal); Schlagwerk (Pauken)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Horn I, Horn II, Posaune); Holzbläser (Fl?te); Orgel (mit Pedal); Schlagwerk (Pauken)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -1212,12 +1212,12 @@
     komponisten_idtext: Witt, F.
     titelwerk: Missa in honorem S. Luciae F-Dur op. 11 a
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Posaune I, Posaune II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Posaune I, Posaune II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -1226,12 +1226,12 @@
     liedtext:
   -
     komponisten_idtext: Haller, M.
-    titelwerk: "&quot;Mariengarten&quot; 34 Lieder zur Verehrung der seligsten Jungfrau B-Dur op. 32"
+    titelwerk: "&quot;Mariengarten“ 34 Lieder zur Verehrung der seligsten Jungfrau B-Dur op. 32"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1245,7 +1245,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1254,12 +1254,12 @@
     liedtext:
   -
     komponisten_idtext: Gruber, J.
-    titelwerk: "&quot;Marienstrau&szlig;&quot; 8 Marienlieder G-Dur op. 223"
+    titelwerk: "&quot;Marienstrauß“ 8 Marienlieder G-Dur op. 223"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Alt-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -1267,13 +1267,13 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Sch&auml;chtl, G.
-    titelwerk: "&quot;Maria im Kirchenjahr&quot; 20 Lobpreislieder an Maria As-Dur op. 28"
+    komponisten_idtext: Schächtl, G.
+    titelwerk: "&quot;Maria im Kirchenjahr“ 20 Lobpreislieder an Maria As-Dur op. 28"
     titelliedtextja: 0
     bes_grup: Frauenchor, Soli, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo, Bass-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1287,7 +1287,7 @@
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -1301,8 +1301,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 0
     stempel: 1
@@ -1316,7 +1316,7 @@
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1327,10 +1327,10 @@
     komponisten_idtext: Goller, V.
     titelwerk: Missa in honorem B. M. V.  Es-Dur op. 25
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Althorn, Posaune); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Althorn, Posaune); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1344,8 +1344,8 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1359,7 +1359,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -1373,7 +1373,7 @@
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1381,13 +1381,13 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Sch&auml;chtl, G.
-    titelwerk: Kindes Gr&uuml;&szlig;e an die himmlische Mutter A-Dur op. 2 a
+    komponisten_idtext: Schächtl, G.
+    titelwerk: Kindes Grüße an die himmlische Mutter A-Dur op. 2 a
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1396,13 +1396,13 @@
     liedtext: Maria, meine Mutter
   -
     komponisten_idtext: Welcker, M.
-    titelwerk: "&quot;Maria, K&ouml;nigin des Friedens&quot; 8 Marienlieder Es-Dur op. 78"
+    titelwerk: "&quot;Maria, Königin des Friedens“ 8 Marienlieder Es-Dur op. 78"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1411,12 +1411,12 @@
     liedtext:
   -
     komponisten_idtext: Engelhart, F. X.
-    titelwerk: "&quot;Maria, K&ouml;nigin des Friedens&quot; 5 Marienlieder D-Dur op. 57"
+    titelwerk: "&quot;Maria, Königin des Friedens“ 5 Marienlieder D-Dur op. 57"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1425,12 +1425,12 @@
     liedtext:
   -
     komponisten_idtext: Engelhart, F. X.
-    titelwerk: "&quot;Heilige Namen Allezeit beisammen!&quot; 14 Lieder zu Jesus, Maria und Joseph Es-Dur"
+    titelwerk: "&quot;Heilige Namen Allezeit beisammen!“ 14 Lieder zu Jesus, Maria und Joseph Es-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1444,7 +1444,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
+        Stempel August H?gns,
 
     einband: 0
     stempel: 1
@@ -1453,13 +1453,13 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Offertorien f&uuml;r das ganze Kirchenjahr, Heft I, (Weihnachtskreis) Es-Dur op. 21
+    titelwerk: Offertorien für das ganze Kirchenjahr, Heft I, (Weihnachtskreis) Es-Dur op. 21
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1468,13 +1468,13 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Offertorien f&uuml;r das ganze Kirchenjahr, Heft II, (Osterkreis) D-Dur op. 22
+    titelwerk: Offertorien für das ganze Kirchenjahr, Heft II, (Osterkreis) D-Dur op. 22
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1483,13 +1483,13 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Offertorien f&uuml;r das ganze Kirchenjahr, Heft III, (Pfingstkreis) C-Dur op. 23
+    titelwerk: Offertorien für das ganze Kirchenjahr, Heft III, (Pfingstkreis) C-Dur op. 23
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1498,13 +1498,13 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Offertorien f&uuml;r das ganze Kirchenjahr, Heft IV, (Proprium de Sanctis) Es-Dur op. 33
+    titelwerk: Offertorien für das ganze Kirchenjahr, Heft IV, (Proprium de Sanctis) Es-Dur op. 33
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1513,13 +1513,13 @@
     liedtext:
   -
     komponisten_idtext: Goller, V.
-    titelwerk: Offertorien f&uuml;r das ganze Kirchenjahr, Heft V, (Commune Sanctorum) D-Dur op. 41
+    titelwerk: Offertorien für das ganze Kirchenjahr, Heft V, (Commune Sanctorum) D-Dur op. 41
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1533,7 +1533,7 @@
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1547,7 +1547,7 @@
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1556,7 +1556,7 @@
     liedtext:
   -
     komponisten_idtext: Gottschalg, A. W.
-    titelwerk: Centralblatt f&uuml;r Instrumentalmusik, Solo- und Chorgesang
+    titelwerk: Centralblatt für Instrumentalmusik, Solo- und Chorgesang
     titelliedtextja: 0
     bes_grup:
     bes_grup_u_inst:
@@ -1573,9 +1573,9 @@
     bes_grup: Soli, Streicher, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo); Streicher (Violine); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -1586,11 +1586,11 @@
     komponisten_idtext: Faist, A.
     titelwerk: 6 Tantum ergo C-Dur op. 28
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Streicher, Blechbl&auml;ser, Holzbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbl&auml;ser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbl&auml;ser (Klarinette I, Klarinette II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 0
@@ -1598,27 +1598,27 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Sch&ouml;pf, J. M.
-    titelwerk: Marienlied &quot;Sch&ouml;n bist du Maria&quot; F-Dur
+    komponisten_idtext: Schöpf, J. M.
+    titelwerk: Marienlied „Schön bist du Maria“ F-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo, Bass-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
-    liedtext: Sch&ouml;n bist du Maria
+    liedtext: Schön bist du Maria
   -
-    komponisten_idtext: Sch&ouml;pf, J. M.
-    titelwerk: Marienlied &quot;Maria hilf!&quot; As-Dur
+    komponisten_idtext: Schöpf, J. M.
+    titelwerk: Marienlied „Maria hilf!“ As-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Bass-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1632,7 +1632,7 @@
     bes_grup: Soli, Streicher, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Tenor-Solo); Streicher (Violine); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
+        handschriftlich angefertiger Einband,
 
     einband: 1
     stempel: 0
@@ -1646,8 +1646,8 @@
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 0
     stempel: 1
@@ -1656,13 +1656,13 @@
     liedtext: Beide die in solchen Stunden sich einander zugetan
   -
     komponisten_idtext: Mendelson-Bartholdy, F.
-    titelwerk: "&quot;Gottes Rat und Scheiden&quot; D-Dur"
+    titelwerk: "&quot;Gottes Rat und Scheiden“ D-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1670,8 +1670,8 @@
     abschriften: 1
     liedtext: |
         Es ist bestimmt in Gottes Rat,<br>
-        da&szlig; man von Liebsten, was man hat,<br>
-        mu&szlig; scheiden.
+        daß man von Liebsten, was man hat,<br>
+        muß scheiden.
   -
     komponisten_idtext: Anonymus
     titelwerk: 3 Weihnachtslieder
@@ -1679,7 +1679,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1690,15 +1690,15 @@
         <br>
         Es wird schon gleich dunken, es wird schon gleich Nacht!<br>
         <br>
-        O Freude &uuml;ber Freude
+        O Freude über Freude
   -
-    komponisten_idtext: Kindsm&uuml;ller, K.
-    titelwerk: Gru&szlig; und Dank dem Gefallenen D-Dur op. 72
+    komponisten_idtext: Kindsmüller, K.
+    titelwerk: Gruß und Dank dem Gefallenen D-Dur op. 72
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1712,24 +1712,24 @@
     bes_grup: Soli, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
-        Aus &quot;Stadt Gottes&quot; 1952 Nr. 1<br>
+        Aus „Stadt Gottes“ 1952 Nr. 1<br>
         <br>
-        Kindelein zart, von guter Art, schlie&szlig;e die &Auml;uglein, schlafe.
+        Kindelein zart, von guter Art, schließe die Äuglein, schlafe.
   -
     komponisten_idtext: Uttlinger, L.
-    titelwerk: Letzter Gru&szlig; D-Dur
+    titelwerk: Letzter Gruß D-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1747,7 +1747,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1756,30 +1756,30 @@
     liedtext: O vos omnes, qui transitis per viam attendite et videte
   -
     komponisten_idtext: Haydn, M. J.
-    titelwerk: "&quot;La&szlig; mich deine Leiden singen!&quot; G-Dur"
+    titelwerk: "&quot;Laß mich deine Leiden singen!“ G-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
-        La&szlig; mich Deine Leiden singen,<br>
+        Laß mich Deine Leiden singen,<br>
         dir des Mitleids Opfer bringen,<br>
         unverschuldtes Gottes Lamm,<br>
-        das von mir die S&uuml;nde nahm.
+        das von mir die Sünde nahm.
   -
     komponisten_idtext: Weber, C. M. v.
-    titelwerk: Volkslied &quot;Im Wald&quot; B-Dur
+    titelwerk: Volkslied „Im Wald“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1792,15 +1792,15 @@
         im Wald wo?s Echo schallt.
   -
     komponisten_idtext: Deschermeier, J.
-    titelwerk: 6 deutsche Grabges&auml;nge Es-Dur op. 38
+    titelwerk: 6 deutsche Grabgesänge Es-Dur op. 38
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -1811,12 +1811,12 @@
     komponisten_idtext: Deschermeier, J.
     titelwerk: Miserere und Benedictus F-Dur op. 48
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete, Fl?gelhorn, Posaune, Bombardon)
+    bes_grup: gemischter Chor, Blechbläser
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete, Fl?gelhorn, Posaune, Bombardon)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -1830,9 +1830,9 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Abschriften,
 
     einband: 1
     stempel: 1
@@ -1841,12 +1841,12 @@
     liedtext:
   -
     komponisten_idtext: Deschermeier, J.
-    titelwerk: 8 Begr&auml;bnislieder E-Dur op. 155
+    titelwerk: 8 Begräbnislieder E-Dur op. 155
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1854,14 +1854,14 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gro&szlig;e, E. A.
-    titelwerk: 8 Trauer-Ch&ouml;re C-Dur op. 163
+    komponisten_idtext: Große, E. A.
+    titelwerk: 8 Trauer-Chöre C-Dur op. 163
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
 
     einband: 1
     stempel: 1
@@ -1875,7 +1875,7 @@
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1884,13 +1884,13 @@
     liedtext:
   -
     komponisten_idtext: Anonymus
-    titelwerk: Anitphon &quot;Levita Laurentius&quot; B-Dur
+    titelwerk: Anitphon „Levita Laurentius“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1904,7 +1904,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -1915,10 +1915,10 @@
     komponisten_idtext: Gruber, J.
     titelwerk: Drittes Requiem in d-moll op. 37
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser, Orgel
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Horn I, Horn II); Orgel (mit Pedal)
+    bes_grup: gemischter Chor, Blechbläser, Orgel
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1932,7 +1932,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -1941,13 +1941,13 @@
     liedtext:
   -
     komponisten_idtext: Anonymus
-    titelwerk: Kommunionlieder &quot;O Seele Christi heilige mich!&quot; B-Dur
+    titelwerk: Kommunionlieder „O Seele Christi heilige mich!“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Abschriften,&nbsp;
+        handschriftlich angefertiger Einband,
+        Abschriften,
 
     einband: 1
     stempel: 0
@@ -1956,31 +1956,31 @@
     liedtext: O Seele Christi heilige mich!
   -
     komponisten_idtext: Anonymus
-    titelwerk: Volkslied &quot;Lobe den Herren, den m&auml;chtigen K&ouml;nig!&quot; G-Dur
+    titelwerk: Volkslied „Lobe den Herren, den mächtigen König!“ G-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
-    liedtext: Lobe den Herren, den m&auml;chtigen K&ouml;nig!
+    liedtext: Lobe den Herren, den mächtigen König!
   -
     komponisten_idtext: Anonymus
-    titelwerk: Volkslied &quot;Maigl&ouml;ckchen steht und l&auml;utet in wei&szlig;en Festgewand&quot; G-Dur
+    titelwerk: Volkslied „Maiglöckchen steht und läutet in weißen Festgewand“ G-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
-    hoegnspuren: Abschriften,&nbsp;
+    hoegnspuren: Abschriften,
     einband: 0
     stempel: 0
     eintragungen: 0
     abschriften: 1
     liedtext: |
-        Maigl&ouml;ckchen steht und l&auml;utet in wei&szlig;en Festgewand<br>
+        Maiglöckchen steht und läutet in weißen Festgewand<br>
         sagt an was wohlbedeute der Klang durch alle Land.
   -
     komponisten_idtext: Anonymus
@@ -1989,7 +1989,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -2003,9 +2003,9 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        handschriftlich angefertiger Einband,&nbsp;
-        Stempel August H?gns,&nbsp;
-        Eintragungen im Notentext,&nbsp;
+        handschriftlich angefertiger Einband,
+        Stempel August H?gns,
+        Eintragungen im Notentext,
 
     einband: 1
     stempel: 1
@@ -2016,10 +2016,10 @@
     komponisten_idtext: Renner, J. s.
     titelwerk: Fronleichnamslieder F-Dur
     titelliedtextja: 0
-    bes_grup: gemischter Chor, Blechbl&auml;ser
-    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbl&auml;ser (Trompete I, Trompete II, Tenorhorn, Posaune)
+    bes_grup: gemischter Chor, Blechbläser
+    bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Posaune)
     hoegnspuren: |
-        Eintragungen im Notentext,&nbsp;
+        Eintragungen im Notentext,
 
     einband: 0
     stempel: 0
@@ -2033,7 +2033,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
@@ -2047,7 +2047,7 @@
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
     hoegnspuren: |
-        Abschriften,&nbsp;
+        Abschriften,
 
     einband: 0
     stempel: 0
