@@ -15,15 +15,16 @@ title: Inhaltsverzeichnis
   </ul>
 
 {% for collection in site.collections %}
-  {% capture label %}{{ collection | first }}{% endcapture %}
-  <h3>Alle Seiten im Bereich „{{ site.collections.[label].name }}“</h3>
+  {% if collection.name %}
+    <h3>Alle Seiten im Bereich „{{ collection.name }}“</h3>
 
-  <ul class="default">
-  {% for doc in site.collections.[label].docs %}
-    <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+    <ul class="default">
+    {% for doc in collection.docs %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
 
 {% endfor %}
