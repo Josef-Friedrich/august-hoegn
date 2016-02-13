@@ -1,8 +1,8 @@
 ---
 
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Introitus Dominica VII post Pentecosten F-Dur
+    composer: Anonymus
+    title: Introitus Dominica VII post Pentecosten F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran)
@@ -15,8 +15,8 @@
     abschriften: 1
     liedtext: Omnes gentes plaudite manibus jubilate Deus in voce exultationis.
   -
-    komponisten_idtext: Brunner, E.
-    titelwerk: Lauretanische Litanei mit 2 Pange Lingua und den 4 marianischen Antiphonen G-Dur op. 15
+    composer: Brunner, E.
+    title: Lauretanische Litanei mit 2 Pange Lingua und den 4 marianischen Antiphonen G-Dur op. 15
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -32,8 +32,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Ebner, L.
-    titelwerk: Litaniae de Sacro Corde Jesu B-Dur op. 58
+    composer: Ebner, L.
+    title: Litaniae de Sacro Corde Jesu B-Dur op. 58
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -46,8 +46,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Brunner, J.
-    titelwerk: Tantum ergo B-Dur op. 7
+    composer: Brunner, J.
+    title: Tantum ergo B-Dur op. 7
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -61,8 +61,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Festgesang C-Dur
+    composer: Anonymus
+    title: Festgesang C-Dur
     titelliedtextja: 0
     bes_grup: Männerchor
     bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
@@ -79,8 +79,8 @@
         und als Glückwunsch von uns allen<br>
         sei?s zum Feste dir dargebracht.
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Volkslied „Wo findet die Seele die Heimat“ Es-Dur
+    composer: Anonymus
+    title: Volkslied „Wo findet die Seele die Heimat“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -93,8 +93,8 @@
     abschriften: 1
     liedtext: Wo findet die Seele die Heimat
   -
-    komponisten_idtext: Kuhlau, F. D.
-    titelwerk: Volkslied „Unter allen Wipfeln ist Ruh“ C-Dur
+    composer: Kuhlau, F. D.
+    title: Volkslied „Unter allen Wipfeln ist Ruh“ C-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -107,8 +107,8 @@
         Unter allen Wipfeln ist Ruh,<br>
         in allen Zweigen spürest du keinen Laut.
   -
-    komponisten_idtext: Witt, F.
-    titelwerk: Sequenita „Stabat Mater“ Es-Dur
+    composer: Witt, F.
+    title: Sequenita „Stabat Mater“ Es-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -121,8 +121,8 @@
     abschriften: 0
     liedtext: Stabat Mater dolorosa juxta crucem
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Auferstehungschor und 2 Tantum ergo Es-Dur op. 28
+    composer: Goller, V.
+    title: Auferstehungschor und 2 Tantum ergo Es-Dur op. 28
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -135,8 +135,8 @@
     abschriften: 1
     liedtext: Der Heiland ist erstanden, alleluja
   -
-    komponisten_idtext: Faist, A.
-    titelwerk: 4 Tantum ergo C-Dur op. 13
+    composer: Faist, A.
+    title: 4 Tantum ergo C-Dur op. 13
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
@@ -149,8 +149,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Welcker, M.
-    titelwerk: 6 Kommunionlieder C-Dur op. 89
+    composer: Welcker, M.
+    title: 6 Kommunionlieder C-Dur op. 89
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -163,8 +163,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Ziegelmeier, M.
-    titelwerk: Missa solemnis „Sursum Corda“ F-Dur op. 10
+    composer: Ziegelmeier, M.
+    title: Missa solemnis „Sursum Corda“ F-Dur op. 10
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -178,8 +178,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Malan, C.
-    titelwerk: Grablied „Harre meine Seele, harre des Herrn.“ Es-Dur
+    composer: Malan, C.
+    title: Grablied „Harre meine Seele, harre des Herrn.“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -192,8 +192,8 @@
     abschriften: 1
     liedtext: Harre meine Seele, harre des Herrn.
   -
-    komponisten_idtext: Pfeiffer, T.
-    titelwerk: Tantum ergo C-Dur op. 12 Nr. 6
+    composer: Pfeiffer, T.
+    title: Tantum ergo C-Dur op. 12 Nr. 6
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -206,8 +206,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Rauscher, M.
-    titelwerk: Tantum ergo C-Dur
+    composer: Rauscher, M.
+    title: Tantum ergo C-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Streicher, Blechbläser, Holzbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Fl?gelhorn, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
@@ -221,8 +221,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Palestrina, G. P. d.
-    titelwerk: Missa „brevis“ F-Dur
+    composer: Palestrina, G. P. d.
+    title: Missa „brevis“ F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -235,8 +235,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Mitterer, I.
-    titelwerk: Missa brevis de sanctis Apostolis D-Dur op. 35
+    composer: Mitterer, I.
+    title: Missa brevis de sanctis Apostolis D-Dur op. 35
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -250,8 +250,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: 4 Marienlieder „Mariengrüße“  D-Dur op. 279
+    composer: Gruber, J.
+    title: 4 Marienlieder „Mariengrüße“  D-Dur op. 279
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -266,8 +266,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Mitterer, I.
-    titelwerk: 12 Lieder zu Ehren d. seligsten Jungfrau G-Dur op. 54
+    composer: Mitterer, I.
+    title: 12 Lieder zu Ehren d. seligsten Jungfrau G-Dur op. 54
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -280,8 +280,8 @@
     abschriften: 0
     liedtext: Marienpreis
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Missa „Salus infirmorum“ F-Dur op. 175
+    composer: Gruber, J.
+    title: Missa „Salus infirmorum“ F-Dur op. 175
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
@@ -295,8 +295,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Mitterwallner, F. X.
-    titelwerk: Marienlied „Marienblume“ Es-Dur op. 94
+    composer: Mitterwallner, F. X.
+    title: Marienlied „Marienblume“ Es-Dur op. 94
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -310,8 +310,8 @@
     abschriften: 0
     liedtext: Marienblume
   -
-    komponisten_idtext: Gaida, R.
-    titelwerk: 3 Muttergotteslieder D-Dur op. 7
+    composer: Gaida, R.
+    title: 3 Muttergotteslieder D-Dur op. 7
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -325,8 +325,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Karfreitags-Kantate d-moll op. 31
+    composer: Goller, V.
+    title: Karfreitags-Kantate d-moll op. 31
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -341,8 +341,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: 4 feierliche Tantum ergo C-Dur op. 137
+    composer: Gruber, J.
+    title: 4 feierliche Tantum ergo C-Dur op. 137
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -355,8 +355,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Lieder zu Ehren des göttlichen Herzens Jesu C-Dur op. 33
+    composer: Griesbacher, P.
+    title: Lieder zu Ehren des göttlichen Herzens Jesu C-Dur op. 33
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt); Orgel (mit Pedal)
@@ -369,8 +369,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Welcker, M.
-    titelwerk: Auferstehungs-Chor D-Dur op. 25
+    composer: Welcker, M.
+    title: Auferstehungs-Chor D-Dur op. 25
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -385,8 +385,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: 5 Kommunionlieder F-Dur op. 46
+    composer: Goller, V.
+    title: 5 Kommunionlieder F-Dur op. 46
     titelliedtextja: 0
     bes_grup: Frauenchor, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Orgel (mit Pedal)
@@ -399,8 +399,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Hanisch, J.
-    titelwerk: Kommunionlieder „Meinen Jesus lass ich nicht“ es-moll
+    composer: Hanisch, J.
+    title: Kommunionlieder „Meinen Jesus lass ich nicht“ es-moll
     titelliedtextja: 1
     bes_grup: Frauenchor, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Orgel (mit Pedal)
@@ -413,8 +413,8 @@
     abschriften: 0
     liedtext: Meinen Jesus lass ich nicht
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: 6 Kommunionlieder F-Dur op. 11
+    composer: Goller, V.
+    title: 6 Kommunionlieder F-Dur op. 11
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -427,8 +427,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Welcker, M.
-    titelwerk: 6 Gesänge zu Ehren des allerh. Altarsakraments F-Dur op. 62
+    composer: Welcker, M.
+    title: 6 Gesänge zu Ehren des allerh. Altarsakraments F-Dur op. 62
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -441,8 +441,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Rothaug, F. J.
-    titelwerk: Pange lingua B-Dur op. 70 Nr. 3
+    composer: Rothaug, F. J.
+    title: Pange lingua B-Dur op. 70 Nr. 3
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -456,8 +456,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: 4 feierliche Pange lingua a-moll op. 184
+    composer: Gruber, J.
+    title: 4 feierliche Pange lingua a-moll op. 184
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -470,8 +470,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: 25 Offertoria G-Dur op. 80
+    composer: Haller, M.
+    title: 25 Offertoria G-Dur op. 80
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -484,8 +484,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Missa „Regina scratissimi Rosarii“ D-Dur op. 185
+    composer: Gruber, J.
+    title: Missa „Regina scratissimi Rosarii“ D-Dur op. 185
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine, Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
@@ -499,8 +499,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Rihovsky, A.
-    titelwerk: Missa Loretta B-Dur op. 3
+    composer: Rihovsky, A.
+    title: Missa Loretta B-Dur op. 3
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
@@ -514,8 +514,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Missa solemnis „Kaiser-Jubiläum“ Es-Dur op. 108
+    composer: Gruber, J.
+    title: Missa solemnis „Kaiser-Jubiläum“ Es-Dur op. 108
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -529,8 +529,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Scholz, C.
-    titelwerk: Missa in honorem St. Elisabeth C-Dur op. 4
+    composer: Scholz, C.
+    title: Missa in honorem St. Elisabeth C-Dur op. 4
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II); Orgel (mit Pedal)
@@ -544,8 +544,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Deschermeier, J.
-    titelwerk: 4 Tantum ergo As-Dur op. 109
+    composer: Deschermeier, J.
+    title: 4 Tantum ergo As-Dur op. 109
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Holzbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbläser (Fl?te, Klarinette); Orgel (mit Pedal)
@@ -558,8 +558,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Schönauer, W. H.
-    titelwerk: Heimatliebe Des-Dur
+    composer: Schönauer, W. H.
+    title: Heimatliebe Des-Dur
     titelliedtextja: 0
     bes_grup: Männerchor
     bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
@@ -572,8 +572,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Siegert, G.
-    titelwerk: Gebet an den heiligen Christ G-Dur
+    composer: Siegert, G.
+    title: Gebet an den heiligen Christ G-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -588,8 +588,8 @@
         Du lieber, heiliger, frommer Christ,<br>
         der für uns Kinder kommen ist.
   -
-    komponisten_idtext: Pleyer, E.
-    titelwerk: 6 Grablieder Es-Dur op. 50
+    composer: Pleyer, E.
+    title: 6 Grablieder Es-Dur op. 50
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -604,8 +604,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Marienlied Nr. 1 „Maria, Himmelskönigin“ Es-Dur
+    composer: Anonymus
+    title: Marienlied Nr. 1 „Maria, Himmelskönigin“ Es-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -622,8 +622,8 @@
         Dein Ohr in Gnaden zu uns neig,<br>
         Maria dich als Mutter zeig.
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Marienlied Nr. 2 „O Maria, gnadenvolle“ D-Dur
+    composer: Anonymus
+    title: Marienlied Nr. 2 „O Maria, gnadenvolle“ D-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -636,8 +636,8 @@
     abschriften: 1
     liedtext: O Maria, gnadenvolle
   -
-    komponisten_idtext: Anonymus
-    titelwerk: 16 Marienlieder von verschiedenen Komponisten
+    composer: Anonymus
+    title: 16 Marienlieder von verschiedenen Komponisten
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -650,8 +650,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Maupai, K.
-    titelwerk: Missa zu Ehren des gekreuzigten Heilands D-Dur op. 50
+    composer: Maupai, K.
+    title: Missa zu Ehren des gekreuzigten Heilands D-Dur op. 50
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -664,8 +664,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Kircher, J.
-    titelwerk: St. Canisius-Messe F-Dur op. 28
+    composer: Kircher, J.
+    title: St. Canisius-Messe F-Dur op. 28
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II); Orgel (mit Pedal)
@@ -679,8 +679,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Abt, F. W.
-    titelwerk: "&quot;St. Albans&quot;-Messe C-Dur op. 66"
+    composer: Abt, F. W.
+    title: "&quot;St. Albans&quot;-Messe C-Dur op. 66"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -693,8 +693,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Aiblinger, J. C.
-    titelwerk: Pange lingua B-Dur
+    composer: Aiblinger, J. C.
+    title: Pange lingua B-Dur
     titelliedtextja: 0
     bes_grup: Männerchor
     bes_grup_u_inst: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
@@ -707,8 +707,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Kempter, K.
-    titelwerk: lateinische Messe in D D-Dur op. 9
+    composer: Kempter, K.
+    title: lateinische Messe in D D-Dur op. 9
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Holzbläser, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Holzbläser (Fl?te, Klarinette, Klarinette I); Schlagwerk (Pauken)
@@ -721,8 +721,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Mittmann, P.
-    titelwerk: Missa in G G-Dur op. 140
+    composer: Mittmann, P.
+    title: Missa in G G-Dur op. 140
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune I, Posaune II); Holzbläser (Fl?te I, Fagott II, ); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -736,8 +736,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Scholz, C.
-    titelwerk: 6 Begräbnislieder Des-Dur op. 8
+    composer: Scholz, C.
+    title: 6 Begräbnislieder Des-Dur op. 8
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -750,8 +750,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Missa in honorem St. Stephani Protomartyris As-Dur op. 8
+    composer: Goller, V.
+    title: Missa in honorem St. Stephani Protomartyris As-Dur op. 8
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -765,8 +765,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Auer, J.
-    titelwerk: Missa in honroem Beatea Mariae Virginis B-Dur op. 2
+    composer: Auer, J.
+    title: Missa in honroem Beatea Mariae Virginis B-Dur op. 2
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -780,8 +780,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Auer, J.
-    titelwerk: 10 Adjuva nos B-Dur op. 35
+    composer: Auer, J.
+    title: 10 Adjuva nos B-Dur op. 35
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -794,8 +794,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Lindner, F. X.
-    titelwerk: 9 Veni Creator Es-Dur
+    composer: Lindner, F. X.
+    title: 9 Veni Creator Es-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -808,8 +808,8 @@
     abschriften: 0
     liedtext: nicht sicher Högn
   -
-    komponisten_idtext: Alt, G. M.
-    titelwerk: Juravit Dominus A-Dur op. 19
+    composer: Alt, G. M.
+    title: Juravit Dominus A-Dur op. 19
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -822,8 +822,8 @@
     abschriften: 0
     liedtext: nicht sicher Högn
   -
-    komponisten_idtext: Grau, T. O. F. M.
-    titelwerk: Auferstehungs- bzw. Oster-Chor As-Dur op. 34 a
+    composer: Grau, T. O. F. M.
+    title: Auferstehungs- bzw. Oster-Chor As-Dur op. 34 a
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -836,8 +836,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Scheffzük, B.
-    titelwerk: Regina coeli F-Dur
+    composer: Scheffzük, B.
+    title: Regina coeli F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -852,8 +852,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Koch, M.
-    titelwerk: Missa in honorem S. Isidor G-Dur op. 15
+    composer: Koch, M.
+    title: Missa in honorem S. Isidor G-Dur op. 15
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -866,8 +866,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Beneken, F. B.
-    titelwerk: Den Entschlafenen „Wie sie so sanft ruh?n, alle die Seligen“ A-Dur
+    composer: Beneken, F. B.
+    title: Den Entschlafenen „Wie sie so sanft ruh?n, alle die Seligen“ A-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -882,8 +882,8 @@
         Wie sie so sanft ruh?n, alle die Seligen,<br>
         sanft ruhn in Grabe still in der Erde Schoß.
   -
-    komponisten_idtext: Mitterer, I.
-    titelwerk: Missa dominicalis VII in hon. S. Cassiani Martyris G-Dur op. 13
+    composer: Mitterer, I.
+    title: Missa dominicalis VII in hon. S. Cassiani Martyris G-Dur op. 13
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -897,8 +897,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Missa in honorem ss. Familiae F-Dur op. 70
+    composer: Griesbacher, P.
+    title: Missa in honorem ss. Familiae F-Dur op. 70
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -913,8 +913,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Missa „Stella Maris“ Es-Dur op. 141
+    composer: Griesbacher, P.
+    title: Missa „Stella Maris“ Es-Dur op. 141
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II, Posaune); Orgel (mit Pedal)
@@ -928,8 +928,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Marienpreis in Lieder zur Verehrung der allerseligsten Jungfrau As-Dur op. 37
+    composer: Griesbacher, P.
+    title: Marienpreis in Lieder zur Verehrung der allerseligsten Jungfrau As-Dur op. 37
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt); Orgel (mit Pedal)
@@ -942,8 +942,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Mohr, J.
-    titelwerk: Orgelbegleitung zum Cantate
+    composer: Mohr, J.
+    title: Orgelbegleitung zum Cantate
     titelliedtextja: 0
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
@@ -956,8 +956,8 @@
     abschriften: 0
     liedtext: "Eintrag auf Titelblatt: Kirche Wallersdorf, angeschafft 3. Oktober 1880 (Wallersdorf war eine von Högns frühere Wirkungsstätte als Lehrer. Hier lehrte er seine Frau Emma kennen."
   -
-    komponisten_idtext: Rheinberger, J.
-    titelwerk: Messe G-Dur op. 151
+    composer: Rheinberger, J.
+    title: Messe G-Dur op. 151
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -972,8 +972,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Missa Mater dolorosa Es-Dur op. 51
+    composer: Gruber, J.
+    title: Missa Mater dolorosa Es-Dur op. 51
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
@@ -987,8 +987,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Marien Grüße F-Dur op. 17
+    composer: Haller, M.
+    title: Marien Grüße F-Dur op. 17
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1002,8 +1002,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Filke, M.
-    titelwerk: Missa in F-Dur op. 122
+    composer: Filke, M.
+    title: Missa in F-Dur op. 122
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1016,8 +1016,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Prozessionsgesänge für das hochheilige Fronleichnamsfest Es-Dur op. 32
+    composer: Goller, V.
+    title: Prozessionsgesänge für das hochheilige Fronleichnamsfest Es-Dur op. 32
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Posaune)
@@ -1030,8 +1030,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Abt, F. W.
-    titelwerk: 10 Veni Creator Es-Dur op. 34 a
+    composer: Abt, F. W.
+    title: 10 Veni Creator Es-Dur op. 34 a
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1045,8 +1045,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Missa Dominicalis in hon. Beatissimae Virginis Mariae B-Dur op. 140
+    composer: Griesbacher, P.
+    title: Missa Dominicalis in hon. Beatissimae Virginis Mariae B-Dur op. 140
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1059,8 +1059,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Missa de Nativitage D. N. J. Ch. G-Dur op. 92
+    composer: Gruber, J.
+    title: Missa de Nativitage D. N. J. Ch. G-Dur op. 92
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -1073,8 +1073,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Schlaud, F.
-    titelwerk: Marienlied „Dein Kind bin ich Maria!“ Es-Dur op. 47 a
+    composer: Schlaud, F.
+    title: Marienlied „Dein Kind bin ich Maria!“ Es-Dur op. 47 a
     titelliedtextja: 1
     bes_grup: Soli, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Bass-Solo); Orgel (mit Pedal)
@@ -1087,8 +1087,8 @@
     abschriften: 1
     liedtext: Dein Kind bin ich Maria!
   -
-    komponisten_idtext: Huber, J. H. H. P.
-    titelwerk: Laurentius-Lied G-Dur
+    composer: Huber, J. H. H. P.
+    title: Laurentius-Lied G-Dur
     titelliedtextja: 0
     bes_grup: Soli
     bes_grup_u_inst: Soli (Sopran-Solo)
@@ -1101,8 +1101,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Schächtl, G.
-    titelwerk: 5 Trauerlieder am Grabe Verstorbener Es-Dur op. 39
+    composer: Schächtl, G.
+    title: 5 Trauerlieder am Grabe Verstorbener Es-Dur op. 39
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1115,8 +1115,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Koch, M.
-    titelwerk: Requiem f-moll op. 12
+    composer: Koch, M.
+    title: Requiem f-moll op. 12
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1129,8 +1129,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Faist, A.
-    titelwerk: Missa sexta (pastoralis) G-Dur op. 25
+    composer: Faist, A.
+    title: Missa sexta (pastoralis) G-Dur op. 25
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
@@ -1146,8 +1146,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Schächtl, G.
-    titelwerk: Fatima-Festmesse zu Ehren des Unbefleckten Herzens Mariae Es-Dur op. 32
+    composer: Schächtl, G.
+    title: Fatima-Festmesse zu Ehren des Unbefleckten Herzens Mariae Es-Dur op. 32
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Althorn, Posaune, Bombardon); Orgel (mit Pedal)
@@ -1161,8 +1161,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Huber, H.
-    titelwerk: Missa „Salve Regina pacis“ G-Dur op. 25
+    composer: Huber, H.
+    title: Missa „Salve Regina pacis“ G-Dur op. 25
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -1177,8 +1177,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: Missa in hon. Sti. Willibaldi F-Dur op. 123 a
+    composer: Griesbacher, P.
+    title: Missa in hon. Sti. Willibaldi F-Dur op. 123 a
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo, Bass-Solo); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
@@ -1193,8 +1193,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Linner, J.
-    titelwerk: Missa in honorem St. Josephi d-moll op. 21
+    composer: Linner, J.
+    title: Missa in honorem St. Josephi d-moll op. 21
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel, Schlagwerk
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Horn I, Horn II, Posaune); Holzbläser (Fl?te); Orgel (mit Pedal); Schlagwerk (Pauken)
@@ -1209,8 +1209,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Witt, F.
-    titelwerk: Missa in honorem S. Luciae F-Dur op. 11 a
+    composer: Witt, F.
+    title: Missa in honorem S. Luciae F-Dur op. 11 a
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Posaune I, Posaune II); Orgel (mit Pedal)
@@ -1225,8 +1225,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: "&quot;Mariengarten“ 34 Lieder zur Verehrung der seligsten Jungfrau B-Dur op. 32"
+    composer: Haller, M.
+    title: "&quot;Mariengarten“ 34 Lieder zur Verehrung der seligsten Jungfrau B-Dur op. 32"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor); Orgel (mit Pedal)
@@ -1239,8 +1239,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Griesbacher, P.
-    titelwerk: 9 Muttergotteslieder Es-Dur op. 87
+    composer: Griesbacher, P.
+    title: 9 Muttergotteslieder Es-Dur op. 87
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1253,8 +1253,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: "&quot;Marienstrauß“ 8 Marienlieder G-Dur op. 223"
+    composer: Gruber, J.
+    title: "&quot;Marienstrauß“ 8 Marienlieder G-Dur op. 223"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Alt-Solo); Orgel (mit Pedal)
@@ -1267,8 +1267,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Schächtl, G.
-    titelwerk: "&quot;Maria im Kirchenjahr“ 20 Lobpreislieder an Maria As-Dur op. 28"
+    composer: Schächtl, G.
+    title: "&quot;Maria im Kirchenjahr“ 20 Lobpreislieder an Maria As-Dur op. 28"
     titelliedtextja: 0
     bes_grup: Frauenchor, Soli, Orgel
     bes_grup_u_inst: Frauenchor (Sopran I, Sopran II, Alt I); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo, Bass-Solo); Orgel (mit Pedal)
@@ -1281,8 +1281,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Koch, M.
-    titelwerk: 3 Marienlieder E-Dur op. 8
+    composer: Koch, M.
+    title: 3 Marienlieder E-Dur op. 8
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Tenor-Solo); Orgel (mit Pedal)
@@ -1295,8 +1295,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Missa Septima B-Dur op. 19
+    composer: Haller, M.
+    title: Missa Septima B-Dur op. 19
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1310,8 +1310,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Koch, M.
-    titelwerk: 3 Marienlieder G-Dur op. 3
+    composer: Koch, M.
+    title: 3 Marienlieder G-Dur op. 3
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1324,8 +1324,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Missa in honorem B. M. V.  Es-Dur op. 25
+    composer: Goller, V.
+    title: Missa in honorem B. M. V.  Es-Dur op. 25
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Althorn, Posaune); Orgel (mit Pedal)
@@ -1338,8 +1338,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Dachs, M.
-    titelwerk: Missa in honorem St. Anna F-Dur op. 11
+    composer: Dachs, M.
+    title: Missa in honorem St. Anna F-Dur op. 11
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1353,8 +1353,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Missa sexta decima in honorem S. Antonii de Padua B-Dur op. 62 b
+    composer: Haller, M.
+    title: Missa sexta decima in honorem S. Antonii de Padua B-Dur op. 62 b
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1367,8 +1367,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Rheinberger, J.
-    titelwerk: Messe f-moll op. 159
+    composer: Rheinberger, J.
+    title: Messe f-moll op. 159
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Orgel (mit Pedal)
@@ -1381,8 +1381,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Schächtl, G.
-    titelwerk: Kindes Grüße an die himmlische Mutter A-Dur op. 2 a
+    composer: Schächtl, G.
+    title: Kindes Grüße an die himmlische Mutter A-Dur op. 2 a
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1395,8 +1395,8 @@
     abschriften: 1
     liedtext: Maria, meine Mutter
   -
-    komponisten_idtext: Welcker, M.
-    titelwerk: "&quot;Maria, Königin des Friedens“ 8 Marienlieder Es-Dur op. 78"
+    composer: Welcker, M.
+    title: "&quot;Maria, Königin des Friedens“ 8 Marienlieder Es-Dur op. 78"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1410,8 +1410,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Engelhart, F. X.
-    titelwerk: "&quot;Maria, Königin des Friedens“ 5 Marienlieder D-Dur op. 57"
+    composer: Engelhart, F. X.
+    title: "&quot;Maria, Königin des Friedens“ 5 Marienlieder D-Dur op. 57"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1424,8 +1424,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Engelhart, F. X.
-    titelwerk: "&quot;Heilige Namen Allezeit beisammen!“ 14 Lieder zu Jesus, Maria und Joseph Es-Dur"
+    composer: Engelhart, F. X.
+    title: "&quot;Heilige Namen Allezeit beisammen!“ 14 Lieder zu Jesus, Maria und Joseph Es-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1438,8 +1438,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Missa brevis in honorem S. Aloisii Ganzagae B-Dur op. 34
+    composer: Goller, V.
+    title: Missa brevis in honorem S. Aloisii Ganzagae B-Dur op. 34
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1452,8 +1452,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Offertorien für das ganze Kirchenjahr, Heft I, (Weihnachtskreis) Es-Dur op. 21
+    composer: Goller, V.
+    title: Offertorien für das ganze Kirchenjahr, Heft I, (Weihnachtskreis) Es-Dur op. 21
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1467,8 +1467,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Offertorien für das ganze Kirchenjahr, Heft II, (Osterkreis) D-Dur op. 22
+    composer: Goller, V.
+    title: Offertorien für das ganze Kirchenjahr, Heft II, (Osterkreis) D-Dur op. 22
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1482,8 +1482,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Offertorien für das ganze Kirchenjahr, Heft III, (Pfingstkreis) C-Dur op. 23
+    composer: Goller, V.
+    title: Offertorien für das ganze Kirchenjahr, Heft III, (Pfingstkreis) C-Dur op. 23
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1497,8 +1497,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Offertorien für das ganze Kirchenjahr, Heft IV, (Proprium de Sanctis) Es-Dur op. 33
+    composer: Goller, V.
+    title: Offertorien für das ganze Kirchenjahr, Heft IV, (Proprium de Sanctis) Es-Dur op. 33
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1512,8 +1512,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Offertorien für das ganze Kirchenjahr, Heft V, (Commune Sanctorum) D-Dur op. 41
+    composer: Goller, V.
+    title: Offertorien für das ganze Kirchenjahr, Heft V, (Commune Sanctorum) D-Dur op. 41
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1527,8 +1527,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Witt, F.
-    titelwerk: Organum comitans ad Ordinarium Missae op. 23
+    composer: Witt, F.
+    title: Organum comitans ad Ordinarium Missae op. 23
     titelliedtextja: 0
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
@@ -1541,8 +1541,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Goller, V.
-    titelwerk: Orgelbuch zum Lob Gottes op. 61
+    composer: Goller, V.
+    title: Orgelbuch zum Lob Gottes op. 61
     titelliedtextja: 0
     bes_grup: Orgel
     bes_grup_u_inst: Orgel (mit Pedal)
@@ -1555,8 +1555,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Gottschalg, A. W.
-    titelwerk: Centralblatt für Instrumentalmusik, Solo- und Chorgesang
+    composer: Gottschalg, A. W.
+    title: Centralblatt für Instrumentalmusik, Solo- und Chorgesang
     titelliedtextja: 0
     bes_grup:
     bes_grup_u_inst:
@@ -1567,8 +1567,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: 2 Marienlieder F-Dur op. 221
+    composer: Gruber, J.
+    title: 2 Marienlieder F-Dur op. 221
     titelliedtextja: 0
     bes_grup: Soli, Streicher, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo); Streicher (Violine); Orgel (mit Pedal)
@@ -1583,8 +1583,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Faist, A.
-    titelwerk: 6 Tantum ergo C-Dur op. 28
+    composer: Faist, A.
+    title: 6 Tantum ergo C-Dur op. 28
     titelliedtextja: 0
     bes_grup: gemischter Chor, Streicher, Blechbläser, Holzbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Trompete I, Trompete II, Horn I, Horn II, Posaune); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
@@ -1598,8 +1598,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Schöpf, J. M.
-    titelwerk: Marienlied „Schön bist du Maria“ F-Dur
+    composer: Schöpf, J. M.
+    title: Marienlied „Schön bist du Maria“ F-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Tenor-Solo, Bass-Solo); Orgel (mit Pedal)
@@ -1612,8 +1612,8 @@
     abschriften: 1
     liedtext: Schön bist du Maria
   -
-    komponisten_idtext: Schöpf, J. M.
-    titelwerk: Marienlied „Maria hilf!“ As-Dur
+    composer: Schöpf, J. M.
+    title: Marienlied „Maria hilf!“ As-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo, Bass-Solo); Orgel (mit Pedal)
@@ -1626,8 +1626,8 @@
     abschriften: 1
     liedtext: Maria hilf!
   -
-    komponisten_idtext: Mozart, W. A.
-    titelwerk: Sub tuum praesidium
+    composer: Mozart, W. A.
+    title: Sub tuum praesidium
     titelliedtextja: 1
     bes_grup: Soli, Streicher, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Tenor-Solo); Streicher (Violine); Orgel (mit Pedal)
@@ -1640,8 +1640,8 @@
     abschriften: 0
     liedtext: Sub tuum praesidium
   -
-    komponisten_idtext: Welcker, M.
-    titelwerk: Marienlied zur Trauung F-Dur op. 92 Nr. 2
+    composer: Welcker, M.
+    title: Marienlied zur Trauung F-Dur op. 92 Nr. 2
     titelliedtextja: 0
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1655,8 +1655,8 @@
     abschriften: 1
     liedtext: Beide die in solchen Stunden sich einander zugetan
   -
-    komponisten_idtext: Mendelson-Bartholdy, F.
-    titelwerk: "&quot;Gottes Rat und Scheiden“ D-Dur"
+    composer: Mendelson-Bartholdy, F.
+    title: "&quot;Gottes Rat und Scheiden“ D-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1673,8 +1673,8 @@
         daß man von Liebsten, was man hat,<br>
         muß scheiden.
   -
-    komponisten_idtext: Anonymus
-    titelwerk: 3 Weihnachtslieder
+    composer: Anonymus
+    title: 3 Weihnachtslieder
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1692,8 +1692,8 @@
         <br>
         O Freude über Freude
   -
-    komponisten_idtext: Kindsmüller, K.
-    titelwerk: Gruß und Dank dem Gefallenen D-Dur op. 72
+    composer: Kindsmüller, K.
+    title: Gruß und Dank dem Gefallenen D-Dur op. 72
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1706,8 +1706,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Kindlein zart! G-Dur
+    composer: Anonymus
+    title: Kindlein zart! G-Dur
     titelliedtextja: 0
     bes_grup: Soli, Orgel
     bes_grup_u_inst: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
@@ -1723,8 +1723,8 @@
         <br>
         Kindelein zart, von guter Art, schließe die Äuglein, schlafe.
   -
-    komponisten_idtext: Uttlinger, L.
-    titelwerk: Letzter Gruß D-Dur
+    composer: Uttlinger, L.
+    title: Letzter Gruß D-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1741,8 +1741,8 @@
         <br>
         (Gedicht von A. Pichler)
   -
-    komponisten_idtext: Palestrina, G. P. d.
-    titelwerk: O vos omnes F-Dur
+    composer: Palestrina, G. P. d.
+    title: O vos omnes F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1755,8 +1755,8 @@
     abschriften: 1
     liedtext: O vos omnes, qui transitis per viam attendite et videte
   -
-    komponisten_idtext: Haydn, M. J.
-    titelwerk: "&quot;Laß mich deine Leiden singen!“ G-Dur"
+    composer: Haydn, M. J.
+    title: "&quot;Laß mich deine Leiden singen!“ G-Dur"
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1773,8 +1773,8 @@
         unverschuldtes Gottes Lamm,<br>
         das von mir die Sünde nahm.
   -
-    komponisten_idtext: Weber, C. M. v.
-    titelwerk: Volkslied „Im Wald“ B-Dur
+    composer: Weber, C. M. v.
+    title: Volkslied „Im Wald“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1791,8 +1791,8 @@
         Im Wald, im Wald, im immer frischen Wald,<br>
         im Wald wo?s Echo schallt.
   -
-    komponisten_idtext: Deschermeier, J.
-    titelwerk: 6 deutsche Grabgesänge Es-Dur op. 38
+    composer: Deschermeier, J.
+    title: 6 deutsche Grabgesänge Es-Dur op. 38
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1808,8 +1808,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Deschermeier, J.
-    titelwerk: Miserere und Benedictus F-Dur op. 48
+    composer: Deschermeier, J.
+    title: Miserere und Benedictus F-Dur op. 48
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete, Fl?gelhorn, Posaune, Bombardon)
@@ -1824,8 +1824,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Pilland, J.
-    titelwerk: Benediktus As-Dur
+    composer: Pilland, J.
+    title: Benediktus As-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1840,8 +1840,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Deschermeier, J.
-    titelwerk: 8 Begräbnislieder E-Dur op. 155
+    composer: Deschermeier, J.
+    title: 8 Begräbnislieder E-Dur op. 155
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1854,8 +1854,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Große, E. A.
-    titelwerk: 8 Trauer-Chöre C-Dur op. 163
+    composer: Große, E. A.
+    title: 8 Trauer-Chöre C-Dur op. 163
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1869,8 +1869,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Kempf, R.
-    titelwerk: Ecce Sacerdos As-Dur op. 12
+    composer: Kempf, R.
+    title: Ecce Sacerdos As-Dur op. 12
     titelliedtextja: 0
     bes_grup: gemischter Chor, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
@@ -1883,8 +1883,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Anitphon „Levita Laurentius“ B-Dur
+    composer: Anonymus
+    title: Anitphon „Levita Laurentius“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1898,8 +1898,8 @@
     abschriften: 1
     liedtext: Levita Laurentius
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Pange lingua C-Dur
+    composer: Haller, M.
+    title: Pange lingua C-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1912,8 +1912,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Gruber, J.
-    titelwerk: Drittes Requiem in d-moll op. 37
+    composer: Gruber, J.
+    title: Drittes Requiem in d-moll op. 37
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Horn I, Horn II); Orgel (mit Pedal)
@@ -1926,8 +1926,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Missa duodecima op. 27 Nr. b
+    composer: Haller, M.
+    title: Missa duodecima op. 27 Nr. b
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1940,8 +1940,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Kommunionlieder „O Seele Christi heilige mich!“ B-Dur
+    composer: Anonymus
+    title: Kommunionlieder „O Seele Christi heilige mich!“ B-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo); Orgel (mit Pedal)
@@ -1955,8 +1955,8 @@
     abschriften: 1
     liedtext: O Seele Christi heilige mich!
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Volkslied „Lobe den Herren, den mächtigen König!“ G-Dur
+    composer: Anonymus
+    title: Volkslied „Lobe den Herren, den mächtigen König!“ G-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1969,8 +1969,8 @@
     abschriften: 1
     liedtext: Lobe den Herren, den mächtigen König!
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Volkslied „Maiglöckchen steht und läutet in weißen Festgewand“ G-Dur
+    composer: Anonymus
+    title: Volkslied „Maiglöckchen steht und läutet in weißen Festgewand“ G-Dur
     titelliedtextja: 1
     bes_grup: gemischter Chor, Soli, Orgel
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
@@ -1983,8 +1983,8 @@
         Maiglöckchen steht und läutet in weißen Festgewand<br>
         sagt an was wohlbedeute der Klang durch alle Land.
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Hiferuf C-Dur
+    composer: Anonymus
+    title: Hiferuf C-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -1997,8 +1997,8 @@
     abschriften: 1
     liedtext: evenetuell von Haller 89
   -
-    komponisten_idtext: Haller, M.
-    titelwerk: Laudes echaristicae A-Dur op. 16
+    composer: Haller, M.
+    title: Laudes echaristicae A-Dur op. 16
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -2013,8 +2013,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Renner, J. s.
-    titelwerk: Fronleichnamslieder F-Dur
+    composer: Renner, J. s.
+    title: Fronleichnamslieder F-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor, Blechbläser
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Tenorhorn, Posaune)
@@ -2027,8 +2027,8 @@
     abschriften: 0
     liedtext:
   -
-    komponisten_idtext: Otto, J. J.
-    titelwerk: Das treue deutsche Herz G-Dur
+    composer: Otto, J. J.
+    title: Das treue deutsche Herz G-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)
@@ -2041,8 +2041,8 @@
     abschriften: 1
     liedtext:
   -
-    komponisten_idtext: Anonymus
-    titelwerk: Heimat B-Dur
+    composer: Anonymus
+    title: Heimat B-Dur
     titelliedtextja: 0
     bes_grup: gemischter Chor
     bes_grup_u_inst: gemischter Chor (Sopran, Alt, Tenor, Bass)

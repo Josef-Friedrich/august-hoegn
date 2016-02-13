@@ -1,0 +1,12 @@
+---
+title: Arrangements
+---
+
+<table>
+{% for item in site.data.arrangements %}
+<tr>
+  <td>{{ item.title }}</td>
+  <td>{{ item.composer }}</td>
+</tr>
+{% endfor %}
+</table>

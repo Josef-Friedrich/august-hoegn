@@ -1,7 +1,7 @@
 ---
 -
-  komponisten_idtext: Claudius, G. K.
-  titelwerk: Grablied Nr. 6 „Im Grabe ist Ruh“ G-Dur
+  composer: Claudius, G. K.
+  title: Grablied Nr. 6 „Im Grabe ist Ruh“ G-Dur
   tonart: 15
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -11,8 +11,8 @@
   bes_grup_u_inst2:
   liedtext: Im Grabe ist Ruh<br>
 -
-  komponisten_idtext: Braun, A.
-  titelwerk: Grablied Nr. 7 „Geht nun hin und grabt mein Grab“ B-Dur
+  composer: Braun, A.
+  title: Grablied Nr. 7 „Geht nun hin und grabt mein Grab“ B-Dur
   tonart: 21
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -22,8 +22,8 @@
   bes_grup_u_inst2: Männerchor (Tenor I, Tenor II, Bass I, Bass II)
   liedtext: Geht nun hin und grabt mein Grab<br>
 -
-  komponisten_idtext: Lützel, H.
-  titelwerk: Trauungslied „Wo du hingehst“ Es-Dur
+  composer: Lützel, H.
+  title: Trauungslied „Wo du hingehst“ Es-Dur
   tonart: 7
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -33,8 +33,8 @@
   bes_grup_u_inst2: Frauenchor (Sopran I, Sopran II, Alt I)
   liedtext: Wo du hingehst<br>
 -
-  komponisten_idtext: Griesbacher, P.
-  titelwerk: Marienlied „O Himmelskönigin“ F-Dur op. 137
+  composer: Griesbacher, P.
+  title: Marienlied „O Himmelskönigin“ F-Dur op. 137
   tonart: 11
   titelliedtextja: 1
   veraenderung: für Solo und 4-st. gem. Chor arrangiert
@@ -44,8 +44,8 @@
   bes_grup_u_inst2: Soli (Sopran-Solo, Tenor-Solo); Orgel (mit Pedal)
   liedtext: O Himmelskönigin
 -
-  komponisten_idtext: Griesbacher, P.
-  titelwerk: Marienlied „Wenn mein Schifflein sich will wenden“ C-Dur op. 137
+  composer: Griesbacher, P.
+  title: Marienlied „Wenn mein Schifflein sich will wenden“ C-Dur op. 137
   tonart: 1
   titelliedtextja: 1
   veraenderung: für Solo und 4-st. gem. Chor arrangiert
@@ -55,8 +55,8 @@
   bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
   liedtext: Wenn mein Schifflein sich will wenden
 -
-  komponisten_idtext: Griesbacher, P.
-  titelwerk: Herz-Jesu-Lied „O hätt ich tausend Herzen“ D-Dur op. 33 Nr. 2
+  composer: Griesbacher, P.
+  title: Herz-Jesu-Lied „O hätt ich tausend Herzen“ D-Dur op. 33 Nr. 2
   tonart: 5
   titelliedtextja: 1
   veraenderung: für vierstimmig gemischten Chor arrangiert
@@ -66,8 +66,8 @@
   bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
   liedtext: O hätt ich tausend Herzen
 -
-  komponisten_idtext: Griesbacher, P.
-  titelwerk: Herz-Jesu-Lied „Dem Herzen Jesu singe“ C-Dur op. 33 Nr. 1
+  composer: Griesbacher, P.
+  title: Herz-Jesu-Lied „Dem Herzen Jesu singe“ C-Dur op. 33 Nr. 1
   tonart: 1
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -77,8 +77,8 @@
   bes_grup_u_inst2: Soli (Sopran-Solo, Alt-Solo); Orgel (mit Pedal)
   liedtext: Dem Herzen Jesu singe
 -
-  komponisten_idtext: Zangl, J. G.
-  titelwerk: Herz-Jesu-Lied „Ein Herz hab ich gefunden“ G-Dur op. 41 Nr. 1
+  composer: Zangl, J. G.
+  title: Herz-Jesu-Lied „Ein Herz hab ich gefunden“ G-Dur op. 41 Nr. 1
   tonart: 15
   titelliedtextja: 1
   veraenderung: Orgelstimme hinzugefügt
@@ -92,8 +92,8 @@
     bedekt mit Liebeswunden,<br>
     wie Demantgestein.
 -
-  komponisten_idtext: Abt, F. W.
-  titelwerk: Grablied „Über den Sternen“ F-Dur op. 374 Nr. 3
+  composer: Abt, F. W.
+  title: Grablied „Über den Sternen“ F-Dur op. 374 Nr. 3
   tonart: 11
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -104,8 +104,8 @@
   liedtext: |
     Über den Sternen,<br> da wird es einst tagen,
 -
-  komponisten_idtext: Silcher, F.
-  titelwerk: Trauungslied „So nimm denn meine Hände“ D-Dur
+  composer: Silcher, F.
+  title: Trauungslied „So nimm denn meine Hände“ D-Dur
   tonart: 5
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -118,8 +118,8 @@
     und führe mich bis an mein selig Ende<br>
     und ewiglich
 -
-  komponisten_idtext: Schächtl, G.
-  titelwerk: Deutscher Auferstehungs-Chor Es-Dur op. 24
+  composer: Schächtl, G.
+  title: Deutscher Auferstehungs-Chor Es-Dur op. 24
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -129,8 +129,8 @@
   bes_grup_u_inst2:
   liedtext:
 -
-  komponisten_idtext: Haller, M.
-  titelwerk: Laudes Eucharisticae G-Dur op. 16
+  composer: Haller, M.
+  title: Laudes Eucharisticae G-Dur op. 16
   tonart: 15
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -140,8 +140,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
   liedtext:
 -
-  komponisten_idtext: Engelhart, F. X.
-  titelwerk: Trauerlied „Friedhofsglocken rufen klagend“ Es-Dur op. 77
+  composer: Engelhart, F. X.
+  title: Trauerlied „Friedhofsglocken rufen klagend“ Es-Dur op. 77
   tonart: 7
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -154,8 +154,8 @@
     an der lieben Grabesrand,<br>
     denn aus seiner Lieben Mitte nahm des Todes harte Hand.
 -
-  komponisten_idtext: Stein, J.
-  titelwerk: Instrumental-Messe Nr. 6 Es-Dur op. 78
+  composer: Stein, J.
+  title: Instrumental-Messe Nr. 6 Es-Dur op. 78
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -165,8 +165,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Streicher (Violine I, Violine II, Viola, Violoncello, Kontrabass); Blechbläser (Horn I, Horn II); Holzbläser (Klarinette I, Klarinette II); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Huber, H.
-  titelwerk: Requiem mit Libera c-moll op. 21
+  composer: Huber, H.
+  title: Requiem mit Libera c-moll op. 21
   tonart: 2
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -176,8 +176,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Blechbläser (Trompete I, Trompete II, Althorn, Horn II, Bombardon); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Bruckner, A.
-  titelwerk: 6 Tantum ergo As-Dur
+  composer: Bruckner, A.
+  title: 6 Tantum ergo As-Dur
   tonart: 17
   titelliedtextja: 0
   veraenderung: Violinstimmen hinzugefügt
@@ -187,8 +187,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Gruber, J.
-  titelwerk: Missa pro defunctis Es-Dur op. 80
+  composer: Gruber, J.
+  title: Missa pro defunctis Es-Dur op. 80
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -198,8 +198,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Siebzehnriegel, F. X.
-  titelwerk: Messe zu Ehren der liebreichen Mutter Es-Dur op. 4
+  composer: Siebzehnriegel, F. X.
+  title: Messe zu Ehren der liebreichen Mutter Es-Dur op. 4
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -209,8 +209,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Mitterer, I.
-  titelwerk: Missa pro defunctis As-Dur
+  composer: Mitterer, I.
+  title: Missa pro defunctis As-Dur
   tonart: 17
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -220,8 +220,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Gloger, J.
-  titelwerk: Requiem (Missa IV) d-moll op. 27
+  composer: Gloger, J.
+  title: Requiem (Missa IV) d-moll op. 27
   tonart: 6
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -231,8 +231,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Ett, C.
-  titelwerk: Missa pro defunctis Es-Dur
+  composer: Ett, C.
+  title: Missa pro defunctis Es-Dur
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -242,8 +242,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
   liedtext:
 -
-  komponisten_idtext: Gruber, J.
-  titelwerk: Requiem in c-moll op. 114
+  composer: Gruber, J.
+  title: Requiem in c-moll op. 114
   tonart: 2
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -253,8 +253,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Mitterer, I.
-  titelwerk: Festoffertorien C-Dur op. 89
+  composer: Mitterer, I.
+  title: Festoffertorien C-Dur op. 89
   tonart: 1
   titelliedtextja: 0
   veraenderung: Streichquintett hinzugefügt
@@ -264,8 +264,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Goller, V.
-  titelwerk: 12 Pange lingua B-Dur op. 5
+  composer: Goller, V.
+  title: 12 Pange lingua B-Dur op. 5
   tonart: 21
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -275,8 +275,8 @@
   bes_grup_u_inst2:
   liedtext:
 -
-  komponisten_idtext: Hämel, A.
-  titelwerk: Marienlied „Ein Bildnis ist mir ins Herz gegraben“ F-Dur op. 88
+  composer: Hämel, A.
+  title: Marienlied „Ein Bildnis ist mir ins Herz gegraben“ F-Dur op. 88
   tonart: 11
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -286,8 +286,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Frauenchor (Sopran I, Sopran II, Alt I)
   liedtext: Ein Bildnis ist mir ins Herz gegraben
 -
-  komponisten_idtext: Deschermeier, J.
-  titelwerk: Missa de Requiem Es-Dur op. 90
+  composer: Deschermeier, J.
+  title: Missa de Requiem Es-Dur op. 90
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -297,8 +297,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext:
 -
-  komponisten_idtext: Goller, V.
-  titelwerk: Offertorium „Terra tremuit“ B-Dur op. 22 Nr. 23
+  composer: Goller, V.
+  title: Offertorium „Terra tremuit“ B-Dur op. 22 Nr. 23
   tonart: 21
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -308,8 +308,8 @@
   bes_grup_u_inst2:
   liedtext: Terra tremuit
 -
-  komponisten_idtext: Goller, V.
-  titelwerk: Offertorium „Tui sunt coeli“ C-Dur op. 21 Nr. 8
+  composer: Goller, V.
+  title: Offertorium „Tui sunt coeli“ C-Dur op. 21 Nr. 8
   tonart: 1
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -319,8 +319,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass); Orgel (mit Pedal)
   liedtext: Tui sunt coeli
 -
-  komponisten_idtext: Schubert, F.
-  titelwerk: Deutsche Messe Es-Dur
+  composer: Schubert, F.
+  title: Deutsche Messe Es-Dur
   tonart: 7
   titelliedtextja: 0
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -330,8 +330,8 @@
   bes_grup_u_inst2:
   liedtext:
 -
-  komponisten_idtext: Schächtl, G.
-  titelwerk: Marienlied „Maria, lilienreine!“ As-Dur op. 2
+  composer: Schächtl, G.
+  title: Marienlied „Maria, lilienreine!“ As-Dur op. 2
   tonart: 17
   titelliedtextja: 1
   veraenderung: für 4-st. gem. Chor arrangiert
@@ -341,8 +341,8 @@
   bes_grup_u_inst2:
   liedtext: Maria, lilienreine!
 -
-  komponisten_idtext: Seitz, F.
-  titelwerk: 3 Grabgesänge für gefallene Krieger F-Dur op. 28
+  composer: Seitz, F.
+  title: 3 Grabgesänge für gefallene Krieger F-Dur op. 28
   tonart: 11
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -352,8 +352,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
   liedtext:
 -
-  komponisten_idtext: Tresch, J. B.
-  titelwerk: Am Grabe eines Kriegers Es-Dur
+  composer: Tresch, J. B.
+  title: Am Grabe eines Kriegers Es-Dur
   tonart: 7
   titelliedtextja: 0
   veraenderung: für 4-st. gem. Chor arrangiert, Bläserquartett hinzugefügt
@@ -365,8 +365,8 @@
     Steig auf mein Geist zum Sternenzelt,<br>
     wo keiner mehr im Kriege fällt.
 -
-  komponisten_idtext: Kindsmüller, K.
-  titelwerk: Trauerlied für gefallene Helden F-Dur op. 70
+  composer: Kindsmüller, K.
+  title: Trauerlied für gefallene Helden F-Dur op. 70
   tonart: 11
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -378,8 +378,8 @@
     Du zogest für die Heimat ins Feindesland hinaus,<br>
     das Unrecht abzuwehren, zu schützen Heim und Haus.
 -
-  komponisten_idtext: Schröder, F.
-  titelwerk: Zum Gedächtnis unserer gefallenen Krieger Es-Dur
+  composer: Schröder, F.
+  title: Zum Gedächtnis unserer gefallenen Krieger Es-Dur
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -393,8 +393,8 @@
     Du zogest für die Heimat in Feindesland hinaus,<br>
     das Unrecht abzuwehren, zu schützen Heim und Haus.
 -
-  komponisten_idtext: Donderer, O.
-  titelwerk: Grablied am Grabe eines Helden Es-Dur op. 1
+  composer: Donderer, O.
+  title: Grablied am Grabe eines Helden Es-Dur op. 1
   tonart: 7
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -407,8 +407,8 @@
     von seinen Engeln treu geleitet,<br>
     der ist der höchsten Ehrenwert.
 -
-  komponisten_idtext: Schnabel, J.
-  titelwerk: "&quot;Herr, unser Gott“ C-Dur"
+  composer: Schnabel, J.
+  title: "&quot;Herr, unser Gott“ C-Dur"
   tonart: 1
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -420,8 +420,8 @@
     Herr, unser Gott,<br>
     wie groß bist du.
 -
-  komponisten_idtext: Klein, B.
-  titelwerk: Psalm 123 B-Dur
+  composer: Klein, B.
+  title: Psalm 123 B-Dur
   tonart: 21
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -431,8 +431,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
   liedtext: Auf dich o Herr, vertrauet meine Seele
 -
-  komponisten_idtext: Haunschild, F.
-  titelwerk: Grablied „Treues Herz, nun ruh in Frieden“ F-Dur
+  composer: Haunschild, F.
+  title: Grablied „Treues Herz, nun ruh in Frieden“ F-Dur
   tonart: 11
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -446,8 +446,8 @@
     Treuer Vater schlaf in Frieden,<br>
     schlummere sanft in stiller Gruft.
 -
-  komponisten_idtext: Güttler, J.
-  titelwerk: Grablied Nr. 1 „Wie war so mild“ Es-Dur
+  composer: Güttler, J.
+  title: Grablied Nr. 1 „Wie war so mild“ Es-Dur
   tonart: 7
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -460,8 +460,8 @@
     war so rein,<br>
     der Lenz dir aufgegangen
 -
-  komponisten_idtext: Güttler, J.
-  titelwerk: Grablied Nr. 2 F-Dur
+  composer: Güttler, J.
+  title: Grablied Nr. 2 F-Dur
   tonart: 11
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -471,8 +471,8 @@
   bes_grup_u_inst2: gemischter Chor (Sopran, Alt, Tenor, Bass)
   liedtext:
 -
-  komponisten_idtext: Güttler, J.
-  titelwerk: Grablied Nr. 3 „Das liebe treue Mutterherz“ Es-Dur
+  composer: Güttler, J.
+  title: Grablied Nr. 3 „Das liebe treue Mutterherz“ Es-Dur
   tonart: 7
   titelliedtextja: 1
   veraenderung: Bläserquartett hinzugefügt
@@ -485,8 +485,8 @@
     schläft nun so sanf in Frieden.<br>
     Es endet zum größten Schmerz für uns so früh hinnieden.
 -
-  komponisten_idtext: Pleyer, E.
-  titelwerk: Grablied B-Dur op. 50 Nr. 5
+  composer: Pleyer, E.
+  title: Grablied B-Dur op. 50 Nr. 5
   tonart: 21
   titelliedtextja: 0
   veraenderung: Bläserquartett hinzugefügt
@@ -498,8 +498,8 @@
     Jetzt da ich ausgewungen habe des Lebens herbe Pein,<br>
     so bettet mich im tiefen Graben recht still und friedlich ein.
 -
-  komponisten_idtext: Zangl, J. G.
-  titelwerk: Herz-Jesu-Lied „O Jesus meine Liebe“ As-Dur op. 41 Nr. 2
+  composer: Zangl, J. G.
+  title: Herz-Jesu-Lied „O Jesus meine Liebe“ As-Dur op. 41 Nr. 2
   tonart: 17
   titelliedtextja: 1
   veraenderung: Orgelstimme hinzugefügt
