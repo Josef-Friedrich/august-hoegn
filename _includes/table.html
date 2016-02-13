@@ -1,3 +1,34 @@
-{% for item in include.page %}
-  {{ item[0] }}: {{ item[1] }}
+{% assign lol = 'datum' %}
+
+Troll
+
+{{ include.attributes }}
+
+{% for item in include.attributes %}
+{{ item }}
 {% endfor %}
+
+<table class="default">
+
+<tr>
+  <th>
+    Titel
+  </th>
+  <th>
+    Datum
+  </th>
+</tr>
+
+{% for item in include.data %}
+
+<tr>
+  <td>
+    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+  </td>
+  <td>
+    {{ item.[lol] }}
+  </td>
+</tr>
+
+{% endfor %}
+<table>

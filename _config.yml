@@ -41,6 +41,10 @@ defaults:
       type: "archives"
     values:
       layout: documents
+      attributes:
+        id: Dokumenten-Nummer
+        datum: Datum
+        find_spot: Fundort
   -
     scope:
       path: ""

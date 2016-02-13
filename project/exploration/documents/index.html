@@ -2,27 +2,5 @@
 title: Dokumente
 ---
 
-<table class="default">
+{% include table.html data=site.archives %}
 
-<tr>
-  <th>
-    Titel
-  </th>
-  <th>
-    Datum
-  </th>
-</tr>
-
-{% for item in site.archives %}
-
-<tr>
-  <td>
-    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-  </td>
-  <td>
-    {{ item.datum }}
-  </td>
-</tr>
-
-{% endfor %}
-<table>
