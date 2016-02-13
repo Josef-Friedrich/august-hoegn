@@ -5,6 +5,6 @@ docker run --rm \
 	--name jekyll \
 	--volume=$(pwd):/srv/jekyll \
 	-it -p 4000:4000 \
-	jekyll/jekyll:3.0.2 \
+	jekyll/jekyll:latest \
 	jekyll serve --baseurl ''
 
