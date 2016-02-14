@@ -7,6 +7,8 @@ layout: site
 
 {% include h2.html text=title %}
 
+{% include info.html page=page %}
+
 {% if page.wikicommon_file %}
   <h2>Wikicommons</h2>
   <a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommons_file }}">{{ page.wikicommons_file }}</a>

@@ -75,14 +75,34 @@ defaults:
 attributes:
   archives:
     id: Nummer
+    title: Titel
     datum: Datum
+    topic: Thema
+    field_1: Feld 1
+    field_2: Feld 2
     find_spot: Fundort
+  compositions:
+    id: Nummer
+    short: Kürzel
+    title: Titel
+    imslp_project: IMSLP-Projekt
+    wikicommons_file: Wikicommons-Datei
+    opus: Opus
+    find_spot: Fundort
+    instrumentation_groups: Besetzung (Gruppen)
+    instrumentation: Besetzung
+    lyrics: Liedtext
   correspondence:
     id: Nummer
     title: Betreff
     date: Datum
     sender: Absender
     recipient: Empfänger
+  historical_works:
+    title: Titel
+    wikicommon_file: Wikicommon
+    github_tex: Github
+    short: Kürzel
   interviews:
     id: Nummer
     title: Titel
@@ -94,11 +114,13 @@ attributes:
     location: Ort
     datum: Datum
     duration: Dauer
-
+  photos:
+    title: Titel
+    file: Dateiname
+    wikicommon_file: Wikicommon
 
 exclude:
 - "*.php"
-- README.md
 
 categories:
   - project

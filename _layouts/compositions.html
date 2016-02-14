@@ -6,26 +6,7 @@ layout: site
 
 <h2>Informationen zur Komposition</h2>
 
-<table>
-{% if page.opus %}
-  <tr>
-    <td>Opus-Nummer:</td>
-    <td>{{ page.opus }}</td>
-  </tr>
-{% endif %}
-  <tr>
-    <td>Fundort</td>
-    <td>{{ page.find_spot }}</td>
-  </tr>
-  <tr>
-    <td>Besetzung:</td>
-    <td>{{ page.instrumentation }}</td>
-  </tr>
-  <tr>
-    <td>Besetzung (Gruppen):</td>
-    <td>{{ page.instrumentation_groups }}</td>
-  </tr>
-</table>
+{% include info.html page=page %}
 
 <a href="{{ site.baseurl }}/works/compositions/{{ page.short }}/manuscript.pdf">Manuskript</a>
 

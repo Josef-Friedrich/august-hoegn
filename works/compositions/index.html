@@ -2,10 +2,4 @@
 title: Kompositionen
 ---
 
-{% for item in site.compositions %}
-
-<a href="{{ item.url }}">
-	<h2>{{ item.title }}</h2>
-</a>
-
-{% endfor %}
+{% include table.html collection='compositions' attributes='instrumentation_groups' %}
