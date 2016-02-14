@@ -1,0 +1,12 @@
+---
+title: rezipierte Werke
+---
+
+<table>
+{% for item in site.data.receptions %}
+<tr>
+  <td>{{ item.title }}</td>
+  <td>{{ item.composer }}</td>
+</tr>
+{% endfor %}
+</table>

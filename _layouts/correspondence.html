@@ -2,12 +2,6 @@
 layout: site
 ---
 
-Betreff: {{ page.title }} <br>
-
-Datum: {{ page.date }} <br>
-
-Absender: {{ page.sender }} <br>
-
-Empfänger: {{ page.recipient }} <br>
+{% include info.html page=page %}
 
 {{ content }}

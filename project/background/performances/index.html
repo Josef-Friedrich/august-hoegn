@@ -16,10 +16,10 @@ while ($row  =  mysql_fetch_array($result))
 	{
 	echo "<h2>$row[titel]</h2>";
 	echo "<p>";
-	if (!empty ($row[ort]))echo "<b>Ort:</b>&nbsp;$row[ort]<br>\n";
-	if (!empty ($row[anlass]))echo "<b>Anlass:</b>&nbsp;$row[anlass]\n";
-	if (!empty ($row[ausfuehrende]))echo "<br><b>Ausf&uuml;hrende:</b>&nbsp;$row[ausfuehrende]<br>\n";
-	if (!empty ($row[bemerkung])) echo "<b>Bemerkung:</b>&nbsp;$row[bemerkung]\n";
+	if (!empty ($row[ort]))echo "<b>Ort:</b> $row[ort]<br>\n";
+	if (!empty ($row[anlass]))echo "<b>Anlass:</b> $row[anlass]\n";
+	if (!empty ($row[ausfuehrende]))echo "<br><b>Ausführende:</b> $row[ausfuehrende]<br>\n";
+	if (!empty ($row[bemerkung])) echo "<b>Bemerkung:</b> $row[bemerkung]\n";
 	echo "</p>";
 	echo "<hr>\n";
 	}

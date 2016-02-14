@@ -11,6 +11,22 @@ To compile the Jekyll based website install docker and run:
 
 ```
 
+# Collections
+
+* archives (Dokumente)
+* compostions (Kompositionen)
+* correspondence (Korrespondenz)
+* historical_works (Heimatkundliche Werke)
+* interviews (Interviews)
+* photos (Fotos)
+
+# Data files
+
+* arrangements (Arrangements)
+* guestbook (Gästebuch)
+* receptions (Rezepierte Werke)
+* thanks (Dank)
+
 # Folder structure
 
 ```

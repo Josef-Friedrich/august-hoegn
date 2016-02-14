@@ -4,10 +4,4 @@ title: Fotos
 
 Auf dieser Seite finden sich alle Fotos in der höchsten Auflösung.
 
-{% for item in site.photos %}
-
-<a href="{{ item.url }}">
-  <h2>{{ item.file }}</h2>
-</a>
-
-{% endfor %}
+{% include table.html collection='photos' attributes='file' %}

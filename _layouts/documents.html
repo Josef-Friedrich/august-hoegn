@@ -2,6 +2,8 @@
 layout: site
 ---
 
-{% include info.html page=page attributes="id|datum|find_spot" %}
+{% include info.html page=page %}
+
+<a href="{{ site.baseurl }}/project/exploration/documents/files/{{ page.id }}.pdf">Das Dokument herunterladen</a>
 
 {{ content }}
