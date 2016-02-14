@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1328209200
-ModificationTime: 1455483005
+ModificationTime: 1455484031
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -58,12 +58,13 @@ OS2UnicodeRanges: 00000000.00000000.00000000.00000000
 DEI: 91125
 LangName: 1033 "" "" "" "pyrs: CustomIconFontHoegn: 2012" "" "Version 4.4.1 2015" "" "Please refer to the Copyright section for the font trademark attribution notices." "Fort Awesome" "Dave Gandy" "" "http://august-hoegn.tk" "" "" "http://august-hoegn.tk/license/"
 Encoding: ISO8859-1
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 28 17
+WinInfo: 0 8 2
 BeginPrivate: 3
 BlueValues 17 [-27 0 1344 1371]
 StdVW 5 [128]
