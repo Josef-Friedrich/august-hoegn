@@ -6,4 +6,10 @@ layout: site
 
 <img src="{{ site.baseurl }}/project/exploration/interviews/files/{{ page.short }}/preview_height450.jpg">
 
+{% if page.wikicommon_file %}
+<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wikimedia Commons ({{ page.wikicommon_file }}) </a>
+{% endif %}
+
+<audio></audio>
+
 {{ content }}

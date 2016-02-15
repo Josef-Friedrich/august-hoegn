@@ -1,6 +1,6 @@
 baseurl: /august-hoegn
 encoding: utf-8
-incremental: true
+incremental: false
 
 collections:
   archives:
@@ -114,6 +114,7 @@ attributes:
     location: Ort
     datum: Datum
     duration: Dauer
+    wikicommon_file: Wikicommons-Datei
   photos:
     title: Titel
     file: Dateiname
