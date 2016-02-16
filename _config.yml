@@ -115,6 +115,7 @@ attributes:
     datum: Datum
     duration: Dauer
     wikicommon_file: Wikicommons-Datei
+    recorded: aufgenommen
   photos:
     title: Titel
     file: Dateiname

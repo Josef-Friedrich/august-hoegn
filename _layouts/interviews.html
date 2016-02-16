@@ -2,14 +2,28 @@
 layout: site
 ---
 
+{% capture url %}{{ site.baseurl }}/project/exploration/interviews/files/{{ page.short }}{% endcapture%}
+
 {% include info.html page=page %}
 
-<img src="{{ site.baseurl }}/project/exploration/interviews/files/{{ page.short }}/preview_height450.jpg">
+<img src="{{ url }}/preview_height450.jpg">
 
 {% if page.wikicommon_file %}
-<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wikimedia Commons ({{ page.wikicommon_file }}) </a>
+<p>
+<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wikimedia Commons ({{ page.wikicommon_file }})</a>
+</p>
 {% endif %}
 
-<audio></audio>
+{% if page.recorded %}
+<p>
+<audio controls>
+  <source src="{{ url }}/interview.m4a" type="audio/mp4">
+</audio>
+</p>
+
+<p>
+Download Audio-Datei: <a href="{{ url }}/interview.m4a">interview.m4a</a>
+</p>
+{% endif %}
 
 {{ content }}
