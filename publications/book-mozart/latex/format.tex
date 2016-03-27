@@ -1,0 +1,43 @@
+% URW Palladio -> Palatino
+% osf -> selects Palatino with smallcaps and default oldstyle figures
+\usepackage[osf]{mathpazo}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{verse}
+\usepackage{graphicx}
+% for environment subfigure
+\usepackage{subcaption}
+\usepackage{multicol}
+% for compactitem environment in interviews.
+\usepackage{paralist}
+
+\usepackage[
+  pdfauthor={Josef Friedrich},
+  pdftitle={Der Mozart von Ruhmannsfelden},
+  pdfsubject={Leben und Werk des Schulrektors, Heimatforschers und Komponisten August Högn (1878-1961)},
+]{hyperref}
+
+% To avoid error Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+\usepackage{csquotes}
+\usepackage[backend=biber]{biblatex}
+\bibliography{biblatex}
+
+\newcommand{\zitat}[1]{\textit{#1}}
+\newcommand{\img}[2][width=\linewidth]{%
+  \noindent%
+  \includegraphics[#1]{graphics/#2}%
+}
+
+\newcommand{\dank}[2]{%
+  #1
+  \dotfill
+  {
+    \itshape
+    \footnotesize
+    #2
+  }
+  \newline
+}
+
+\renewcommand{\labelitemi}{$-$}
