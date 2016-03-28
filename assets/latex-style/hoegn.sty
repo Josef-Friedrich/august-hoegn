@@ -47,7 +47,6 @@
                 \item\relax}
                {\endlist}
 
-
 %\titleformat{⟨command⟩}[⟨shape⟩]
 % {⟨format⟩}
 % {⟨label⟩}
@@ -76,4 +75,15 @@
     #2
   }
   \newline
+}
+
+\newenvironment{ersteseite}{
+\cleardoublepage
+\strut
+\vfill
+\begin{center}
+}{
+\end{center}
+\vfill
+\cleardoublepage
 }
