@@ -1,0 +1,79 @@
+\NeedsTeXFormat{LaTeX2e}[1999/12/01]
+\ProvidesPackage{hoegn}
+
+\RequirePackage{verse}
+\RequirePackage{fontspec}
+\RequirePackage[ngerman]{babel}
+\RequirePackage{color}
+\RequirePackage{array}
+\RequirePackage{supertabular}
+\RequirePackage{hhline}
+\RequirePackage{hyperref}
+% for environment subfigure
+\RequirePackage{subcaption}
+% for wrapfig environment
+\RequirePackage{wrapfig}
+\RequirePackage{graphicx}
+
+\RequirePackage[sf]{titlesec}
+\RequirePackage{longtable}
+\RequirePackage{paralist}
+
+\RequirePackage{multicol}
+
+% To avoid error Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+\RequirePackage{csquotes}
+\RequirePackage[backend=biber]{biblatex}
+\bibliography{biblatex}
+
+% URW Palladio -> Palatino
+% osf -> selects Palatino with smallcaps and default oldstyle figures
+%\RequirePackage[osf]{mathpazo}
+\RequirePackage{Alegreya}
+
+% Text styles
+\newcommand\zitat[1]{\textit{#1}}
+
+\newcommand{\img}[2][width=\linewidth]{%
+  \noindent%
+  \includegraphics[#1]{pictures/#2}%
+}
+
+\renewcommand{\labelitemi}{$-$}
+\renewcommand{\labelitemii}{$-$}
+
+\renewenvironment{quote}
+               {\list{}{\itshape\rightmargin\leftmargin}%
+                \item\relax}
+               {\endlist}
+
+
+%\titleformat{⟨command⟩}[⟨shape⟩]
+% {⟨format⟩}
+% {⟨label⟩}
+% {⟨sep⟩}
+% {⟨before-code⟩}
+% [⟨after-code⟩]
+
+\titleformat{\chapter}[display]
+  {\sffamily\bfseries\Large}
+  {\filright\Huge\thechapter}
+  {1ex}
+  {\titlerule\vspace{1ex}\filleft}
+  [\vspace{1ex}\titlerule]
+
+  \renewcommand*\descriptionlabel[1]{\hspace\labelsep
+                                \sffamily\bfseries #1}
+
+\hyphenation{Viech-tach Grund-herr-schaf-ten Ro-sen-leh-ner}
+
+\newcommand{\dank}[2]{%
+  #1
+  \dotfill
+  {
+    \itshape
+    \footnotesize
+    #2
+  }
+  \newline
+}

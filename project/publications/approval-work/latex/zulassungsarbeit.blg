@@ -1,0 +1,9 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'zulassungsarbeit.blg'
+[32] biber:290> INFO - === Mo Mär 28, 2016, 14:21:33
+[45] Biber.pm:347> INFO - Reading 'zulassungsarbeit.bcf'
+[123] Biber.pm:741> INFO - Found 0 citekeys in bib section 0
+[123] Utils.pm:147> WARN - The file 'zulassungsarbeit.bcf' does not contain any citations!
+[134] bbl.pm:519> INFO - Writing 'zulassungsarbeit.bbl' with encoding 'UTF-8'
+[134] bbl.pm:615> INFO - Output to zulassungsarbeit.bbl
+[134] Biber.pm:108> INFO - WARNINGS: 1
