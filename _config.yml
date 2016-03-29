@@ -1,6 +1,6 @@
 baseurl: /august-hoegn
 encoding: utf-8
-incremental: false
+incremental: true
 
 collections:
   archives:
