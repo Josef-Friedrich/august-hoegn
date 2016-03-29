@@ -101,7 +101,6 @@ attributes:
   historical_works:
     title: Titel
     wikicommon_file: Wikicommon
-    github_tex: Github
     short: Kürzel
   interviews:
     id: Nummer
