@@ -4,14 +4,15 @@ layout: site
 
 {% include info.html page=page %}
 
-<a href="{{ site.baseurl }}/works/historical-works/{{ page.short }}/manuscript.pdf">Manuskript</a> <br>
+<a href="{{ site.baseurl }}/works/historical-works/{{ page.short }}/manuscript.pdf">Manuskript</a>
+<br>
 
 {% if page.wikicommon_file %}
-<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a> <br>
+<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a>
+<br>
 {% endif %}
 
-{% if page.github_tex %}
-<a href="https://github.com/Josef-Friedrich/hoegn-geschichten/blob/master/{{ page.github_tex }}">TeX-Datei auf Github</a> <br>
-{% endif %}
+<a href="{{ site.baseurl }}/works/historical-works/{{ page.short }}/text.tex">TeX-Datei</a>
+<br>
 
 {{ content }}
