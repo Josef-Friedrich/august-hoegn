@@ -81,3 +81,8 @@ To compile the Jekyll based website install docker and run:
 
 * [ ] Link musescore files
 * [ ] Link recordings
+* [ ] Fill empty landing pages with content
+  * /life/
+  * /project/exploration/
+  * /project/publications/
+  * /project/background/
