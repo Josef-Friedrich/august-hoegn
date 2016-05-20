@@ -76,3 +76,8 @@ To compile the Jekyll based website install docker and run:
     │ └ contact (Kontakt)
     └ thanks (Dank)
 ```
+
+# To do:
+
+* [ ] Link musescore files
+* [ ] Link recordings
