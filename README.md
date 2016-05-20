@@ -1,5 +1,5 @@
-Website: august-hoegn.tk
-
+A Jekyll-website and a repository containing all research results about
+the German composer August Högn (1978-1961).
 
 The main location of the website is at http://august-hoegn.tk. A mirror
 of the site is located at http://josef-friedrich.github.io/august-hoegn.
@@ -86,3 +86,6 @@ To compile the Jekyll based website install docker and run:
   * /project/exploration/
   * /project/publications/
   * /project/background/
+* [ ] LaTeX conversion "Der Mozart von Ruhmannsfelden"
+* [ ] LaTeX conversion "Zulassungsarbeit"
+* [ ] Integrate "Über den Bergen" into compositions
