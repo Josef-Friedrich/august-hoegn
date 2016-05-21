@@ -89,3 +89,5 @@ To compile the Jekyll based website install docker and run:
 * [ ] LaTeX conversion "Der Mozart von Ruhmannsfelden"
 * [ ] LaTeX conversion "Zulassungsarbeit"
 * [ ] Integrate "Über den Bergen" into compositions
+* [ ] Add all photos to repository
+* [ ] Link all photos with wikicommons
