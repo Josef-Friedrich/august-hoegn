@@ -1,16 +1,19 @@
 build:
-	jekyll build
+	sudo docker run --rm \
+		--label=jekyll \
+		--name=jekyll \
+		-ti \
+		--volume="$(PWD):/srv/jekyll" \
+		jekyll/jekyll:latest \
+		jekyll build
 
 serve:
-	jekyll serve
-
-serve_docker:
-	docker run --rm \
+	sudo docker run --rm \
 		--label=jekyll \
-		--name jekyll \
-		--volume=$(pwd):/srv/jekyll \
+		--name=jekyll \
+		--volume="$(PWD):/srv/jekyll" \
 		-it -p 4000:4000 \
 		jekyll/jekyll:latest \
-		jekyll serve --baseurl ''
+		jekyll serve
 
-.PHONY: build serve serve_docker
+.PHONY: build serve
