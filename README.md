@@ -1,8 +1,8 @@
 A Jekyll-website and a repository containing all research results about
 the German composer August Högn (1978-1961).
 
-The main location of the website is at http://august-hoegn.tk. A mirror
-of the site is located at http://josef-friedrich.github.io/august-hoegn.
+The main location of the website is at https://august-hoegn.friedrich.rocks. A mirror
+of the site is located at https://josef-friedrich.github.io/august-hoegn.
 
 To compile the Jekyll based website install docker and run:
 
